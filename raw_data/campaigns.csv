@@ -1,0 +1,1103 @@
+campaign_id,client_id,campaign_name,campaign_type,platform,start_date,end_date,budget_inr,objective
+CMP00001,CL0308,Social Media Marketing - Sales / Conversions,Social Media Marketing,Meta Ads,2025-11-22,06-Sep-2026,21084,Sales / Conversions
+CMP00002,CL0098,PPC - Sales / Conversions,PPC,Google Ads,2025-12-06,2026-09-06,"₹49,308",Sales / Conversions
+CMP00003,CL0120,Local SEO / GMB - Local Footfall,Local SEO / GMB,Google My Business,2025-10-15,2026-09-06,8801,Local Footfall
+CMP00004,CL0106,SEO - Website Traffic,SEO,Organic Search (Google),2026-03-14,2026-09-06,38652,Website Traffic
+CMP00005,CL0209,PPC - Local Footfall,PPC,Google Ads,2025-08-13,2026-09-06,Rs. 77613,Local Footfall
+CMP00006,CL0244,PPC - Website Traffic,PPC,Bing Ads,2026-01-23,2026/09/06,95731,Website Traffic
+CMP00007,CL0035,Social Media Marketing - App Installs,Social Media Mktg,LinkedIn Ads,2025-01-22,2026-04-20,67455,App Installs
+CMP00008,CL0133,Social Media Marketing - Local Footfall,Social Media Marketing,YouTube Ads,2024-10-01,23-Apr-2026,48585,Local Footfall
+CMP00009,CL0005,Social Media Marketing - Local Footfall,Social Media Marketing,LinkedIn Ads,14-Jun-2025,2026-05-20,88855,Local Footfall
+CMP00010,CL0145,Local SEO / GMB - Sales / Conversions,Local SEO / GMB,Organic Search (Google),2026-02-12,06.09.2026,,Sales / Conversions
+CMP00011,CL0080,PPC - Sales / Conversions,PPC,Google Ads,2026-07-07,2026-09-06,34404,Sales / Conversions
+CMP00012,CL0108,Social Media Marketing - Local Footfall,Social Media Marketing,YouTube Ads,2025-02-23,2026-08-29,93210,Local Footfall
+CMP00013,CL0147,SEO - App Installs,SEO,Organic Search (Google),2025-09-04,2026-09-06,23850,App Installs
+CMP00014,CL0104,PPC - Local Footfall,PPC,Google Ads,2025-10-19,2026-09-03,52293,Local Footfall
+CMP00015,CL0127,Social Media Marketing - Website Traffic,social media marketing,Instagram,2025-02-17,2026-07-03,60033,Website Traffic
+CMP00016,CL0245,SEO - Local Footfall,Seo ,Organic Search (Google),2025-10-22,2026-09-06,16323,Local Footfall
+CMP00017,CL0260,Social Media Marketing - App Installs,Social Media Marketing,LinkedIn Ads,2025-06-21,2026-09-06,45949.0,App Installs
+CMP00018,CL0002,Social Media Marketing - App Installs,Social Media Marketing,Instagram,2025-08-01,2026-05-14,31540,App Installs
+CMP00019,CL0121,Content Marketing - Brand Awareness,Content Marketing,Organic Search (Google),11.06.2026,2026-09-06,29301,Brand Awareness
+CMP00020,CL0272,Social Media Marketing - Website Traffic,Social Media Marketing,Meta Ads,2024-09-24,2026-08-12,84248.0,Website Traffic
+CMP00021,CL0170,Social Media Marketing - App Installs,Social Media Marketing,Meta Ads,2025-09-03,2026-09-06,93550,App Installs
+CMP00022,CL0066,PPC - App Installs,PPC,Bing Ads,2025/06/17,2026-04-30,47583,App Installs
+CMP00023,CL0190,SEO - Local Footfall,SEO,Organic Search (Google),2025-08-10,06-Sep-2026,39520,Local Footfall
+CMP00024,CL0047,SEO - Brand Awareness,SEO,Organic Search (Google),2024-09-16,2026-09-01,36348,Brand Awareness
+CMP00025,CL0007,Social Media Marketing - Brand Awareness,Social Media Marketing,YouTube Ads,2024-10-02,2025-12-04,50285,Brand Awareness
+CMP00026,CL0203,Local SEO / GMB - Local Footfall,Local SEO / GMB,,2025-05-04,2026-09-06,21919,Local Footfall
+CMP00027,CL0165,SEO - Local Footfall,SEO,Organic Search (Google),2026-09-06,2026/01/17,59524,Local Footfall
+CMP00028,CL0243,Social Media Marketing - Brand Awareness,Social Media Marketing,Instagram,2025-11-13,2026-08-15,49445,Brand Awareness
+CMP00029,CL0111,Content Marketing - Sales / Conversions,Content Marketing,LinkedIn,2024-12-04,2025-11-20,12608,-
+CMP00030,CL0274,Content Marketing - Local Footfall,Content Marketing,LinkedIn,2025-12-18,2026-08-29,,Local Footfall
+CMP00031,CL0135,Social Media Marketing - Brand Awareness,Social Media Mktg,Meta Ads,27/07/2025,2026/07/16,94229,Brand Awareness
+CMP00032,CL0237,Social Media Marketing - App Installs,Social Media Marketing,LinkedIn Ads,2026-04-02,2026/09/06,42401,App Installs
+CMP00033,CL0033,Social Media Marketing - Lead Generation,Social Media Marketing,Meta Ads,2026-03-14,2026-09-06,57641,Lead Generation
+CMP00034,CL0032,Email Marketing - Brand Awareness,Email Marketing,Email,19/03/2025,01/27/2026,22251,Brand Awareness
+CMP00035,CL0251,SEO - App Installs,SEO,Organic Search (Google),2025-11-28,2026-09-04,37669,App Installs
+CMP00036,CL0267,Local SEO / GMB - Website Traffic,Local SEO / GMB,Google My Business,2025-05-18,2026-09-06,18586,Website Traffic
+CMP00037,CL0302,SEO - Website Traffic,Seo ,Organic Search (Google),2025-02-15,2026-09-06,56488,Website Traffic
+CMP00038,CL0104,Content Marketing - Local Footfall,Content Marketing,Organic Search (Google),2024-09-11,2026-09-02,43152,Local Footfall
+CMP00039,CL0008,SEO - Brand Awareness,SEO,Organic Search (Google),2025-03-25,2026-06-21,37829,Brand Awareness
+CMP00040,CL0314,SEO - Website Traffic,SEO,,2025/10/13,2026-07-28,22267,Website Traffic
+CMP00041,CL0193,SEO - Website Traffic,SEO,Organic Search (Google),2025-06-10,2026-07-20,34728,Website Traffic
+CMP00042,CL0080,PPC - App Installs,PPC,,2026-07-07,2026-09-06,107938,App Installs
+CMP00043,CL0245,PPC - Brand Awareness,Pay Per Click,Google Ads,2026-09-06,2025-10-22,55423,-
+CMP00044,CL0290,SEO - Website Traffic,seo,Organic Search (Google),2025-12-20,2026-09-02,39177,Website Traffic
+CMP00045,CL0092,PPC - Sales / Conversions,PPC,Google Ads,2025-09-20,2026-07-12,105646,Sales / Conversions
+CMP00046,CL0247,PPC - Website Traffic,PPC,Google Ads,2026-07-03,2026-09-06,31052,Website Traffic
+CMP00047,CL0253,Content Marketing - Local Footfall,Content Marketing,YouTube,2026-02-22,2026-09-06,32785,Local Footfall
+CMP00048,CL0161,Email Marketing - Sales / Conversions,Email Marketing,Email,20/06/2026,2026-09-06,19751,Sales / Conversions
+CMP00049,CL0203,Social Media Marketing - App Installs,social media marketing,LinkedIn Ads,2025-06-05,2026-04-14,33219,App Installs
+CMP00050,CL0087,SEO - Local Footfall,SEO,Organic Search (Google),2025-05-08,2026/09/06,39678,Local Footfall
+CMP00051,CL0298,PPC - App Installs,PPC,Google Ads,2026/02/01,2026-09-06,112223,App Installs
+CMP00052,CL0315,Email Marketing - Local Footfall,email marketing,Email,2025-06-15,2026-06-28,5885,Local Footfall
+CMP00053,CL0314,SEO - Website Traffic,SEO,Organic Search (Google),2025-03-17,2026-09-06,43983,Website Traffic
+CMP00054,CL0236,PPC - Brand Awareness,PPC,Google Ads,05.10.2024,2026-07-26,53766.0,Brand Awareness
+CMP00055,CL0014,Local SEO / GMB - Local Footfall,Local SEO / GMB,Organic Search (Google),2025-10-12,2026-09-06,16741,Local Footfall
+CMP00056,CL0118,Local SEO / GMB - Website Traffic,Local SEO / GMB,,2025-05-17,2026-06-15,22256,Website Traffic
+CMP00057,CL0143,PPC - Brand Awareness,PPC,Google Ads,2024-10-14,2026-03-20,20572,-
+CMP00058,CL0308,Social Media Marketing - Brand Awareness,Social Media Mktg,YouTube Ads,2025-11-25,2026-09-02,16427,Brand Awareness
+CMP00059,CL0176,PPC - Brand Awareness,PPC,Bing Ads,2024-09-20,2026-06-15,78055,Brand Awareness
+CMP00060,CL0172,Content Marketing - Local Footfall,Content Marketing,YouTube,2024-10-22,11/01/2026,47990,Local Footfall
+CMP00061,CL0047,SEO - Lead Generation,SEO,Organic Search (Google),04/17/2025,2026-04-18,15272,Lead Generation
+CMP00062,CL0254,SEO - App Installs,SEO,Organic Search (Google),22.03.2025,2026-04-13,50495,App Installs
+CMP00063,CL0108,Social Media Marketing - Website Traffic,Social Media Marketing,LinkedIn Ads,2024-09-06,2026-09-04,21374,unknown
+CMP00064,CL0030,PPC - Lead Generation,PPC,Bing Ads,2025-09-08,2026-08-15,83561,Lead Generation
+CMP00065,CL0317,Social Media Marketing - Website Traffic,Social Media Marketing,Instagram,2026-01-27,2026-09-06,51601.0,Website Traffic
+CMP00066,CL0061,PPC - App Installs,ppc,Google Ads,2026-04-12,2026-09-06,Rs. 80851,App Installs
+CMP00067,CL0006,Email Marketing - App Installs,Email Marketing,Email,2025-04-11,2026/07/09,6638,App Installs
+CMP00068,CL0025,Content Marketing - Website Traffic,Content Marketing,,2026-06-11,2026-09-06,40141,Website Traffic
+CMP00069,CL0145,Social Media Marketing - Sales / Conversions,Social Media Marketing,Meta Ads,2026-02-12,06/09/2026,38431,-
+CMP00070,CL0033,Content Marketing - Lead Generation,content marketing,LinkedIn,2026-03-14,2026-09-06,40842,Lead Generation
+CMP00071,CL0270,PPC - Lead Generation,PPC,Google Ads,2025-06-26,2026-07-01,105213,Lead Generation
+CMP00072,CL0164,Social Media Marketing - Sales / Conversions,Social Media Marketing,Instagram,05/22/2025,2026-09-01,61859,Sales / Conversions
+CMP00073,CL0104,SEO - Website Traffic,Seo ,Organic Search (Google),26/01/2025,2025-11-14,"₹28,887",Website Traffic
+CMP00074,CL0002,Email Marketing - Lead Generation,Email Marketing,Email,2025-01-20,2026-09-06,18045,Lead Generation
+CMP00075,CL0154,Content Marketing - Local Footfall,Content Marketing,LinkedIn,2024-09-17,2026-07-29,49905,Local Footfall
+CMP00076,CL0049,Email Marketing - Website Traffic,Email Marketing,Email,2026-07-08,2026-09-06,,Website Traffic
+CMP00077,CL0313,Email Marketing - Brand Awareness,email marketing,Email,02/14/2025,2026-01-23,23326.0,Brand Awareness
+CMP00078,CL0094,Local SEO / GMB - Local Footfall,Local SEO / GMB,,2025-01-24,2026-03-01,12833,Local Footfall
+CMP00079,CL0152,PPC - Brand Awareness,PPC,Bing Ads,2024-10-10,2026-08-25,96090,Brand Awareness
+CMP00080,CL0006,Local SEO / GMB - Local Footfall,Local SEO / GMB,Google My Business,2025-01-24,2026-09-06,"₹16,751",Local Footfall
+CMP00081,CL0042,Social Media Marketing - Brand Awareness,Social Media Marketing,Instagram,2025-11-22,06.09.2026,97190,Brand Awareness
+CMP00082,CL0067,PPC - Sales / Conversions,PPC,Bing Ads,2026-07-08,06/09/2026,143511,Sales / Conversions
+CMP00083,CL0017,Social Media Marketing - Sales / Conversions,Social Media Marketing,Instagram,2025-11-21,2026-09-06,88781,Sales / Conversions
+CMP00084,CL0233,PPC - Local Footfall,PPC,,2025-03-21,06.09.2026,41155,Local Footfall
+CMP00085,CL0303,PPC - Brand Awareness,Pay Per Click,Bing Ads,2025-01-01,2026-08-09,61456,Brand Awareness
+CMP00086,CL0316,PPC - Local Footfall,PPC,Google Ads,2024-12-23,2026-06-15,112465,Local Footfall
+CMP00087,CL0086,SEO - Sales / Conversions,SEO,Organic Search (Google),2026-01-11,2026-09-06,48731,Sales / Conversions
+CMP00088,CL0253,Social Media Marketing - Brand Awareness,Social Media Marketing,,2026-02-22,2026-09-06,44774,NA
+CMP00089,CL0162,Email Marketing - Website Traffic,Email Marketing,Email,2026/03/27,2026-09-06,7736.0,Website Traffic
+CMP00090,CL0015,Social Media Marketing - App Installs,Social Media Mktg,Instagram,2024-10-18,2026-02-25,26637,App Installs
+CMP00091,CL0030,Social Media Marketing - Sales / Conversions,Social Media Marketing,LinkedIn Ads,2025-05-19,2026-07-13,73186.0,Sales / Conversions
+CMP00092,CL0176,PPC - Lead Generation,PPC,Bing Ads,2024-10-12,23/04/2026,79042,Lead Generation
+CMP00093,CL0136,Social Media Marketing - Sales / Conversions,Social Media Marketing,YouTube Ads,2025-03-29,2026-08-23,56741,Sales / Conversions
+CMP00094,CL0003,SEO - Website Traffic,SEO,Organic Search (Google),2025-04-04,2026-02-07,51691,Website Traffic
+CMP00095,CL0298,Content Marketing - Lead Generation,Content Marketing,,2026-02-01,2026-09-06,10673,?
+CMP00096,CL0234,SEO - Lead Generation,Seo ,Organic Search (Google),2025-04-15,2026-09-06,48953,Lead Generation
+CMP00097,CL0161,Social Media Marketing - Local Footfall,Social Media Marketing,,2026-06-20,2026-09-06,38309,Local Footfall
+CMP00098,CL0316,Content Marketing - Lead Generation,Content Marketing,LinkedIn,2024-11-23,2026-08-29,47248,Lead Generation
+CMP00099,CL0311,Social Media Marketing - Sales / Conversions,Social Media Marketing,LinkedIn Ads,2025-11-20,2026-09-06,96207,Sales / Conversions
+CMP00100,CL0312,Email Marketing - App Installs,Email Marketing,Email,2024-09-18,2025-11-24,15042.0,?
+CMP00101,CL0083,PPC - Brand Awareness,PPC,Google Ads,2026-07-08,2026-09-06,61058,Brand Awareness
+CMP00102,CL0282,Email Marketing - Sales / Conversions,Email Marketing,Email,2024-11-13,06/09/2026,9663,Sales / Conversions
+CMP00103,CL0162,Content Marketing - Lead Generation,Content Marketing,Organic Search (Google),27.03.2026,2026-09-06,,Lead Generation
+CMP00104,CL0233,Content Marketing - App Installs,Content Marketing,Organic Search (Google),2025-04-17,2026-08-28,49968,App Installs
+CMP00105,CL0276,Social Media Marketing - Website Traffic,Social Media Marketing,Meta Ads,2025-07-18,2026-09-06,30940,Website Traffic
+CMP00106,CL0053,Email Marketing - Local Footfall,Email Marketing,Email,06/12/2025,2026-04-23,13931,Local Footfall
+CMP00107,CL0144,Local SEO / GMB - Local Footfall,Local SEO / GMB,Organic Search (Google),2025-05-30,2026-09-06,18542,Local Footfall
+CMP00108,CL0042,PPC - Sales / Conversions,PPC,Bing Ads,2025-11-22,06/09/2026,"₹108,293",Sales / Conversions
+CMP00109,CL0090,Content Marketing - Lead Generation,Content Marketing,YouTube,2026-04-08,2026-09-06,43705,Lead Generation
+CMP00110,CL0133,Content Marketing - Sales / Conversions,Content Marketing,YouTube,2024-11-04,2026-03-20,32319,Sales / Conversions
+CMP00111,CL9999,PPC - Lead Generation,PPC,Bing Ads,2025-12-14,2026-09-06,118540,Lead Generation
+CMP00112,CL0277,Local SEO / GMB - Website Traffic,Local SEO / GMB,Google My Business,2025-01-08,2026-01-09,20467,Website Traffic
+CMP00113,CL0125,PPC - Lead Generation,Pay Per Click,Google Ads,2025-01-20,2026-02-01,76790,-
+CMP00114,CL0106,Social Media Marketing - Local Footfall,Social Media Marketing,LinkedIn Ads,2026-03-14,2026-09-06,28408,Local Footfall
+CMP00115,CL0170,SEO - Website Traffic,SEO,,2025-10-30,2026-08-15,24392,Website Traffic
+CMP00116,CL0292,PPC - Brand Awareness,PPC,Google Ads,2025-05-19,24-Aug-2026,76214,Brand Awareness
+CMP00117,CL0313,Email Marketing - Local Footfall,Email Marketing,Email,27-May-2025,2026-04-29,5921,Local Footfall
+CMP00118,CL0073,PPC - App Installs,PPC,,2025-04-10,2026-03-12,61127,App Installs
+CMP00119,CL0060,PPC - Sales / Conversions,PPC,Bing Ads,2025-10-24,2026-09-06,80141,Sales / Conversions
+CMP00120,CL0227,PPC - Lead Generation,PPC,Bing Ads,2026-03-03,2026-09-06,81442,Lead Generation
+CMP00121,CL0097,Social Media Marketing - Sales / Conversions,Social Media Marketing,Meta Ads,2025-01-22,2026-08-09,84255,Sales / Conversions
+CMP00122,CL0064,Content Marketing - Website Traffic,Content Marketing,Organic Search (Google),2025-07-26,2026-09-01,48706,N/A
+CMP00123,CL0010,Email Marketing - App Installs,Email Marketing,Email,2025-04-11,2026-03-15,Rs. 19593,App Installs
+CMP00124,CL0130,SEO - Brand Awareness,SEO,Organic Search (Google),2026-06-08,2026-09-06,18579,Brand Awareness
+CMP00125,CL0126,Social Media Marketing - App Installs,Social Media Marketing,Instagram,2025-07-18,2026-09-06,49731.0,App Installs
+CMP00126,CL0181,Social Media Marketing - Brand Awareness,Social Media Marketing,YouTube Ads,06/09/2026,2025-12-05,77042,Brand Awareness
+CMP00127,CL0065,Social Media Marketing - Brand Awareness,Social Media Marketing,LinkedIn Ads,2026-03-10,2026-09-06,65549,Brand Awareness
+CMP00128,CL0229,PPC - Sales / Conversions,PPC,Bing Ads,2025-10-01,2026-09-06,79511,Sales / Conversions
+CMP00129,CL0218,PPC - Lead Generation,PPC,Bing Ads,2024-10-23,2026-07-19,76712,Lead Generation
+CMP00130,CL0148,Social Media Marketing - Sales / Conversions,Social Media Marketing,Instagram,04/10/2025,2026-09-06,49506.0,Sales / Conversions
+CMP00131,CL0059,Social Media Marketing - Sales / Conversions,Social Media Marketing,LinkedIn Ads,2024-12-02,2026-07-31,Rs. 64216,Sales / Conversions
+CMP00132,CL0163,Social Media Marketing - Brand Awareness,Social Media Marketing,Meta Ads,02/05/2025,2026-09-06,30196,Brand Awareness
+CMP00133,CL0216,Social Media Marketing - App Installs,Social Media Marketing,Meta Ads,2025-09-13,06.08.2026,58987.0,App Installs
+CMP00134,CL0120,Content Marketing - Brand Awareness,Content Marketing,LinkedIn,2025-10-15,2026-09-06,18234,Brand Awareness
+CMP00135,CL0085,Content Marketing - App Installs,Content Marketing,YouTube,11/20/2025,2026-09-06,"37,238",App Installs
+CMP00136,CL0163,PPC - App Installs,PPC ,Google Ads,2025-03-13,2026-01-14,,App Installs
+CMP00137,CL0114,Content Marketing - Website Traffic,Content Marketing,YouTube,2024-12-05,2026-08-26,30308,Website Traffic
+CMP00138,CL0129,Email Marketing - Brand Awareness,Email Marketing,Email,2025-05-19,2026-06-08,12751,Brand Awareness
+CMP00139,CL0112,SEO - App Installs,SEO,Organic Search (Google),2026-04-06,2026-09-06,57327,App Installs
+CMP00140,CL0098,Social Media Marketing - Brand Awareness,social media marketing,Meta Ads,06/12/2025,06.09.2026,"₹71,073",Brand Awareness
+CMP00141,CL0230,PPC - Brand Awareness,PPC,,2025-12-27,2026-09-06,Rs. 75643,Brand Awareness
+CMP00142,CL0148,Content Marketing - Local Footfall,Content Marketing,LinkedIn,2025-10-04,06/09/2026,11151.0,Local Footfall
+CMP00143,CL0150,PPC - Sales / Conversions,PPC,Google Ads,2025-09-29,2026-09-01,22069,Sales / Conversions
+CMP00144,CL0209,Social Media Marketing - App Installs,Social Media Marketing,Instagram,2025-08-13,2026-09-06,33826,App Installs
+CMP00145,CL0116,PPC - Lead Generation,PPC,Google Ads,2026-02-28,2026-09-06,50728,NA
+CMP00146,CL0033,Social Media Marketing - Website Traffic,SMM,Instagram,2026-03-14,2026-09-06,76318,Website Traffic
+CMP00147,CL0273,Local SEO / GMB - Local Footfall,Local SEO / GMB,Google My Business,2026-05-06,2026-09-06,19013,Local Footfall
+CMP00148,CL0018,PPC - App Installs,PPC,Google Ads,2025-07-02,2026-09-06,149994,App Installs
+CMP00149,CL0184,Email Marketing - Website Traffic,Email Marketing,Email,2025-11-29,2026-09-06,"₹15,811",Website Traffic
+CMP00150,CL0086,Local SEO / GMB - Local Footfall,Local SEO / GMB,Google My Business,2026-01-11,2026-09-06,27868,Local Footfall
+CMP00151,CL0069,Email Marketing - Brand Awareness,Email Marketing,Email,2026-03-21,2026-09-06,16047,Brand Awareness
+CMP00152,CL0014,SEO - Sales / Conversions,SEO,,2025-12-05,2026-08-25,31118,Sales / Conversions
+CMP00153,CL0289,Content Marketing - Lead Generation,Content Marketing,LinkedIn,2026-04-25,2026-09-06,38582,Lead Generation
+CMP00154,CL0138,SEO - App Installs,SEO,Organic Search (Google),2025-03-18,2026-06-21,35224,App Installs
+CMP00155,CL0110,PPC - App Installs,PPC,Bing Ads,2025-03-22,24-Jun-2026,55704,App Installs
+CMP00156,CL0238,Email Marketing - App Installs,Email Mktg,Email,2026-01-17,2026-09-06,14464,App Installs
+CMP00157,CL0013,Social Media Marketing - App Installs,Social Media Marketing,Instagram,2026-07-01,06-Sep-2026,71516,App Installs
+CMP00158,CL0181,Social Media Marketing - Lead Generation,Social Media Marketing,YouTube Ads,2025-12-05,2026-09-06,46922,-
+CMP00159,CL0159,PPC - Website Traffic,PPC,Google Ads,09/04/2025,19-Jul-2026,111524,Website Traffic
+CMP00160,CL0178,Content Marketing - App Installs,Content Marketing,LinkedIn,2026-02-19,2026-09-06,49228,App Installs
+CMP00161,CL0040,Social Media Marketing - Brand Awareness,Social Media Marketing,Instagram,2026-04-15,2026/09/06,49958,Brand Awareness
+CMP00162,CL0305,Social Media Marketing - Sales / Conversions,Social Media Marketing,LinkedIn Ads,2025-02-20,2026-03-08,40094,Sales / Conversions
+CMP00163,CL0077,Email Marketing - Local Footfall,Email Marketing,Email,2025-07-03,2026-09-06,13043,Local Footfall
+CMP00164,CL0218,PPC - Sales / Conversions,PPC,Google Ads,17-Jan-2025,14-Nov-2025,"128,974",unknown
+CMP00165,CL0240,SEO - App Installs,SEO,Organic Search (Google),2025-03-02,2026-06-20,23051,App Installs
+CMP00166,CL0111,Social Media Marketing - Website Traffic,Social Media Marketing,YouTube Ads,2024-10-29,2026-09-02,,Website Traffic
+CMP00167,CL0042,Local SEO / GMB - Website Traffic,Local SEO/GMB,Google My Business,2025-11-22,2026-09-06,17107,Website Traffic
+CMP00168,CL0095,PPC - Website Traffic,PPC,Bing Ads,2025/02/18,2026-07-12,,unknown
+CMP00169,CL0259,PPC - Website Traffic,PPC,Google Ads,06/09/2026,2025-04-18,122286,?
+CMP00170,CL0291,SEO - App Installs,SEO,,2026-01-08,06/09/2026,,App Installs
+CMP00171,CL0300,Email Marketing - Local Footfall,Email Marketing,Email,2026-02-13,2026-09-06,23179,Local Footfall
+CMP00172,CL0073,PPC - Brand Awareness,PPC,Bing Ads,04/10/2024,2026-04-30,44030,Brand Awareness
+CMP00173,CL0195,Social Media Marketing - Local Footfall,Social Media Marketing,Meta Ads,2025-05-31,2026-09-06,,Local Footfall
+CMP00174,CL0000,Local SEO / GMB - Website Traffic,Local SEO / GMB,Organic Search (Google),2026-07-08,2026-09-06,10178,Website Traffic
+CMP00175,CL0228,SEO - Website Traffic,SEO,Organic Search (Google),2025-12-03,09/06/2026,Rs. 28471,Website Traffic
+CMP00176,CL0134,Social Media Marketing - Brand Awareness,Social Media Marketing,Instagram,2024-11-10,2026-07-20,18449,Brand Awareness
+CMP00177,CL0229,Social Media Marketing - Sales / Conversions,Social Media Marketing,LinkedIn Ads,2025/10/01,2026-09-06,72994,Sales / Conversions
+CMP00178,CL0220,Content Marketing - Website Traffic,Content Mktg,LinkedIn,2025-05-21,2026-08-24,34309,Website Traffic
+CMP00179,CL0318,PPC - Sales / Conversions,PPC,Bing Ads,20.08.2025,2026-07-08,116219,Sales / Conversions
+CMP00180,CL0157,PPC - Brand Awareness,PPC,Google Ads,01/20/2025,2026-01-01,42909,Brand Awareness
+CMP00181,CL0110,SEO - App Installs,SEO,Organic Search (Google),2025-05-27,2026-05-15,29949,App Installs
+CMP00182,CL0169,Content Marketing - Sales / Conversions,Content Marketing,Organic Search (Google),2025-05-18,2026-04-04,"₹37,053",Sales / Conversions
+CMP00183,CL0053,Content Marketing - Website Traffic,Content Marketing,,2025-04-14,2026-05-29,43061,Website Traffic
+CMP00184,CL0036,SEO - Lead Generation,SEO,Organic Search (Google),2025-12-05,06/09/2026,54855,Lead Generation
+CMP00185,CL0167,PPC - Lead Generation,PPC,Bing Ads,2025-06-28,2026-09-06,29580,Lead Generation
+CMP00186,CL0265,Email Marketing - Local Footfall,Email Marketing,Email,2024-11-24,2026-02-28,13050,Local Footfall
+CMP00187,CL0171,SEO - Lead Generation,SEO,Organic Search (Google),2025-02-18,05.08.2026,15483,Lead Generation
+CMP00188,CL0251,PPC - App Installs,PPC,Bing Ads,2025-04-30,2026-08-04,126407,App Installs
+CMP00189,CL0057,Social Media Marketing - Local Footfall,Social Media Marketing,Instagram,2026-07-06,2026-09-06,25452,Local Footfall
+CMP00190,CL0144,PPC - Sales / Conversions,PPC,Bing Ads,2025-06-20,2026-07-22,126879,Sales / Conversions
+CMP00191,CL0197,PPC - Local Footfall,PPC,Google Ads,2025-03-29,2026-09-06,40281,Local Footfall
+CMP00192,CL0112,Social Media Marketing - Sales / Conversions,Social Media Marketing,LinkedIn Ads,2026-04-06,2026-09-06,16306,Sales / Conversions
+CMP00193,CL0005,SEO - Local Footfall,SEO,,2025-11-07,29/08/2026,54551.0,Local Footfall
+CMP00194,CL0024,Social Media Marketing - Brand Awareness,Social Media Marketing,Instagram,2024-12-10,2026-07-25,52299,Brand Awareness
+CMP00195,CL0297,Social Media Marketing - Sales / Conversions,Social Media Marketing,Meta Ads,2025-01-18,2026-09-06,51123,Sales / Conversions
+CMP00196,CL0194,Social Media Marketing - Sales / Conversions,Social Media Marketing,Instagram,2025-03-06,2026-08-21,69972,Sales / Conversions
+CMP00197,CL0085,SEO - App Installs,SEO,Organic Search (Google),2025-11-20,2026-09-06,27371,App Installs
+CMP00198,CL0083,Email Marketing - Lead Generation,Email Mktg,Email,2026-07-08,2026-09-06,18815,Lead Generation
+CMP00199,CL0013,SEO - App Installs,SEO,Organic Search (Google),2026-07-01,2026-09-06,34308,App Installs
+CMP00200,CL0303,Content Marketing - Lead Generation,Content Marketing,YouTube,2025-04-18,2026-05-27,20906,Lead Generation
+CMP00201,CL0035,PPC - Brand Awareness,ppc,Google Ads,2024-11-18,2026-08-28,71329,Brand Awareness
+CMP00202,CL0244,Content Marketing - Website Traffic,content marketing,Organic Search (Google),2026-01-23,2026-09-06,10245,Website Traffic
+CMP00203,CL0077,SEO - Lead Generation,Seo ,Organic Search (Google),2025-07-03,2026-09-06,"₹28,565",Lead Generation
+CMP00204,CL0108,SEO - Sales / Conversions,SEO,Organic Search (Google),2024-11-26,2026-03-31,41615,Sales / Conversions
+CMP00205,CL0088,Social Media Marketing - Local Footfall,Social Media Marketing,Instagram,15-Apr-2025,2026-09-06,"₹26,721",Local Footfall
+CMP00206,CL0264,SEO - App Installs,SEO,Organic Search (Google),2025-03-05,04/12/2026,"₹20,334",App Installs
+CMP00207,CL0011,PPC - Lead Generation,PPC,,2026-07-08,2026-09-06,105269,Lead Generation
+CMP00208,CL0113,Content Marketing - Website Traffic,Content Marketing,LinkedIn,2024-11-15,2026-05-02,27129,?
+CMP00209,CL0090,Content Marketing - Website Traffic,Content Marketing,,2026-04-08,2026-09-06,15464.0,Website Traffic
+CMP00210,CL0088,SEO - Lead Generation,SEO,Organic Search (Google),2025-04-15,2026-09-06,48652,Lead Generation
+CMP00211,CL0062,Email Marketing - Website Traffic,Email Marketing,Email,2025-02-24,2026-04-02,20508,Website Traffic
+CMP00212,CL0292,Content Marketing - Website Traffic,Content Marketing,Organic Search (Google),2025-02-27,2026-06-24,11390,Website Traffic
+CMP00213,CL0122,Email Marketing - App Installs,email marketing,Email,2026-04-15,2026-09-06,Rs. 9033,App Installs
+CMP00214,CL0134,Social Media Marketing - Brand Awareness,Social Media Marketing,LinkedIn Ads,2025-02-27,2026-07-25,46479,Brand Awareness
+CMP00215,CL0124,Social Media Marketing - Brand Awareness,Social Media Marketing,YouTube Ads,2025-02-25,2026-08-15,77166,Brand Awareness
+CMP00216,CL0314,Social Media Marketing - App Installs,Social Media Marketing,Instagram,2025-04-22,2026-07-10,21292,App Installs
+CMP00217,CL0109,Social Media Marketing - App Installs,Social Media Marketing,,2025-06-10,2026-09-06,83474,App Installs
+CMP00218,CL0110,Email Marketing - Lead Generation,Email Marketing,Email,2024-12-25,2026-06-22,11388,Lead Generation
+CMP00219,CL0105,SEO - Brand Awareness,Seo ,Organic Search (Google),2026-06-07,2026-09-06,20639,Brand Awareness
+CMP00220,CL0105,PPC - Website Traffic,PPC,Bing Ads,2026-06-07,2026-09-06,132238,Website Traffic
+CMP00221,CL0029,SEO - App Installs,SEO,Organic Search (Google),2024-10-21,2026-07-20,18903,App Installs
+CMP00222,CL0194,Local SEO / GMB - Brand Awareness,GMB,,2025-02-22,2026-07-26,10850,Brand Awareness
+CMP00223,CL0009,PPC - Brand Awareness,PPC,Google Ads,2025-06-23,2026-09-06,143444,Brand Awareness
+CMP00224,CL0073,Social Media Marketing - App Installs,Social Media Marketing,Meta Ads,2024-10-04,2026-08-22,59163,App Installs
+CMP00225,CL0065,Email Marketing - App Installs,Email Marketing,Email,10-Mar-2026,2026-09-06,14260,App Installs
+CMP00226,CL0094,Local SEO / GMB - Local Footfall,Local SEO / GMB,Google My Business,2024-11-11,2026-07-29,23121,Local Footfall
+CMP00227,CL0243,SEO - App Installs,SEO,,2025-11-06,2026-08-07,43360,App Installs
+CMP00228,CL0192,Content Marketing - Local Footfall,Content Marketing,LinkedIn,2025-08-23,2026-07-07,34542,Local Footfall
+CMP00229,CL0318,Email Marketing - Brand Awareness,Email Marketing,Email,2025-09-13,2026-07-28,5465,Brand Awareness
+CMP00230,CL0113,SEO - Brand Awareness,S.E.O,Organic Search (Google),2024-09-13,2025-11-02,39828,Brand Awareness
+CMP00231,CL0298,Content Marketing - Brand Awareness,Content Marketing,LinkedIn,2026-02-01,2026-09-06,21148,Brand Awareness
+CMP00232,CL0015,PPC - Lead Generation,PPC,Bing Ads,2024-09-24,2026-01-28,"124,997",Lead Generation
+CMP00233,CL0162,Social Media Marketing - App Installs,Social Media Marketing,YouTube Ads,2026-03-27,2026-09-06,57958,App Installs
+CMP00234,CL0256,Social Media Marketing - Website Traffic,Social Media Marketing,,2024-11-27,03/08/2026,25520,Website Traffic
+CMP00235,CL0171,PPC - Lead Generation,PPC,Google Ads,2026-07-08,10.08.2025,135208.0,Lead Generation
+CMP00236,CL0299,SEO - Brand Awareness,SEO,Organic Search (Google),2025-05-04,2026-09-06,27792,Brand Awareness
+CMP00237,CL0101,SEO - Brand Awareness,SEO,Organic Search (Google),25/01/2026,2026-09-06,27214,Brand Awareness
+CMP00238,CL0011,SEO - Sales / Conversions,S.E.O,Organic Search (Google),08/07/2026,2026-09-06,"57,132",Sales / Conversions
+CMP00239,CL0248,Social Media Marketing - Sales / Conversions,social media marketing,YouTube Ads,2025-11-20,2026-09-06,80891,Sales / Conversions
+CMP00240,CL0022,PPC - Brand Awareness,PPC,Bing Ads,2025-02-15,2026-09-06,"₹131,737",Brand Awareness
+CMP00241,CL0245,SEO - Local Footfall,S.E.O,Organic Search (Google),2025-10-24,2026-07-17,,Local Footfall
+CMP00242,CL0235,Social Media Marketing - Brand Awareness,social media marketing,Instagram,2025-09-22,06/09/2026,92391,Brand Awareness
+CMP00243,CL0271,Social Media Marketing - Website Traffic,Social Media Marketing,Instagram,2025-12-27,2026-09-06,24798,Website Traffic
+CMP00244,CL0154,Social Media Marketing - Sales / Conversions,Social Media Marketing,YouTube Ads,2024-12-22,2026-04-14,65997.0,Sales / Conversions
+CMP00245,CL0287,Local SEO / GMB - Sales / Conversions,GMB,Google My Business,2025-06-22,2026-06-29,14454,Sales / Conversions
+CMP00246,CL0055,PPC - App Installs,PPC,Google Ads,2024-12-25,2025-09-16,,App Installs
+CMP00247,CL0139,Content Marketing - Local Footfall,Content Marketing,LinkedIn,2025-06-25,2026-09-06,19514,Local Footfall
+CMP00248,CL0039,SEO - Lead Generation,SEO,Organic Search (Google),2026-05-24,2026-09-06,24226,Lead Generation
+CMP00249,CL0246,Content Marketing - Sales / Conversions,Content Marketing,Organic Search (Google),06-Jun-2026,2026-09-06,27701,Sales / Conversions
+CMP00250,CL0229,Local SEO / GMB - Lead Generation,Local SEO / GMB,Google My Business,2025-10-23,2026-08-06,28202,Lead Generation
+CMP00251,CL0259,Email Marketing - Sales / Conversions,Email Marketing,Email,2025-04-18,2026-09-06,17706,Sales / Conversions
+CMP00252,CL0245,Social Media Marketing - Website Traffic,Social Media Marketing,YouTube Ads,2025/10/22,2026-09-06,44694,Website Traffic
+CMP00253,CL0099,Social Media Marketing - Sales / Conversions,Social Media Marketing,Instagram,2025-01-15,2026-05-16,51840,Sales / Conversions
+CMP00254,CL0022,PPC - Brand Awareness,PPC,Bing Ads,2025-04-26,2026-06-08,,Brand Awareness
+CMP00255,CL0298,Social Media Marketing - Brand Awareness,Social Media Marketing,Instagram,01.02.2026,2026-09-06,35785,Brand Awareness
+CMP00256,CL0158,Content Marketing - Brand Awareness,Content Marketing,Organic Search (Google),2025-04-26,2026-08-16,30848,Brand Awareness
+CMP00257,CL0031,Local SEO / GMB - Brand Awareness,Local SEO / GMB,Google My Business,2024-09-16,2026-02-27,23309,Brand Awareness
+CMP00258,CL0297,Social Media Marketing - Sales / Conversions,Social Media Marketing,YouTube Ads,2025-06-08,2026-02-16,35669,Sales / Conversions
+CMP00259,CL0319,SEO - App Installs,SEO,Organic Search (Google),2025-12-28,2026-09-06,41301,App Installs
+CMP00260,CL0143,Social Media Marketing - Lead Generation,Social Media Marketing,Meta Ads,2024-10-08,2025-07-02,75211,Lead Generation
+CMP00261,CL0247,SEO - Lead Generation,SEO,Organic Search (Google),2026-07-03,2026-09-06,38369,Lead Generation
+CMP00262,CL0012,PPC - Website Traffic,PPC,Bing Ads,2025-05-10,2026-08-19,57955,Website Traffic
+CMP00263,CL0030,PPC - App Installs,PPC,Google Ads,2025-06-09,2026-05-24,92074,App Installs
+CMP00264,CL0089,Content Marketing - Brand Awareness,Content Marketing,YouTube,2025-04-20,2026-09-03,41729,Brand Awareness
+CMP00265,CL0210,SEO - Brand Awareness,SEO,Organic Search (Google),2025-03-22,2026-04-10,24985,Brand Awareness
+CMP00266,CL0043,SEO - Website Traffic,SEO,Organic Search (Google),2025-02-22,2026-09-06,40860,Website Traffic
+CMP00267,CL0011,SEO - Sales / Conversions,SEO,Organic Search (Google),2026-07-08,2026-09-06,45619,Sales / Conversions
+CMP00268,CL0215,Email Marketing - App Installs,Email Marketing,Email,2024-10-23,2026-01-06,11429,App Installs
+CMP00269,CL0247,Social Media Marketing - Lead Generation,Social Media Marketing,YouTube Ads,2026-07-03,2026-09-06,"47,937",Lead Generation
+CMP00270,CL0237,SEO - Lead Generation,SEO,Organic Search (Google),2026-04-02,2026-09-06,,Lead Generation
+CMP00271,CL0256,SEO - Website Traffic,SEO,Organic Search (Google),2025-05-22,2026-05-26,31356,Website Traffic
+CMP00272,CL0257,Social Media Marketing - Sales / Conversions,Social Media Marketing,LinkedIn Ads,2025-12-21,2026-09-06,65849,Sales / Conversions
+CMP00273,CL0193,PPC - App Installs,PPC,Bing Ads,2025-06-13,2026-08-31,39465,App Installs
+CMP00274,CL0167,Social Media Marketing - Website Traffic,Social Media Marketing,Instagram,2025-06-28,2026-09-06,93708,Website Traffic
+CMP00275,CL0275,PPC - Sales / Conversions,PPC,Google Ads,2024-12-26,2026-07-06,97588,Sales / Conversions
+CMP00276,CL0112,Local SEO / GMB - Lead Generation,Local SEO / GMB,Organic Search (Google),2026-04-06,06.09.2026,,Lead Generation
+CMP00277,CL0032,PPC - Lead Generation,PPC,Google Ads,2024-09-09,2026-08-22,98346,Lead Generation
+CMP00278,CL0241,Social Media Marketing - App Installs,Social Media Marketing,Meta Ads,2025-01-14,26/08/2026,45216,App Installs
+CMP00279,CL0089,SEO - Brand Awareness,SEO,,2025-04-15,2026-09-06,30313,Brand Awareness
+CMP00280,CL0314,Local SEO / GMB - Website Traffic,Local SEO / GMB,Organic Search (Google),2025-05-05,2026-05-11,23426.0,Website Traffic
+CMP00281,CL0133,Local SEO / GMB - App Installs,Local SEO / GMB,Organic Search (Google),2024-12-23,2026-08-08,26916,App Installs
+CMP00282,CL0273,Content Marketing - Local Footfall,Content Marketing,Organic Search (Google),2026-05-06,06/09/2026,"₹15,105",Local Footfall
+CMP00283,CL0014,Social Media Marketing - Brand Awareness,social media marketing,YouTube Ads,2025/10/12,2026-09-06,86863,Brand Awareness
+CMP00284,CL0211,SEO - Lead Generation,SEO,Organic Search (Google),25-Mar-2025,2026-05-15,52350,Lead Generation
+CMP00285,CL0144,Content Marketing - App Installs,content marketing,YouTube,2025-05-30,09/06/2026,14362,App Installs
+CMP00286,CL0149,Content Marketing - App Installs,Content Marketing,Organic Search (Google),2026-04-09,2026-09-06,14326,App Installs
+CMP00287,CL0085,PPC - Brand Awareness,PPC,Bing Ads,2025-11-20,2026-09-06,,N/A
+CMP00288,CL0311,PPC - Website Traffic,PPC,Bing Ads,2025-11-20,2026-09-06,129564,Website Traffic
+CMP00289,CL0126,Social Media Marketing - Brand Awareness,Social Media Marketing,Instagram,2025-07-18,2026-09-06,48475,Brand Awareness
+CMP00290,CL0273,Content Marketing - App Installs,Content Marketing,Organic Search (Google),2026-05-06,2026-09-06,"35,625",App Installs
+CMP00291,CL0137,Social Media Marketing - App Installs,Social Media Marketing,Instagram,2026-05-21,2026-09-06,99975,App Installs
+CMP00292,CL0016,Social Media Marketing - Brand Awareness,Social Media Marketing,LinkedIn Ads,2024-12-16,08/07/2026,42437,Brand Awareness
+CMP00293,CL0282,Social Media Marketing - Sales / Conversions,Social Media Marketing,Meta Ads,2025-09-19,2026-07-27,34127,Sales / Conversions
+CMP00294,CL0060,PPC - Sales / Conversions,PPC,Google Ads,2025/10/24,2026-09-06,148910,Sales / Conversions
+CMP00295,CL0087,PPC - Lead Generation,PPC,Google Ads,2025-06-11,01/08/2026,56468,Lead Generation
+CMP00296,CL0276,SEO - Lead Generation,SEO,Organic Search (Google),2025-07-18,2026-09-06,36266,Lead Generation
+CMP00297,CL0286,Content Marketing - Local Footfall,Content Marketing,Organic Search (Google),2024-12-23,2026-09-06,27684,Local Footfall
+CMP00298,CL0294,PPC - Sales / Conversions,PPC,Google Ads,2026-03-15,06-Sep-2026,88019,Sales / Conversions
+CMP00299,CL0137,PPC - Lead Generation,PPC,Bing Ads,2026-05-21,2026-09-06,,N/A
+CMP00300,CL0243,PPC - Lead Generation,PPC,Bing Ads,2025-10-14,2026-09-06,108273,Lead Generation
+CMP00301,CL0105,SEO - Sales / Conversions,SEO,Organic Search (Google),2026-06-07,2026-09-06,"₹46,139",Sales / Conversions
+CMP00302,CL0237,Social Media Marketing - Local Footfall,Social Media Marketing,Meta Ads,2026-04-02,2026/09/06,32047.0,Local Footfall
+CMP00303,CL0161,PPC - Sales / Conversions,PPC,Google Ads,2026-06-20,2026-09-06,82518.0,Sales / Conversions
+CMP00304,CL0017,SEO - Local Footfall,SEO,Organic Search (Google),2025-11-21,2026-09-06,17581,Local Footfall
+CMP00305,CL0134,Content Marketing - Sales / Conversions,Content Marketing,YouTube,2025-11-04,2026-08-14,18835,Sales / Conversions
+CMP00306,CL0150,PPC - App Installs,PPC,Bing Ads,2025-09-10,2026-09-06,148338,App Installs
+CMP00307,CL0083,PPC - App Installs,PPC,Bing Ads,08/07/2026,2026-09-06,85828,App Installs
+CMP00308,CL0120,PPC - Lead Generation,PPC,Bing Ads,2025-10-31,2026-08-15,100954,Lead Generation
+CMP00309,CL0161,Content Marketing - Lead Generation,Content Marketing,YouTube,2026-06-20,2026-09-06,45551,Lead Generation
+CMP00310,CL0016,PPC - Local Footfall,PPC,Google Ads,2024-09-07,2026-09-05,112786,Local Footfall
+CMP00311,CL0049,Content Marketing - Local Footfall,Content Marketing,Organic Search (Google),2026-07-08,2026-09-06,41695,Local Footfall
+CMP00312,CL0246,Local SEO / GMB - Lead Generation,Local SEO / GMB,Google My Business,2026-06-06,2026-09-06,,Lead Generation
+CMP00313,CL0113,Social Media Marketing - Website Traffic,Social Media Marketing,LinkedIn Ads,2024-09-20,2026-08-04,57400,Website Traffic
+CMP00314,CL0195,PPC - Local Footfall,PPC,Google Ads,2025-05-31,2026-09-06,102234,Local Footfall
+CMP00315,CL0182,Content Marketing - Local Footfall,Content Marketing,Organic Search (Google),2026-05-13,2026-09-06,"₹21,539",Local Footfall
+CMP00316,CL0177,PPC - Brand Awareness,Pay Per Click,Bing Ads,2025/03/27,2026-09-06,135754,Brand Awareness
+CMP00317,CL0133,PPC - App Installs,PPC,Bing Ads,2024-10-17,2025-08-19,"₹43,385",App Installs
+CMP00318,CL0155,Social Media Marketing - Website Traffic,Social Media Marketing,Instagram,2024-10-13,2026-08-19,90148,Website Traffic
+CMP00319,CL0264,PPC - Local Footfall,PPC,Bing Ads,2025-09-09,09/08/2026,134189,Local Footfall
+CMP00320,CL0309,SEO - Lead Generation,SEO,Organic Search (Google),2025-10-02,2026-07-28,21402,Lead Generation
+CMP00321,CL0083,PPC - Website Traffic,PPC,Bing Ads,2026-07-08,2026-09-06,112321,?
+CMP00322,CL0215,SEO - Lead Generation,S.E.O,Organic Search (Google),2025/09/02,2026-06-12,59535,Lead Generation
+CMP00323,CL0311,PPC - Sales / Conversions,PPC,Bing Ads,2025-11-20,2026-09-06,94381,Sales / Conversions
+CMP00324,CL0003,Social Media Marketing - Lead Generation,Social Media Marketing,YouTube Ads,2025-04-12,2026-02-06,43929,Lead Generation
+CMP00325,CL0252,Local SEO / GMB - Sales / Conversions,Local SEO / GMB,Google My Business,2025-09-14,2026-09-06,27347,Sales / Conversions
+CMP00326,CL0159,SEO - App Installs,SEO,Organic Search (Google),2025-10-12,2026-07-02,Rs. 38065,App Installs
+CMP00327,CL0310,Social Media Marketing - Website Traffic,Social Media Marketing,YouTube Ads,2026-03-09,2026-09-06,Rs. 25343,Website Traffic
+CMP00328,CL0186,PPC - Brand Awareness,PPC,Bing Ads,2026-01-10,2026-09-06,Rs. nan,Brand Awareness
+CMP00329,CL0269,SEO - Sales / Conversions,SEO,Organic Search (Google),2025-09-12,2026-09-06,45712,Sales / Conversions
+CMP00330,CL0054,PPC - Sales / Conversions,PPC,Bing Ads,2025-08-23,2026-07-30,79197,Sales / Conversions
+CMP00331,CL0046,SEO - App Installs,Seo ,Organic Search (Google),08/07/2026,2026-09-06,24752,App Installs
+CMP00332,CL0297,SEO - Brand Awareness,SEO,Organic Search (Google),2025-02-26,2026-07-19,50956,Brand Awareness
+CMP00333,CL0169,PPC - Lead Generation,PPC,Bing Ads,09/30/2024,2026-05-31,35675,Lead Generation
+CMP00334,CL0179,PPC - Website Traffic,PPC,Bing Ads,2024-12-01,2026-08-09,48478,Website Traffic
+CMP00335,CL0055,Social Media Marketing - App Installs,Social Media Marketing,YouTube Ads,2025-03-01,2026-02-28,54576,App Installs
+CMP00336,CL0073,SEO - Sales / Conversions,SEO,Organic Search (Google),2025/03/27,2026-01-02,16778,Sales / Conversions
+CMP00337,CL0262,SEO - Brand Awareness,SEO,Organic Search (Google),2025-08-19,2026-08-29,32432,Brand Awareness
+CMP00338,CL0098,SEO - Lead Generation,SEO,Organic Search (Google),2025-12-06,2026-09-06,55947,Lead Generation
+CMP00339,CL0187,Social Media Marketing - Local Footfall,Social Media Marketing,YouTube Ads,23-Sep-2024,2026-02-27,94999,Local Footfall
+CMP00340,CL0102,PPC - App Installs,PPC,Bing Ads,2025-12-07,06-Sep-2026,133354,App Installs
+CMP00341,CL0085,Social Media Marketing - Lead Generation,Social Media Marketing,YouTube Ads,2025-11-21,2026-09-06,42538,Lead Generation
+CMP00342,CL0054,PPC - Lead Generation,PPC,,2025-06-07,2026-07-24,28433,NA
+CMP00343,CL0298,SEO - Lead Generation,seo,Organic Search (Google),2026-02-01,2026-09-06,51670,Lead Generation
+CMP00344,CL0301,Local SEO / GMB - Sales / Conversions,Local SEO / GMB,Organic Search (Google),2024-09-09,2026-08-29,16212,Sales / Conversions
+CMP00345,CL0037,SEO - App Installs,SEO,Organic Search (Google),23/06/2025,2026-09-06,48697,App Installs
+CMP00346,CL0114,SEO - Lead Generation,SEO,Organic Search (Google),2024-12-17,2026-04-06,"₹20,362",Lead Generation
+CMP00347,CL0181,SEO - App Installs,SEO,,2025-12-05,2026-09-06,45056,App Installs
+CMP00348,CL0123,Local SEO / GMB - Lead Generation,Local SEO / GMB,Google My Business,2026-07-08,2026-09-06,20900,Lead Generation
+CMP00349,CL0231,Social Media Marketing - App Installs,Social Media Marketing,YouTube Ads,2026-01-26,2026-09-06,93234,App Installs
+CMP00350,CL0084,Social Media Marketing - Brand Awareness,Social Media Marketing,YouTube Ads,2025-05-26,2026-07-10,23664.0,Brand Awareness
+CMP00351,CL0019,Local SEO / GMB - Local Footfall,Local SEO / GMB,Organic Search (Google),23.08.2025,12.07.2026,16974,Local Footfall
+CMP00352,CL0108,SEO - Sales / Conversions,SEO,Organic Search (Google),2025-04-06,2026-03-27,59547,Sales / Conversions
+CMP00353,CL0192,Local SEO / GMB - Brand Awareness,Local SEO / GMB,Organic Search (Google),2025-06-20,2026-09-06,16572,Brand Awareness
+CMP00354,CL0058,SEO - Brand Awareness,SEO,Organic Search (Google),2024-11-28,2026-07-14,"44,611",Brand Awareness
+CMP00355,CL0262,Social Media Marketing - App Installs,social media marketing,Instagram,2025-08-18,2026-09-06,28680,App Installs
+CMP00356,CL0004,PPC - Sales / Conversions,PPC ,Google Ads,2025-09-23,2026-08-23,"₹114,692",Sales / Conversions
+CMP00357,CL0022,PPC - Sales / Conversions,PPC,Bing Ads,2025-03-08,2026-08-07,55849,Sales / Conversions
+CMP00358,CL0163,Local SEO / GMB - App Installs,Local SEO / GMB,Organic Search (Google),2025-07-08,2026-07-16,20588,App Installs
+CMP00359,CL0164,SEO - Website Traffic,SEO,Organic Search (Google),2024-12-21,2026-09-06,54589,Website Traffic
+CMP00360,CL0095,Local SEO / GMB - Website Traffic,Local SEO / GMB,Organic Search (Google),2025-02-17,06-Sep-2026,22543,Website Traffic
+CMP00361,CL0083,PPC - Sales / Conversions,PPC,Bing Ads,08-Jul-2026,06/09/2026,81669,Sales / Conversions
+CMP00362,CL0023,Social Media Marketing - Lead Generation,Social Media Marketing,YouTube Ads,2025-03-12,2026-06-30,31154,Lead Generation
+CMP00363,CL0213,Local SEO / GMB - Lead Generation,Local SEO / GMB,Google My Business,2025-09-22,2026-09-06,15509,Lead Generation
+CMP00364,CL0122,SEO - Lead Generation,SEO,Organic Search (Google),2026-04-15,2026-09-06,53217,Lead Generation
+CMP00365,CL0038,Local SEO / GMB - Website Traffic,Local SEO / GMB,Google My Business,2024-09-15,2026-04-28,12754,Website Traffic
+CMP00366,CL0128,Social Media Marketing - Website Traffic,Social Media Marketing,LinkedIn Ads,2025-01-29,2026-07-01,70785,Website Traffic
+CMP00367,CL0300,Social Media Marketing - App Installs,Social Media Marketing,YouTube Ads,2026-02-13,2026-09-06,56221,App Installs
+CMP00368,CL0084,SEO - Local Footfall,SEO,Organic Search (Google),12/06/2025,2026-08-20,29439,Local Footfall
+CMP00369,CL0287,Social Media Marketing - Brand Awareness,Social Media Marketing,YouTube Ads,2025-06-18,2026-09-06,75916,Brand Awareness
+CMP00370,CL0083,Social Media Marketing - Local Footfall,Social Media Marketing,YouTube Ads,2026-07-08,2026-09-06,45781,Local Footfall
+CMP00371,CL0060,PPC - Local Footfall,PPC,Bing Ads,2025-10-24,2026-09-06,57269,Local Footfall
+CMP00372,CL0084,SEO - Website Traffic,SEO,Organic Search (Google),2025-03-30,2026-09-06,"38,816",Website Traffic
+CMP00373,CL0104,PPC - Website Traffic,PPC,Bing Ads,2024-12-20,2026-07-08,118503,Website Traffic
+CMP00374,CL0039,Email Marketing - Brand Awareness,Email Marketing,Email,2026-05-24,2026-09-06,22282,Brand Awareness
+CMP00375,CL0189,SEO - Brand Awareness,SEO,Organic Search (Google),2024-09-13,2026-09-05,43340,Brand Awareness
+CMP00376,CL0107,Social Media Marketing - Lead Generation,Social Media Mktg,LinkedIn Ads,2025-09-27,2026-08-07,71268,Lead Generation
+CMP00377,CL0230,Local SEO / GMB - Website Traffic,GMB,Google My Business,2025-12-27,2026-09-06,25326,NA
+CMP00378,CL0158,SEO - Sales / Conversions,SEO,Organic Search (Google),2025-04-03,2026-08-10,27116,Sales / Conversions
+CMP00379,CL0142,SEO - Brand Awareness,SEO,Organic Search (Google),2026-02-08,2026/09/06,,Brand Awareness
+CMP00380,CL0151,Social Media Marketing - Lead Generation,Social Media Marketing,,2026-06-22,2026-09-06,56138,Lead Generation
+CMP00381,CL0051,SEO - Lead Generation,SEO,Organic Search (Google),2025-04-06,2026-04-17,43396,Lead Generation
+CMP00382,CL0229,Social Media Marketing - Website Traffic,Social Media Marketing,LinkedIn Ads,2025-10-01,2026-09-06,69909,Website Traffic
+CMP00383,CL0034,Social Media Marketing - App Installs,Social Media Marketing,Meta Ads,2026-06-12,2026-09-06,28067,App Installs
+CMP00384,CL0231,Social Media Marketing - Website Traffic,Social Media Marketing,YouTube Ads,2026-01-26,2026/09/06,81351,Website Traffic
+CMP00385,CL0320,PPC - Lead Generation,PPC,Bing Ads,2024-09-08,2026-08-28,67293,Lead Generation
+CMP00386,CL0245,Social Media Marketing - Lead Generation,Social Media Marketing,,2025-10-22,2026-09-06,89569,Lead Generation
+CMP00387,CL0146,Social Media Marketing - Lead Generation,Social Media Marketing,Meta Ads,2026-04-08,2026-09-06,76570,Lead Generation
+CMP00388,CL0101,SEO - App Installs,SEO,Organic Search (Google),2026-01-25,2026-09-06,"59,232",App Installs
+CMP00389,CL0280,Social Media Marketing - App Installs,Social Media Marketing,YouTube Ads,2026-02-14,2026-09-06,68691,App Installs
+CMP00390,CL0083,Email Marketing - Brand Awareness,Email Marketing,,2026-07-08,2026-09-06,15549,Brand Awareness
+CMP00391,CL0155,Social Media Marketing - Lead Generation,social media marketing,,2024-11-07,2025/09/25,30968,Lead Generation
+CMP00392,CL0247,Social Media Marketing - Brand Awareness,Social Media Marketing,LinkedIn Ads,2026-07-03,2026-09-06,48886,Brand Awareness
+CMP00393,CL0296,PPC - App Installs,PPC,Bing Ads,2025-12-31,2026-09-06,"₹131,584",App Installs
+CMP00394,CL0295,SEO - Lead Generation,SEO,Organic Search (Google),2024-09-09,2026-01-27,32191,Lead Generation
+CMP00395,CL0029,PPC - App Installs,PPC,Bing Ads,2024-10-26,2026-08-14,26935,App Installs
+CMP00396,CL0288,SEO - Sales / Conversions,SEO,Organic Search (Google),2025-09-18,2026-06-28,26030,NA
+CMP00397,CL0037,Local SEO / GMB - Lead Generation,Local SEO / GMB,Organic Search (Google),2025-09-30,2026-06-21,"21,094",Lead Generation
+CMP00398,CL0188,PPC - Local Footfall,PPC,Google Ads,2026-03-03,2026-09-06,101784,Local Footfall
+CMP00399,CL0298,Content Marketing - Website Traffic,Content Marketing,LinkedIn,2026-02-01,2026-09-06,49352,Website Traffic
+CMP00400,CL0210,SEO - App Installs,SEO,Organic Search (Google),2024-10-07,2026-09-06,57023,App Installs
+CMP00401,CL0304,PPC - Lead Generation,PPC,Bing Ads,2024-10-14,2026-09-06,"89,095",Lead Generation
+CMP00402,CL0111,PPC - Sales / Conversions,PPC,Google Ads,2025-03-26,2026-04-14,"₹92,086",Sales / Conversions
+CMP00403,CL0101,PPC - Website Traffic,PPC,Google Ads,25.01.2026,06/09/2026,124087,Website Traffic
+CMP00404,CL0105,Content Marketing - Website Traffic,Content Marketing,YouTube,2026-06-07,2026-09-06,11945,N/A
+CMP00405,CL0114,Local SEO / GMB - Lead Generation,Local SEO / GMB,Organic Search (Google),2024-11-13,06.09.2026,,Lead Generation
+CMP00406,CL0219,Email Marketing - Website Traffic,Email Marketing,Email,2025-05-07,2026-08-09,14480,Website Traffic
+CMP00407,CL0145,SEO - Local Footfall,SEO,Organic Search (Google),2026-02-12,2026-09-06,50238,Local Footfall
+CMP00408,CL0236,Content Marketing - App Installs,Content Marketing,,27.11.2024,2026-08-31,42014,NA
+CMP00409,CL9998,SEO - Brand Awareness,SEO,Organic Search (Google),2024-12-22,2026-07-24,44501,Brand Awareness
+CMP00410,CL0099,Email Marketing - Local Footfall,Email Marketing,Email,2024-11-20,2026-03-31,18145.0,Local Footfall
+CMP00411,CL0061,Social Media Marketing - App Installs,Social Media Marketing,YouTube Ads,2026-04-12,2026-09-06,73746,App Installs
+CMP00412,CL0177,PPC - Lead Generation,PPC ,,2025-04-28,2026-08-30,95417,Lead Generation
+CMP00413,CL0288,SEO - Lead Generation,SEO,Organic Search (Google),2025-02-22,24.07.2026,25251,Lead Generation
+CMP00414,CL0275,SEO - Local Footfall,SEO,,2025-09-09,2026-05-30,27803,Local Footfall
+CMP00415,CL0082,PPC - Brand Awareness,PPC,Google Ads,2025-05-01,2026-09-06,116436,Brand Awareness
+CMP00416,CL0153,Email Marketing - Lead Generation,Email Marketing,Email,2025-03-12,2026-07-01,Rs. 17367,Lead Generation
+CMP00417,CL0226,Content Marketing - Sales / Conversions,Content Marketing,YouTube,2026-02-12,2026-09-06,19516,Sales / Conversions
+CMP00418,CL0196,Local SEO / GMB - Website Traffic,GMB,Google My Business,2026-06-12,2026-09-06,Rs. 27312,Website Traffic
+CMP00419,CL0022,SEO - Website Traffic,SEO,Organic Search (Google),02/15/2025,2026-09-06,59128,Website Traffic
+CMP00420,CL9998,Social Media Marketing - Website Traffic,Social Media Mktg,Instagram,2025-08-10,2026-09-06,68216,Website Traffic
+CMP00421,CL0013,PPC - Local Footfall,PPC,Google Ads,2026-07-01,2026-09-06,49612,Local Footfall
+CMP00422,CL0038,Social Media Marketing - App Installs,Social Media Marketing,Meta Ads,2025-08-05,2026-07-22,,App Installs
+CMP00423,CL0210,PPC - Lead Generation,PPC,Bing Ads,2025-05-13,2026-02-07,50768.0,Lead Generation
+CMP00424,CL0033,PPC - Lead Generation,PPC,Bing Ads,2026-03-14,2026-09-06,76220,Lead Generation
+CMP00425,CL0109,Social Media Marketing - Lead Generation,Social Media Marketing,LinkedIn Ads,2024/10/01,2026-09-02,Rs. 87987,Lead Generation
+CMP00426,CL0189,SEO - Sales / Conversions,SEO,Organic Search (Google),2024-09-20,2026-08-02,38430,Sales / Conversions
+CMP00427,CL0210,Social Media Marketing - Sales / Conversions,Social Media Marketing,Meta Ads,2025-02-01,2026-07-18,35653,-
+CMP00428,CL0143,Social Media Marketing - Local Footfall,Social Media Mktg,Meta Ads,06.09.2024,2026-08-22,21808,Local Footfall
+CMP00429,CL0031,SEO - Sales / Conversions,SEO,Organic Search (Google),2024-09-10,2026-08-30,31240,-
+CMP00430,CL0256,Local SEO / GMB - Lead Generation,Local SEO / GMB,Google My Business,2025-05-22,29/03/2026,,Lead Generation
+CMP00431,CL0304,Social Media Marketing - Local Footfall,Social Media Marketing,LinkedIn Ads,22.10.2024,2026-07-09,75744,Local Footfall
+CMP00432,CL0285,Content Marketing - Brand Awareness,Content Marketing,Organic Search (Google),2025-11-02,2026/07/29,18917,Brand Awareness
+CMP00433,CL0240,Social Media Marketing - Local Footfall,Social Media Marketing,Instagram,30.11.2024,2026-09-06,28493,Local Footfall
+CMP00434,CL0129,Social Media Marketing - App Installs,Social Media Marketing,YouTube Ads,2025-09-08,2026-07-30,74623.0,App Installs
+CMP00435,CL0281,Social Media Marketing - Local Footfall,Social Media Marketing,YouTube Ads,2024-10-19,2026-09-06,28521,Local Footfall
+CMP00436,CL0157,Email Marketing - App Installs,Email Marketing,Email,19/04/2025,2026-04-08,6285,App Installs
+CMP00437,CL0044,Social Media Marketing - Lead Generation,Social Media Marketing,YouTube Ads,2026-02-05,2026-09-06,56340,Lead Generation
+CMP00438,CL0273,PPC - Website Traffic,PPC,Google Ads,2026-05-06,06-Sep-2026,94218,Website Traffic
+CMP00439,CL0103,SEO - Sales / Conversions,SEO,Organic Search (Google),2025-04-06,06/09/2026,25966,Sales / Conversions
+CMP00440,CL0301,Social Media Marketing - Website Traffic,Social Media Marketing,LinkedIn Ads,2024-10-08,2025-09-17,32953,Website Traffic
+CMP00441,CL0118,SEO - App Installs,SEO,Organic Search (Google),2025-02-23,2026-03-04,25604,App Installs
+CMP00442,CL0279,PPC - Website Traffic,PPC,Google Ads,2026-06-29,2026-09-06,64567,Website Traffic
+CMP00443,CL9998,SEO - Brand Awareness,Seo ,Organic Search (Google),2025-08-11,2026/05/24,15415,Brand Awareness
+CMP00444,CL0150,Social Media Marketing - Local Footfall,Social Media Marketing,YouTube Ads,2025-09-10,2026-09-06,15999,Local Footfall
+CMP00445,CL0095,SEO - Website Traffic,SEO,Organic Search (Google),2025-04-13,2026-08-25,31670,Website Traffic
+CMP00446,CL0268,Social Media Marketing - Local Footfall,Social Media Marketing,Meta Ads,2025-03-28,2026-06-18,"₹16,691",Local Footfall
+CMP00447,CL0020,Content Marketing - Brand Awareness,Content Marketing,LinkedIn,07/27/2025,2026-07-11,22730,Brand Awareness
+CMP00448,CL0151,Content Marketing - Local Footfall,Content Marketing,YouTube,2026-06-22,2026-09-06,33236,Local Footfall
+CMP00449,CL0119,PPC - Brand Awareness,PPC,Bing Ads,2025-06-06,2026-09-06,24050,Brand Awareness
+CMP00450,CL0174,Social Media Marketing - Sales / Conversions,Social Media Marketing,Instagram,2024-09-07,2026-09-06,67515,Sales / Conversions
+CMP00451,CL0082,Social Media Marketing - Local Footfall,Social Media Marketing,Meta Ads,04/29/2025,2026-05-27,67804,Local Footfall
+CMP00452,CL0213,Social Media Marketing - Sales / Conversions,Social Media Marketing,YouTube Ads,2025-09-22,2026-09-06,63733,Sales / Conversions
+CMP00453,CL0124,Social Media Marketing - Brand Awareness,SMM,LinkedIn Ads,08-Nov-2024,2026-02-27,"₹68,265",?
+CMP00454,CL0061,SEO - Local Footfall,SEO,Organic Search (Google),2026-04-12,2026-09-06,51415,Local Footfall
+CMP00455,CL0064,Local SEO / GMB - Local Footfall,Local SEO / GMB,Google My Business,2025-10-01,2026-09-06,9557,Local Footfall
+CMP00456,CL0223,SEO - Brand Awareness,SEO,Organic Search (Google),2025-06-02,2026-07-09,22597,Brand Awareness
+CMP00457,CL0084,Content Marketing - Brand Awareness,Content Marketing,YouTube,2025-03-30,2026-09-06,22681,Brand Awareness
+CMP00458,CL0099,Social Media Marketing - Brand Awareness,Social Media Marketing,,2024-12-11,2025-08-23,73489,Brand Awareness
+CMP00459,CL0201,PPC - Lead Generation,PPC,Google Ads,2025-07-18,2026-05-24,133464,-
+CMP00460,CL0106,Content Marketing - Website Traffic,Content Marketing,Organic Search (Google),2026-03-14,2026-09-06,46746,Website Traffic
+CMP00461,CL0125,SEO - Brand Awareness,SEO,,2025-02-06,2026-01-08,41197,unknown
+CMP00462,CL0079,Content Marketing - Local Footfall,Content Marketing,Organic Search (Google),2025/07/01,2026-09-06,"26,404",Local Footfall
+CMP00463,CL0111,Social Media Marketing - Brand Awareness,Social Media Marketing,Instagram,2024-09-06,2026-08-09,50017,Brand Awareness
+CMP00464,CL0222,SEO - Website Traffic,SEO,Organic Search (Google),2024-11-15,2026-05-20,17692,Website Traffic
+CMP00465,CL0171,SEO - Website Traffic,SEO,Organic Search (Google),2025-04-09,2026-08-22,35929,Website Traffic
+CMP00466,CL0320,Content Marketing - Website Traffic,Content Marketing,Organic Search (Google),2024-09-28,2026/06/23,30513,Website Traffic
+CMP00467,CL0247,PPC - Lead Generation,Pay Per Click,Bing Ads,2026-07-03,2026-09-06,47076,Lead Generation
+CMP00468,CL0006,Email Marketing - Sales / Conversions,Email Marketing,Email,2026-09-06,2025-01-24,20359,NA
+CMP00469,CL0122,Content Marketing - Website Traffic,Content Marketing,Organic Search (Google),2026-04-15,2026-09-06,Rs. 42475,Website Traffic
+CMP00470,CL0093,Social Media Marketing - Sales / Conversions,Social Media Marketing,Meta Ads,22-Jan-2025,2026-02-11,40671,Sales / Conversions
+CMP00471,CL0189,PPC - Local Footfall,PPC,Google Ads,2025-02-19,2026-05-28,138820,Local Footfall
+CMP00472,CL0086,Social Media Marketing - Website Traffic,Social Media Marketing,YouTube Ads,2026-01-11,2026-09-06,,Website Traffic
+CMP00473,CL0310,Local SEO / GMB - Sales / Conversions,Local SEO / GMB,Google My Business,2026-03-09,2026-09-06,28034,Sales / Conversions
+CMP00474,CL0096,SEO - Lead Generation,SEO,Organic Search (Google),2024-11-15,2026-08-18,49563,Lead Generation
+CMP00475,CL0168,PPC - Brand Awareness,PPC,,2025-11-11,07/28/2026,49111,Brand Awareness
+CMP00476,CL0040,PPC - Sales / Conversions,PPC,Google Ads,2026-04-15,2026-09-06,104521,Sales / Conversions
+CMP00477,CL0292,PPC - Sales / Conversions,PPC,Google Ads,2025-02-24,2026-05-10,60396,Sales / Conversions
+CMP00478,CL0292,Content Marketing - Local Footfall,Content Marketing,Organic Search (Google),22-Nov-2024,2026-08-30,41989,Local Footfall
+CMP00479,CL0254,Social Media Marketing - App Installs,Social Media Marketing,Meta Ads,2025-01-31,2026-06-29,28652,App Installs
+CMP00480,CL0113,Social Media Marketing - Lead Generation,Social Media Marketing,YouTube Ads,2025-01-09,2026-07-10,35817,Lead Generation
+CMP00481,CL0019,PPC - Website Traffic,PPC,Google Ads,2025-09-26,2026-07-01,59936,Website Traffic
+CMP00482,CL0228,SEO - Sales / Conversions,SEO,Organic Search (Google),2025-12-03,2026-09-06,"23,985",Sales / Conversions
+CMP00483,CL0138,PPC - Lead Generation,PPC,,2024-10-27,2026-09-05,63264,Lead Generation
+CMP00484,CL0317,Email Marketing - Website Traffic,Email Marketing,Email,2026-01-27,2026-09-06,17051,Website Traffic
+CMP00485,CL0224,Social Media Marketing - Website Traffic,Social Media Marketing,YouTube Ads,2025-12-01,2026-09-05,68813,Website Traffic
+CMP00486,CL0173,PPC - Lead Generation,PPC,,2025-10-05,2026-09-06,92011,Lead Generation
+CMP00487,CL0316,Content Marketing - Sales / Conversions,Content Marketing,YouTube,2025-05-20,2026-07-25,,Sales / Conversions
+CMP00488,CL0257,SEO - App Installs,SEO,Organic Search (Google),2025-12-18,2026-09-06,24109,App Installs
+CMP00489,CL0147,PPC - Brand Awareness,Pay Per Click,Google Ads,2025-09-04,2026-09-06,139521,Brand Awareness
+CMP00490,CL0007,PPC - Sales / Conversions,PPC ,Google Ads,2024-09-08,2026-08-11,52673,Sales / Conversions
+CMP00491,CL0030,Local SEO / GMB - Lead Generation,Local SEO / GMB,Google My Business,2025-02-16,2026-08-31,10268,Lead Generation
+CMP00492,CL0142,Social Media Marketing - Brand Awareness,Social Media Marketing,LinkedIn Ads,2026-02-08,2026-09-06,53588,Brand Awareness
+CMP00493,CL0180,Social Media Marketing - Local Footfall,Social Media Marketing,Instagram,2026-01-14,2026/09/06,15584,Local Footfall
+CMP00494,CL0010,SEO - Website Traffic,SEO,Organic Search (Google),2025-01-29,06.09.2026,30419,Website Traffic
+CMP00495,CL0041,SEO - Brand Awareness,SEO,Organic Search (Google),2025-07-22,06/09/2026,53472,Brand Awareness
+CMP00496,CL0226,Social Media Marketing - Sales / Conversions,Social Media Marketing,LinkedIn Ads,2026-02-12,2026-09-06,37728.0,Sales / Conversions
+CMP00497,CL0241,PPC - Brand Awareness,ppc,Bing Ads,2025-01-09,2026-09-06,111490,Brand Awareness
+CMP00498,CL0010,Local SEO / GMB - Sales / Conversions,Local SEO/GMB,Organic Search (Google),29/01/2025,2026-08-28,18775,Sales / Conversions
+CMP00499,CL0163,Content Marketing - Lead Generation,Content Marketing,YouTube,2025-02-08,2026-02-17,24214,Lead Generation
+CMP00500,CL0026,PPC - Website Traffic,PPC,Bing Ads,09/01/2026,2026-09-06,106004,Website Traffic
+CMP00501,CL0232,Content Marketing - Website Traffic,Content Marketing,YouTube,2026-05-13,09/06/2026,Rs. 33819,Website Traffic
+CMP00502,CL0267,Local SEO / GMB - Website Traffic,Local SEO / GMB,Organic Search (Google),2024-10-26,2026-07-20,15001,Website Traffic
+CMP00503,CL0279,Social Media Marketing - Sales / Conversions,Social Media Marketing,LinkedIn Ads,2026-06-29,2026-09-06,"₹34,001",Sales / Conversions
+CMP00504,CL0192,Social Media Marketing - Brand Awareness,Social Media Marketing,YouTube Ads,2025-06-20,2026-09-06,92929,Brand Awareness
+CMP00505,CL0202,Email Marketing - Brand Awareness,Email Marketing,Email,2025-06-04,2026-09-06,8367,Brand Awareness
+CMP00506,CL0297,PPC - Brand Awareness,PPC,Google Ads,2025-01-23,2025-11-30,144734.0,Brand Awareness
+CMP00507,CL0196,Email Marketing - Sales / Conversions,Email Marketing,Email,2026-06-12,2026-09-06,14422,Sales / Conversions
+CMP00508,CL0000,SEO - Sales / Conversions,SEO,Organic Search (Google),2024-12-01,2026-07-02,59853,Sales / Conversions
+CMP00509,CL0242,Social Media Marketing - App Installs,Social Media Marketing,YouTube Ads,2025-05-21,2026-03-07,Rs. 45020,App Installs
+CMP00510,CL0190,Content Marketing - Lead Generation,Content Marketing,YouTube,2025-08-10,2026/09/06,32620,Lead Generation
+CMP00511,CL0270,Social Media Marketing - Brand Awareness,Social Media Mktg,Instagram,2024-10-20,2026-06-13,67294,Brand Awareness
+CMP00512,CL0168,Social Media Marketing - Local Footfall,Social Media Marketing,Instagram,2025-03-17,2026-09-06,43789,Local Footfall
+CMP00513,CL0279,Social Media Marketing - Local Footfall,Social Media Marketing,LinkedIn Ads,2026-06-29,2026-09-06,33542,Local Footfall
+CMP00514,CL0015,SEO - Local Footfall,SEO,Organic Search (Google),2024-10-27,2026-07-07,38415,Local Footfall
+CMP00515,CL9999,SEO - Brand Awareness,SEO,Organic Search (Google),2025-05-05,2026-09-06,Rs. nan,Brand Awareness
+CMP00516,CL0032,PPC - Lead Generation,PPC,Bing Ads,2024-11-13,2026-07-06,53984,Lead Generation
+CMP00517,CL0178,Social Media Marketing - Brand Awareness,Social Media Marketing,Meta Ads,2026-02-19,2026-09-06,"80,183",Brand Awareness
+CMP00518,CL0227,PPC - Lead Generation,PPC,Bing Ads,2026-03-03,2026-09-06,103053,Lead Generation
+CMP00519,CL0070,PPC - Local Footfall,Pay Per Click,Bing Ads,2025/02/04,2026-07-06,41662,Local Footfall
+CMP00520,CL0050,Email Marketing - Local Footfall,Email Mktg,Email,2024-11-19,2026-09-06,23772,Local Footfall
+CMP00521,CL0276,PPC - App Installs,PPC,Google Ads,2025-10-19,28.07.2026,"25,701",App Installs
+CMP00522,CL0241,PPC - App Installs,PPC,Bing Ads,2025-02-02,21/08/2026,104984,NA
+CMP00523,CL0208,PPC - Sales / Conversions,PPC,Bing Ads,2025-12-15,06-Sep-2026,77146.0,Sales / Conversions
+CMP00524,CL0157,SEO - Sales / Conversions,SEO,Organic Search (Google),2025-04-14,2026/08/13,44421,Sales / Conversions
+CMP00525,CL9999,Content Marketing - Local Footfall,content marketing,Organic Search (Google),2025-08-23,2026-08-23,40960,Local Footfall
+CMP00526,CL0007,PPC - App Installs,PPC,Google Ads,2024-11-09,2026-09-03,109336.0,App Installs
+CMP00527,CL0061,SEO - Website Traffic,SEO,Organic Search (Google),2026-04-12,2026-09-06,44285,Website Traffic
+CMP00528,CL0288,Local SEO / GMB - Local Footfall,Local SEO / GMB,Organic Search (Google),2025-04-25,2026-05-30,26499,Local Footfall
+CMP00529,CL0109,Content Marketing - Sales / Conversions,Content Marketing,Organic Search (Google),02/08/2025,2026-06-06,38075,Sales / Conversions
+CMP00530,CL0226,Content Marketing - Sales / Conversions,Content Marketing,LinkedIn,2026-02-12,2026-09-06,42549,Sales / Conversions
+CMP00531,CL0226,Email Marketing - Local Footfall,Email Marketing,Email,2026-02-12,2026-09-06,13056,Local Footfall
+CMP00532,CL0100,Email Marketing - Sales / Conversions,Email Marketing,Email,2025-08-26,2026-08-27,9056,Sales / Conversions
+CMP00533,CL0066,PPC - App Installs,PPC,Google Ads,2025-03-30,2026-08-22,50542,App Installs
+CMP00534,CL0222,Social Media Marketing - Sales / Conversions,Social Media Marketing,Meta Ads,2025-02-06,2026-08-27,67029,Sales / Conversions
+CMP00535,CL0030,Social Media Marketing - Brand Awareness,Social Media Marketing,,2024-11-13,2026-09-06,60201,Brand Awareness
+CMP00536,CL0159,PPC - Brand Awareness,PPC,Bing Ads,2025-03-30,2026-09-06,30029,Brand Awareness
+CMP00537,CL0285,PPC - Website Traffic,PPC,Bing Ads,2024-12-19,2026-08-19,46567,Website Traffic
+CMP00538,CL0228,SEO - Sales / Conversions,SEO,Organic Search (Google),2025-12-03,2026/09/06,58539,Sales / Conversions
+CMP00539,CL0245,Social Media Marketing - Sales / Conversions,Social Media Marketing,YouTube Ads,2025-10-22,2026-09-06,76729,Sales / Conversions
+CMP00540,CL0027,Content Marketing - App Installs,Content Marketing,Organic Search (Google),2026-03-16,2026-09-06,Rs. 40199,App Installs
+CMP00541,CL0064,Content Marketing - Lead Generation,Content Marketing,LinkedIn,2025-06-28,2026-09-06,17878,unknown
+CMP00542,CL0089,PPC - Lead Generation,PPC,Bing Ads,2025-04-15,2026-09-06,28348,Lead Generation
+CMP00543,CL0094,SEO - Local Footfall,SEO,Organic Search (Google),2024-10-15,2026-01-19,"28,106",Local Footfall
+CMP00544,CL0063,PPC - Website Traffic,PPC,Google Ads,22.11.2025,2026-09-06,131394,Website Traffic
+CMP00545,CL9998,Social Media Marketing - Website Traffic,Social Media Marketing,YouTube Ads,2024-09-15,2025-12-16,58056,Website Traffic
+CMP00546,CL0053,Email Marketing - Lead Generation,Email Marketing,Email,06-Jul-2025,2026-07-27,nan,Lead Generation
+CMP00547,CL0227,Email Marketing - Website Traffic,Email Mktg,Email,2026-03-03,06.09.2026,14734,Website Traffic
+CMP00548,CL0188,Email Marketing - Sales / Conversions,Email Marketing,Email,2026-03-03,2026-09-06,14803,Sales / Conversions
+CMP00549,CL0196,Email Marketing - Website Traffic,Email Marketing,Email,2026-06-12,2026-09-06,17016,Website Traffic
+CMP00550,CL0069,Local SEO / GMB - Lead Generation,Local SEO / GMB,Google My Business,21/03/2026,2026-09-06,29096,Lead Generation
+CMP00551,CL0099,Social Media Marketing - Website Traffic,Social Media Marketing,LinkedIn Ads,2025-09-18,2026-08-13,52182,Website Traffic
+CMP00552,CL0195,SEO - Website Traffic,seo,Organic Search (Google),2025-05-31,2026-09-06,"41,809",Website Traffic
+CMP00553,CL0096,SEO - Brand Awareness,SEO,Organic Search (Google),2024-11-09,2025-10-26,56376,Brand Awareness
+CMP00554,CL0223,PPC - Lead Generation,PPC,Bing Ads,2025-05-30,2026-08-27,68399,Lead Generation
+CMP00555,CL0013,PPC - Local Footfall,PPC,Google Ads,01-Jul-2026,2026-09-06,129191,Local Footfall
+CMP00556,CL0024,SEO - App Installs,SEO,Organic Search (Google),07/10/2025,2026-06-18,39077,App Installs
+CMP00557,CL0234,Local SEO / GMB - Website Traffic,Local SEO / GMB,Google My Business,2025-04-15,2026-09-06,27340,Website Traffic
+CMP00558,CL0198,SEO - App Installs,SEO,Organic Search (Google),2024-11-16,2025-11-09,36051,App Installs
+CMP00559,CL0014,Local SEO / GMB - App Installs,Local SEO / GMB,Organic Search (Google),2025-10-12,2026/09/06,21849,App Installs
+CMP00560,CL0288,Content Marketing - Lead Generation,Content Marketing,Organic Search (Google),2025-03-03,2026/07/17,22931,Lead Generation
+CMP00561,CL0002,Social Media Marketing - Sales / Conversions,Social Media Marketing,Meta Ads,2025/03/18,2026-04-25,68975,Sales / Conversions
+CMP00562,CL0306,Social Media Marketing - Local Footfall,Social Media Marketing,Meta Ads,2025-03-28,2026-03-21,"₹42,731",Local Footfall
+CMP00563,CL0234,PPC - Brand Awareness,PPC,Bing Ads,2025-04-18,2026-08-07,99195,Brand Awareness
+CMP00564,CL0317,Social Media Marketing - Local Footfall,Social Media Marketing,Meta Ads,2026-01-27,2026-09-06,82045,unknown
+CMP00565,CL0304,SEO - Lead Generation,SEO,Organic Search (Google),2025-04-13,2026-08-21,34569,Lead Generation
+CMP00566,CL0101,Local SEO / GMB - Brand Awareness,Local SEO/GMB,Google My Business,2026-01-25,2026-09-06,17443,Brand Awareness
+CMP00567,CL0243,PPC - Sales / Conversions,PPC ,Bing Ads,2025-10-14,2026-09-06,61873,Sales / Conversions
+CMP00568,CL0068,PPC - Website Traffic,PPC,Google Ads,2025-09-05,2026-09-06,114960,Website Traffic
+CMP00569,CL0151,Social Media Marketing - Brand Awareness,Social Media Marketing,LinkedIn Ads,22.06.2026,2026-09-06,65320,Brand Awareness
+CMP00570,CL0077,Social Media Marketing - Brand Awareness,Social Media Marketing,LinkedIn Ads,2025-07-03,2026-09-06,58897,Brand Awareness
+CMP00571,CL0156,PPC - Website Traffic,PPC,Bing Ads,2025-04-29,2026-09-06,23319,Website Traffic
+CMP00572,CL0280,Social Media Marketing - Brand Awareness,Social Media Marketing,Instagram,2026-02-14,2026-09-06,"24,358",Brand Awareness
+CMP00573,CL0140,SEO - Local Footfall,SEO,Organic Search (Google),2025-10-11,2026-09-06,Rs. 15335,Local Footfall
+CMP00574,CL0030,Social Media Marketing - Local Footfall,Social Media Marketing,,2024-12-14,2026-05-06,87271,Local Footfall
+CMP00575,CL0104,PPC - Brand Awareness,PPC,,2025/07/24,2026-05-28,Rs. 130713,Brand Awareness
+CMP00576,CL0252,PPC - Website Traffic,PPC,Google Ads,2025-09-14,2026-09-06,28830,Website Traffic
+CMP00577,CL0167,SEO - Brand Awareness,SEO,Organic Search (Google),2025-06-28,2026-09-06,"17,089",Brand Awareness
+CMP00578,CL0180,PPC - Sales / Conversions,PPC,Google Ads,2026-01-14,2026-09-06,121586,Sales / Conversions
+CMP00579,CL0138,PPC - App Installs,PPC,Google Ads,2024-10-30,2026-05-17,88223,App Installs
+CMP00580,CL0094,PPC - Brand Awareness,PPC,Google Ads,2025-02-22,2026-04-20,60160,Brand Awareness
+CMP00581,CL0192,SEO - Lead Generation,SEO,Organic Search (Google),2025-06-20,2026-09-06,"42,674",-
+CMP00582,CL0203,SEO - Brand Awareness,SEO,Organic Search (Google),2025-05-04,06.09.2026,25641,Brand Awareness
+CMP00583,CL0288,Social Media Marketing - Local Footfall,Social Media Marketing,Meta Ads,2025-02-27,2026-01-29,31844,-
+CMP00584,CL0198,SEO - Brand Awareness,SEO,Organic Search (Google),2024-11-26,2026-08-01,31536,Brand Awareness
+CMP00585,CL0319,Social Media Marketing - Sales / Conversions,Social Media Marketing,Instagram,2025-12-28,06.09.2026,"₹91,137",Sales / Conversions
+CMP00586,CL0265,Local SEO / GMB - Website Traffic,Local SEO / GMB,Google My Business,2024-11-02,2026-08-21,24877,Website Traffic
+CMP00587,CL0026,PPC - Lead Generation,PPC,Google Ads,2026-01-09,2026-09-06,,Lead Generation
+CMP00588,CL0126,Email Marketing - Brand Awareness,Email Marketing,Email,2025/07/18,2026-09-06,16234,Brand Awareness
+CMP00589,CL0124,SEO - Brand Awareness,seo,Organic Search (Google),2024-11-24,2026-08-10,54803,N/A
+CMP00590,CL0001,SEO - Local Footfall,SEO,Organic Search (Google),2025-09-19,2026-09-06,Rs. 57822,Local Footfall
+CMP00591,CL0058,Content Marketing - Local Footfall,Content Marketing,Organic Search (Google),2025-06-14,2026-02-28,"40,519",Local Footfall
+CMP00592,CL0244,Content Marketing - App Installs,Content Marketing,YouTube,2026-01-23,2026-09-06,15154,App Installs
+CMP00593,CL0113,Email Marketing - Brand Awareness,Email Marketing,Email,28/10/2024,2026-07-11,"₹9,814",Brand Awareness
+CMP00594,CL0048,SEO - Website Traffic,seo,Organic Search (Google),2024-10-03,2026-08-19,24837,Website Traffic
+CMP00595,CL0092,Content Marketing - Website Traffic,Content Marketing,Organic Search (Google),2025-03-29,2026-08-25,16029,Website Traffic
+CMP00596,CL0088,PPC - Local Footfall,PPC,Google Ads,2025-04-27,2026-08-18,42792,Local Footfall
+CMP00597,CL0056,PPC - Lead Generation,PPC,Google Ads,2025-05-29,2026-07-31,,Lead Generation
+CMP00598,CL0033,SEO - App Installs,seo,Organic Search (Google),2026-03-14,2026-09-06,39997,App Installs
+CMP00599,CL0245,Local SEO / GMB - Brand Awareness,Local SEO / GMB,Google My Business,2025-10-22,2026-09-06,16754,Brand Awareness
+CMP00600,CL0264,SEO - Website Traffic,SEO,Organic Search (Google),2025-02-23,2026-06-24,33936,Website Traffic
+CMP00601,CL0159,Content Marketing - Local Footfall,Content Marketing,Organic Search (Google),2025-03-30,2026-09-06,19831,Local Footfall
+CMP00602,CL0197,Social Media Marketing - Lead Generation,Social Media Marketing,Instagram,2025-09-24,26-Jun-2026,27838,Lead Generation
+CMP00603,CL0295,Content Marketing - Lead Generation,Content Marketing,YouTube,2024-10-04,2026-06-03,49955,Lead Generation
+CMP00604,CL0270,Social Media Marketing - App Installs,Social Media Marketing,YouTube Ads,2025-05-20,2026-04-07,65914,App Installs
+CMP00605,CL0011,Email Marketing - Lead Generation,Email Marketing,Email,07/08/2026,2026-09-06,9593,Lead Generation
+CMP00606,CL0305,SEO - App Installs,SEO,Organic Search (Google),2024/12/06,2026-09-06,Rs. 51449,App Installs
+CMP00607,CL0022,SEO - Website Traffic,SEO,Organic Search (Google),2025-02-15,06.09.2026,52378,Website Traffic
+CMP00608,CL0009,Social Media Marketing - Sales / Conversions,Social Media Marketing,LinkedIn Ads,2025-06-23,2026-09-06,97176,Sales / Conversions
+CMP00609,CL0130,PPC - Local Footfall,PPC,Bing Ads,2026-06-08,2026-09-06,40685,Local Footfall
+CMP00610,CL0239,SEO - Local Footfall,seo,Organic Search (Google),2025-09-16,2026-09-06,43798,Local Footfall
+CMP00611,CL0026,SEO - Brand Awareness,SEO,Organic Search (Google),2026-01-09,2026-09-06,59111,Brand Awareness
+CMP00612,CL0094,PPC - Lead Generation,PPC,,2024-09-06,2025-09-30,124867,unknown
+CMP00613,CL0085,SEO - Lead Generation,SEO,Organic Search (Google),2025-11-20,2026-09-06,"25,148",Lead Generation
+CMP00614,CL0128,SEO - Lead Generation,SEO,Organic Search (Google),2025-02-14,2026-06-24,55186,Lead Generation
+CMP00615,CL0316,Email Marketing - Local Footfall,Email Marketing,Email,2025-04-20,2026-05-21,13433,Local Footfall
+CMP00616,CL0107,PPC - Website Traffic,PPC,Google Ads,2025-09-18,2026-08-20,83559,Website Traffic
+CMP00617,CL0000,Local SEO / GMB - App Installs,Local SEO / GMB,Organic Search (Google),2026-07-08,2026-09-06,20288,App Installs
+CMP00618,CL0040,Local SEO / GMB - Brand Awareness,Local SEO / GMB,Organic Search (Google),15.04.2026,2026-09-06,Rs. 24970,Brand Awareness
+CMP00619,CL0064,SEO - Local Footfall,SEO,Organic Search (Google),2025-07-25,2026-07-19,20412,Local Footfall
+CMP00620,CL0043,Social Media Marketing - App Installs,Social Media Marketing,LinkedIn Ads,01/03/2025,2026-08-17,60836,App Installs
+CMP00621,CL0184,Social Media Marketing - App Installs,Social Media Marketing,YouTube Ads,2025-11-29,2026-09-06,84429,App Installs
+CMP00622,CL0135,Social Media Marketing - Sales / Conversions,social media marketing,Meta Ads,07/23/2025,2026-09-06,61622,Sales / Conversions
+CMP00623,CL0160,SEO - App Installs,SEO,Organic Search (Google),2025-09-21,2026-08-26,27360,App Installs
+CMP00624,CL0267,SEO - Website Traffic,SEO,Organic Search (Google),2024-11-04,2025-09-16,"₹17,532",Website Traffic
+CMP00625,CL0186,SEO - Sales / Conversions,SEO,Organic Search (Google),2026-01-10,2026-09-06,Rs. 39717,Sales / Conversions
+CMP00626,CL0050,Social Media Marketing - Website Traffic,Social Media Marketing,YouTube Ads,27/11/2024,2025-12-19,74784,Website Traffic
+CMP00627,CL0121,Local SEO / GMB - Brand Awareness,Local SEO / GMB,Organic Search (Google),2026-06-11,06.09.2026,20091,Brand Awareness
+CMP00628,CL0101,Social Media Marketing - Local Footfall,Social Media Marketing,Meta Ads,2026-01-25,2026-09-06,98245,Local Footfall
+CMP00629,CL0265,Social Media Marketing - App Installs,Social Media Marketing,Meta Ads,29-Nov-2024,2026-08-28,66224,App Installs
+CMP00630,CL0099,Local SEO / GMB - App Installs,Local SEO / GMB,Organic Search (Google),2024-11-24,2026-08-21,19181,App Installs
+CMP00631,CL0045,Social Media Marketing - App Installs,social media marketing,Instagram,2025-06-26,04/20/2026,19716,App Installs
+CMP00632,CL0236,SEO - Sales / Conversions,SEO,Organic Search (Google),2024-11-15,2026-07-16,40136,Sales / Conversions
+CMP00633,CL0138,Email Marketing - Local Footfall,Email Marketing,,2025-06-25,2026/03/04,8372,Local Footfall
+CMP00634,CL0031,PPC - Brand Awareness,PPC,,2024-11-23,2026-08-21,Rs. 114215,Brand Awareness
+CMP00635,CL0221,SEO - Website Traffic,seo,Organic Search (Google),2026-05-08,2026-09-06,22253,Website Traffic
+CMP00636,CL0068,Social Media Marketing - Lead Generation,Social Media Marketing,Instagram,2025-09-06,2026-09-04,92069,Lead Generation
+CMP00637,CL0278,Local SEO / GMB - Brand Awareness,Local SEO / GMB,Organic Search (Google),2025-01-01,2026-01-28,"14,645",Brand Awareness
+CMP00638,CL0267,PPC - Website Traffic,PPC,,2025-02-06,08.03.2026,76417,Website Traffic
+CMP00639,CL0119,Social Media Marketing - Sales / Conversions,Social Media Mktg,Meta Ads,2025-07-28,2026-04-23,"₹27,317",Sales / Conversions
+CMP00640,CL0178,SEO - Local Footfall,SEO,Organic Search (Google),2026-02-19,2026-09-06,24481,Local Footfall
+CMP00641,CL0182,SEO - Website Traffic,SEO,Organic Search (Google),2026-05-13,2026-09-06,56486,Website Traffic
+CMP00642,CL0210,SEO - Sales / Conversions,SEO,Organic Search (Google),2024-10-25,2026-08-28,27765,Sales / Conversions
+CMP00643,CL0023,Content Marketing - Sales / Conversions,Content Marketing,Organic Search (Google),2024-09-30,2026-08-19,30518,Sales / Conversions
+CMP00644,CL0104,Email Marketing - Website Traffic,Email Marketing,Email,2025-09-29,2026-07-28,24627,Website Traffic
+CMP00645,CL0055,SEO - App Installs,SEO,Organic Search (Google),2025/03/26,2026-07-09,43060,App Installs
+CMP00646,CL0224,PPC - Brand Awareness,PPC,Google Ads,2025-12-01,2026-09-06,25413,Brand Awareness
+CMP00647,CL0023,SEO - Website Traffic,SEO,Organic Search (Google),2025-01-03,2026-05-05,31086,Website Traffic
+CMP00648,CL0166,SEO - Website Traffic,SEO,Organic Search (Google),2025-03-16,2026-04-06,32408,Website Traffic
+CMP00649,CL0233,Social Media Marketing - Lead Generation,Social Media Marketing,LinkedIn Ads,2025-03-21,2026-09-06,38480,Lead Generation
+CMP00650,CL0304,Social Media Marketing - Local Footfall,Social Media Marketing,YouTube Ads,2024-12-09,2025-08-25,35500,Local Footfall
+CMP00651,CL0093,Social Media Marketing - Website Traffic,Social Media Mktg,YouTube Ads,2025-01-22,2026-09-06,57770,Website Traffic
+CMP00652,CL0003,PPC - Brand Awareness,PPC,Bing Ads,2025-04-01,2026-09-06,Rs. 69015,Brand Awareness
+CMP00653,CL0232,Social Media Marketing - Website Traffic,Social Media Marketing,YouTube Ads,05/13/2026,2026-09-06,40017,Website Traffic
+CMP00654,CL0001,SEO - App Installs,SEO,Organic Search (Google),19.09.2025,2026-09-06,33584,App Installs
+CMP00655,CL0022,SEO - Local Footfall,SEO,Organic Search (Google),15-Feb-2025,2026-09-06,30464.0,-
+CMP00656,CL0317,Local SEO / GMB - Lead Generation,Local SEO / GMB,Google My Business,2026-01-27,2026-09-06,13032,Lead Generation
+CMP00657,CL0277,Content Marketing - Sales / Conversions,Content Marketing,,2025-02-23,2026-04-07,28110,Sales / Conversions
+CMP00658,CL9999,Local SEO / GMB - Brand Awareness,Local SEO / GMB,Google My Business,2026-03-03,2026-09-06,"28,730",Brand Awareness
+CMP00659,CL0268,Email Marketing - Website Traffic,Email Marketing,Email,2025-05-30,2026-07-14,15114.0,Website Traffic
+CMP00660,CL0025,Social Media Marketing - Website Traffic,Social Media Marketing,LinkedIn Ads,2026-06-11,2026/09/06,65792.0,Website Traffic
+CMP00661,CL0029,Local SEO / GMB - Sales / Conversions,Local SEO / GMB,,2024-12-07,2026-07-03,29654,Sales / Conversions
+CMP00662,CL0097,PPC - Local Footfall,PPC,Google Ads,2024-09-20,2025-10-23,99769,Local Footfall
+CMP00663,CL0008,SEO - Website Traffic,SEO,Organic Search (Google),2025-01-01,08/12/2026,25049,Website Traffic
+CMP00664,CL0285,SEO - Sales / Conversions,SEO,Organic Search (Google),2024-12-13,2026-08-06,32931,Sales / Conversions
+CMP00665,CL0019,SEO - Lead Generation,SEO,Organic Search (Google),2025-01-03,2026-07-21,36958,Lead Generation
+CMP00666,CL0175,SEO - Brand Awareness,SEO,Organic Search (Google),2025-10-23,06-Sep-2026,36365,Brand Awareness
+CMP00667,CL0274,PPC - Local Footfall,PPC,Bing Ads,2025/12/14,2026-09-06,39436,Local Footfall
+CMP00668,CL0236,Social Media Marketing - Sales / Conversions,Social Media Mktg,LinkedIn Ads,09-Sep-2025,2026-08-26,23996,Sales / Conversions
+CMP00669,CL0076,Content Marketing - Local Footfall,Content Marketing,YouTube,2024-12-12,2026-07-05,23999,Local Footfall
+CMP00670,CL0151,Social Media Marketing - Website Traffic,Social Media Marketing,LinkedIn Ads,2026-06-22,2026-09-06,92712,?
+CMP00671,CL0176,SEO - Website Traffic,SEO,Organic Search (Google),2025-05-06,2026-03-24,47278,Website Traffic
+CMP00672,CL0246,Content Marketing - Sales / Conversions,Content Marketing,Organic Search (Google),2026-06-06,2026-09-06,43668,?
+CMP00673,CL0137,PPC - Website Traffic,PPC,Google Ads,21.05.2026,2026-09-06,42680,Website Traffic
+CMP00674,CL0092,SEO - Lead Generation,SEO,Organic Search (Google),2025-02-17,2026-09-06,33642,Lead Generation
+CMP00675,CL0255,PPC - Lead Generation,PPC,Google Ads,2025-05-29,2026-09-06,95575,Lead Generation
+CMP00676,CL0284,PPC - Sales / Conversions,PPC,Google Ads,2025-02-20,2026-09-06,76461,Sales / Conversions
+CMP00677,CL0157,PPC - Website Traffic,PPC,Bing Ads,2024-10-26,2025-10-24,74171,Website Traffic
+CMP00678,CL0009,Content Marketing - Website Traffic,Content Marketing,LinkedIn,2025-06-23,2026-09-06,24391,Website Traffic
+CMP00679,CL0161,Content Marketing - Sales / Conversions,Content Marketing,YouTube,2026-06-20,2026-09-06,12063,Sales / Conversions
+CMP00680,CL0285,Social Media Marketing - Brand Awareness,Social Media Marketing,LinkedIn Ads,2024-11-26,2025-12-15,87863,Brand Awareness
+CMP00681,CL0317,SEO - App Installs,SEO,Organic Search (Google),2026-01-27,2026-09-06,56988,-
+CMP00682,CL0129,Content Marketing - Website Traffic,content marketing,YouTube,2024-09-24,2025/07/07,13233,Website Traffic
+CMP00683,CL0049,Social Media Marketing - Lead Generation,Social Media Marketing,Instagram,2026-07-08,2026-09-06,nan,Lead Generation
+CMP00684,CL0184,SEO - Sales / Conversions,SEO,Organic Search (Google),2025-11-29,2026-09-06,38302,Sales / Conversions
+CMP00685,CL0266,Social Media Marketing - App Installs,Social Media Marketing,Instagram,2025-08-07,2026-06-06,81633.0,App Installs
+CMP00686,CL0303,Social Media Marketing - App Installs,Social Media Marketing,LinkedIn Ads,2025-03-15,2026-05-16,98873,App Installs
+CMP00687,CL0017,PPC - Brand Awareness,PPC,Bing Ads,2025-11-21,2026-09-06,"74,120",Brand Awareness
+CMP00688,CL0093,SEO - Local Footfall,SEO,Organic Search (Google),2025-06-19,2026-06-18,48701,?
+CMP00689,CL0153,Social Media Marketing - Website Traffic,Social Media Marketing,Instagram,2025-01-10,06.09.2026,94675,Website Traffic
+CMP00690,CL0032,SEO - Sales / Conversions,SEO,Organic Search (Google),2025-06-02,2026-08-29,52363,Sales / Conversions
+CMP00691,CL0284,SEO - Website Traffic,Seo ,Organic Search (Google),04/06/2025,15/07/2026,"28,071",Website Traffic
+CMP00692,CL0036,SEO - Local Footfall,SEO,Organic Search (Google),2025-12-05,06/09/2026,51787,Local Footfall
+CMP00693,CL0213,Local SEO / GMB - Brand Awareness,Local SEO / GMB,Organic Search (Google),2025-09-22,2026-09-06,"17,069",Brand Awareness
+CMP00694,CL0000,PPC - Lead Generation,PPC ,Google Ads,2026-03-15,2026-09-06,22277,Lead Generation
+CMP00695,CL0220,PPC - Sales / Conversions,PPC,Google Ads,2025-05-19,06.09.2026,Rs. 118652,Sales / Conversions
+CMP00696,CL0245,PPC - Lead Generation,PPC,Google Ads,2025-10-22,2026-09-06,"128,602",Lead Generation
+CMP00697,CL0085,Email Marketing - Local Footfall,Email Marketing,Email,2025-11-20,2026-09-06,11873,Local Footfall
+CMP00698,CL0265,Social Media Marketing - Local Footfall,Social Media Marketing,Meta Ads,2025-05-14,2026-07-29,"53,329",Local Footfall
+CMP00699,CL0134,Email Marketing - Website Traffic,Email Marketing,Email,2024-10-27,2026-04-26,12287,Website Traffic
+CMP00700,CL0020,PPC - Local Footfall,PPC,Google Ads,2025-07-16,2026-08-27,,Local Footfall
+CMP00701,CL0118,SEO - Lead Generation,SEO,Organic Search (Google),2025-03-08,2026-02-06,59767,Lead Generation
+CMP00702,CL0112,Social Media Marketing - Website Traffic,Social Media Marketing,LinkedIn Ads,2026-04-06,2026-09-06,16922,NA
+CMP00703,CL0167,PPC - Sales / Conversions,PPC,Bing Ads,2025/08/03,2026-08-26,92229,Sales / Conversions
+CMP00704,CL0085,Content Marketing - Brand Awareness,Content Marketing,LinkedIn,2025-11-20,2026-09-06,10597,Brand Awareness
+CMP00705,CL0148,Email Marketing - Brand Awareness,Email Marketing,Email,2025-10-04,2026-09-06,18787,Brand Awareness
+CMP00706,CL0137,Social Media Marketing - Website Traffic,Social Media Marketing,Meta Ads,2026-05-21,2026-09-06,91572,Website Traffic
+CMP00707,CL0105,Local SEO / GMB - Website Traffic,Local SEO / GMB,,2026-06-07,2026-09-06,22156,Website Traffic
+CMP00708,CL0223,Social Media Marketing - Lead Generation,Social Media Marketing,YouTube Ads,2025-05-02,06.09.2026,,-
+CMP00709,CL0098,PPC - Website Traffic,PPC,Google Ads,06/12/2025,2026-09-06,"127,630",Website Traffic
+CMP00710,CL0246,Social Media Marketing - Local Footfall,Social Media Marketing,Instagram,2026-06-06,2026-09-06,97809,Local Footfall
+CMP00711,CL0081,SEO - Lead Generation,SEO,Organic Search (Google),2026-05-10,2026-09-06,53782,Lead Generation
+CMP00712,CL0277,Content Marketing - Local Footfall,Content Marketing,YouTube,2024-09-08,2025-07-06,Rs. 19256,Local Footfall
+CMP00713,CL0117,SEO - Website Traffic,SEO,Organic Search (Google),2024-09-23,2025-10-08,40346,Website Traffic
+CMP00714,CL0014,PPC - Sales / Conversions,PPC,Bing Ads,12/10/2025,2026-09-06,126445,Sales / Conversions
+CMP00715,CL0048,Social Media Marketing - App Installs,Social Media Marketing,YouTube Ads,2024-09-06,2026-09-05,40037,App Installs
+CMP00716,CL0259,SEO - Website Traffic,SEO,Organic Search (Google),2025/08/17,2026-05-05,45383,Website Traffic
+CMP00717,CL0280,SEO - App Installs,SEO,,2026-02-14,2026-09-06,16026,App Installs
+CMP00718,CL0068,Social Media Marketing - Lead Generation,Social Media Marketing,LinkedIn Ads,2025-09-05,2026-09-06,89573,Lead Generation
+CMP00719,CL0193,SEO - Lead Generation,SEO,,2025-10-12,2026-08-01,42648,Lead Generation
+CMP00720,CL0184,Social Media Marketing - Website Traffic,Social Media Marketing,LinkedIn Ads,2025-11-29,2026/09/06,78164,Website Traffic
+CMP00721,CL0043,PPC - Brand Awareness,PPC,Bing Ads,2025-09-13,2026-05-30,127310,Brand Awareness
+CMP00722,CL0145,PPC - Brand Awareness,PPC,Google Ads,2026-02-12,2026-09-06,48441,Brand Awareness
+CMP00723,CL0223,SEO - Sales / Conversions,SEO,Organic Search (Google),2025-05-02,2026-09-06,35274,Sales / Conversions
+CMP00724,CL0310,Content Marketing - App Installs,Content Marketing,YouTube,09.03.2026,2026-09-06,44345,App Installs
+CMP00725,CL0272,Local SEO / GMB - Brand Awareness,Local SEO / GMB,,2024-11-01,2026-07-22,11623,Brand Awareness
+CMP00726,CL0032,SEO - Local Footfall,SEO,Organic Search (Google),2024-11-07,07/18/2025,52010,Local Footfall
+CMP00727,CL0077,Local SEO / GMB - Sales / Conversions,Local SEO / GMB,Organic Search (Google),2025-07-03,2026-09-06,14337,Sales / Conversions
+CMP00728,CL0140,Social Media Marketing - Lead Generation,Social Media Marketing,YouTube Ads,2025-10-11,2026-09-06,63918,Lead Generation
+CMP00729,CL0049,Social Media Marketing - Lead Generation,Social Media Marketing,LinkedIn Ads,2026-07-08,2026-09-06,58349,Lead Generation
+CMP00730,CL0183,Social Media Marketing - Local Footfall,Social Media Marketing,Instagram,2025-05-07,2026-07-29,73351,Local Footfall
+CMP00731,CL0003,Social Media Marketing - Lead Generation,Social Media Marketing,LinkedIn Ads,2025-06-04,2026-05-10,86117,Lead Generation
+CMP00732,CL0037,Content Marketing - Sales / Conversions,Content Marketing,YouTube,2025-06-23,2026-09-06,23959,Sales / Conversions
+CMP00733,CL0016,Social Media Marketing - App Installs,Social Media Marketing,LinkedIn Ads,2025-01-19,2025-11-24,29599,App Installs
+CMP00734,CL0095,Social Media Marketing - Website Traffic,Social Media Marketing,LinkedIn Ads,2025-02-17,06/09/2026,50940,unknown
+CMP00735,CL0244,PPC - Brand Awareness,PPC,Google Ads,2026-01-23,2026-09-06,99579,Brand Awareness
+CMP00736,CL0057,SEO - Lead Generation,SEO,Organic Search (Google),2026-07-06,2026-09-06,48769,Lead Generation
+CMP00737,CL0316,Social Media Marketing - App Installs,Social Media Marketing,Meta Ads,2025-03-29,2026-08-09,79036,App Installs
+CMP00738,CL0087,SEO - Sales / Conversions,SEO,Organic Search (Google),2025-05-08,2026-09-06,30298,Sales / Conversions
+CMP00739,CL0015,PPC - Lead Generation,PPC,Google Ads,2024-09-07,2026-08-26,141686,Lead Generation
+CMP00740,CL0108,SEO - Brand Awareness,SEO,Organic Search (Google),2024-09-28,2026-03-16,,Brand Awareness
+CMP00741,CL0240,SEO - Website Traffic,S.E.O,Organic Search (Google),2025-02-23,2026-02-18,"₹20,251",Website Traffic
+CMP00742,CL0035,Social Media Marketing - Brand Awareness,Social Media Marketing,LinkedIn Ads,11/18/2024,2026-06-01,17105,Brand Awareness
+CMP00743,CL0023,Social Media Marketing - Sales / Conversions,Social Media Marketing,Instagram,2024-09-25,2026-07-22,93743,Sales / Conversions
+CMP00744,CL0272,PPC - Lead Generation,Pay Per Click,Bing Ads,01/29/2025,07/29/2026,43415,Lead Generation
+CMP00745,CL0190,SEO - App Installs,SEO,Organic Search (Google),2025-08-10,2026-09-06,,App Installs
+CMP00746,CL0110,PPC - Website Traffic,PPC,Google Ads,2025-06-25,2026-06-27,"₹125,683",Website Traffic
+CMP00747,CL0242,PPC - App Installs,PPC,Bing Ads,2025-08-03,2026-05-20,,App Installs
+CMP00748,CL0271,Content Marketing - Lead Generation,Content Marketing,YouTube,2025-12-27,2026-09-06,,Lead Generation
+CMP00749,CL0115,Social Media Marketing - Sales / Conversions,SMM,YouTube Ads,2026-07-08,2026-09-06,19570,Sales / Conversions
+CMP00750,CL0180,Social Media Marketing - Brand Awareness,Social Media Marketing,Instagram,2026-01-14,2026-09-06,49601,Brand Awareness
+CMP00751,CL0004,Social Media Marketing - Website Traffic,Social Media Marketing,Instagram,2024-10-05,2026-09-01,58022.0,Website Traffic
+CMP00752,CL0098,Local SEO / GMB - App Installs,Local SEO / GMB,,2025-12-06,2026-09-06,23315,App Installs
+CMP00753,CL0191,Content Marketing - Brand Awareness,Content Marketing,Organic Search (Google),2025-05-21,2026-09-06,34905,Brand Awareness
+CMP00754,CL0064,Social Media Marketing - App Installs,Social Media Marketing,Meta Ads,2025-10-01,22/06/2026,62595,App Installs
+CMP00755,CL0318,Social Media Marketing - Website Traffic,Social Media Marketing,Instagram,2025-11-03,2026-08-02,,Website Traffic
+CMP00756,CL0311,SEO - App Installs,SEO,Organic Search (Google),2025-11-20,2026-09-06,19791,App Installs
+CMP00757,CL0083,Local SEO / GMB - Lead Generation,Local SEO / GMB,Organic Search (Google),2026-07-08,2026-09-06,17496,Lead Generation
+CMP00758,CL0127,PPC - Local Footfall,PPC,Google Ads,2024-09-24,2026-07-10,53755,Local Footfall
+CMP00759,CL0061,PPC - Sales / Conversions,PPC,Google Ads,2026-04-12,2026-09-06,92058,Sales / Conversions
+CMP00760,CL0162,Local SEO / GMB - Brand Awareness,Local SEO / GMB,Organic Search (Google),2026-03-27,2026-09-06,25536,Brand Awareness
+CMP00761,CL0040,Social Media Marketing - Brand Awareness,Social Media Marketing,LinkedIn Ads,2026-04-15,2026-09-06,61966,Brand Awareness
+CMP00762,CL0126,SEO - Local Footfall,Seo ,Organic Search (Google),2025-07-18,2026-09-06,41236,Local Footfall
+CMP00763,CL0178,SEO - Local Footfall,SEO,Organic Search (Google),2026-02-19,06/09/2026,16883,Local Footfall
+CMP00764,CL0196,SEO - Lead Generation,SEO,Organic Search (Google),2026-06-12,2026-09-06,44009,Lead Generation
+CMP00765,CL0191,Social Media Marketing - Sales / Conversions,Social Media Marketing,Instagram,2025-05-21,09/06/2026,52355.0,Sales / Conversions
+CMP00766,CL0071,SEO - App Installs,SEO,Organic Search (Google),2026-06-18,2026-09-06,20566,App Installs
+CMP00767,CL0254,Local SEO / GMB - Website Traffic,Local SEO / GMB,Google My Business,2025-01-29,2026-09-06,12703,Website Traffic
+CMP00768,CL0222,Local SEO / GMB - Brand Awareness,Local SEO / GMB,Google My Business,2025-02-12,2026-06-08,25176,Brand Awareness
+CMP00769,CL0241,Social Media Marketing - Sales / Conversions,Social Media Marketing,Instagram,2025-01-22,2026-05-29,92919,Sales / Conversions
+CMP00770,CL0150,Social Media Marketing - Sales / Conversions,Social Media Marketing,YouTube Ads,2025-09-11,2026/07/01,58156,Sales / Conversions
+CMP00771,CL0286,PPC - Brand Awareness,PPC,Google Ads,2025-01-14,2026-08-07,146955,Brand Awareness
+CMP00772,CL0125,SEO - Local Footfall,SEO,Organic Search (Google),2024-10-29,2026-08-26,23101,Local Footfall
+CMP00773,CL0258,Content Marketing - Brand Awareness,Content Marketing,LinkedIn,2025-05-31,2026-04-14,21985,Brand Awareness
+CMP00774,CL0066,SEO - App Installs,SEO,Organic Search (Google),2025-06-13,13.08.2026,56852,NA
+CMP00775,CL0080,SEO - Local Footfall,SEO,Organic Search (Google),2026/07/07,06/09/2026,22883,Local Footfall
+CMP00776,CL0169,PPC - App Installs,PPC,Bing Ads,2024-09-17,2025-08-23,105719,App Installs
+CMP00777,CL0178,SEO - App Installs,SEO,Organic Search (Google),19.02.2026,2026-09-06,24877,App Installs
+CMP00778,CL0239,PPC - Lead Generation,PPC,Google Ads,2025-09-16,06-Sep-2026,63053,Lead Generation
+CMP00779,CL0096,Social Media Marketing - Lead Generation,Social Media Marketing,Instagram,2024-11-20,2026-06-21,55608,Lead Generation
+CMP00780,CL0280,Content Marketing - App Installs,Content Marketing,Organic Search (Google),2026-02-14,2026-09-06,24399,App Installs
+CMP00781,CL0106,Social Media Marketing - App Installs,Social Media Marketing,YouTube Ads,2026-03-14,06.09.2026,89332,App Installs
+CMP00782,CL0171,Email Marketing - App Installs,Email Marketing,Email,2025-01-20,2026-06-06,Rs. 24455,App Installs
+CMP00783,CL0299,PPC - Sales / Conversions,PPC,Bing Ads,2025-05-04,2026-09-06,85004,Sales / Conversions
+CMP00784,CL0173,Email Marketing - Website Traffic,email marketing,Email,2025-10-05,2026-09-06,"15,504",Website Traffic
+CMP00785,CL0219,Social Media Marketing - Lead Generation,Social Media Marketing,Instagram,2025-06-02,2026-05-17,,Lead Generation
+CMP00786,CL0291,PPC - Brand Awareness,PPC,Google Ads,2026-01-08,2026-09-06,50446.0,Brand Awareness
+CMP00787,CL0312,Local SEO / GMB - Website Traffic,Local SEO / GMB,Organic Search (Google),2024-11-05,2026-06-27,8877,Website Traffic
+CMP00788,CL0160,PPC - Lead Generation,PPC,Google Ads,2025-09-07,2026-09-06,131364,Lead Generation
+CMP00789,CL0134,SEO - Lead Generation,SEO,,02-Oct-2024,2025-09-22,25232,Lead Generation
+CMP00790,CL0064,PPC - Lead Generation,PPC,Google Ads,2025-06-28,06-Sep-2026,64282,Lead Generation
+CMP00791,CL0172,PPC - Brand Awareness,PPC,Google Ads,2024-10-11,2026-05-12,,Brand Awareness
+CMP00792,CL0294,PPC - Local Footfall,ppc,Bing Ads,15-Mar-2026,2026-09-06,112727,Local Footfall
+CMP00793,CL0156,Social Media Marketing - App Installs,Social Media Marketing,LinkedIn Ads,11/05/2025,2026-08-31,"₹67,825",App Installs
+CMP00794,CL0112,Email Marketing - Local Footfall,Email Marketing,Email,2026-04-06,2026/09/06,5769,N/A
+CMP00795,CL0035,PPC - Brand Awareness,Pay Per Click,Google Ads,2024-10-31,2025-11-05,93184,Brand Awareness
+CMP00796,CL0125,Social Media Marketing - Website Traffic,Social Media Marketing,Meta Ads,2024-12-24,2026-08-24,62675,Website Traffic
+CMP00797,CL0076,PPC - Local Footfall,PPC,Google Ads,2024-12-12,08/24/2026,61466,Local Footfall
+CMP00798,CL0313,Content Marketing - Sales / Conversions,Content Marketing,LinkedIn,2024-10-28,2026-06-18,39797,Sales / Conversions
+CMP00799,CL0169,SEO - Website Traffic,S.E.O,Organic Search (Google),2025-02-25,2025-11-13,56824,Website Traffic
+CMP00800,CL0044,SEO - App Installs,SEO,Organic Search (Google),2026-02-05,2026-09-06,26656,App Installs
+CMP00801,CL0022,Social Media Marketing - App Installs,Social Media Marketing,Meta Ads,02/22/2025,06/09/2026,43150,App Installs
+CMP00802,CL0273,Social Media Marketing - Local Footfall,Social Media Marketing,Meta Ads,2026-05-06,2026-09-06,42398,Local Footfall
+CMP00803,CL0299,Content Marketing - Website Traffic,Content Marketing,Organic Search (Google),2025/05/05,06/05/2026,43397,Website Traffic
+CMP00804,CL0245,Social Media Marketing - Website Traffic,Social Media Marketing,YouTube Ads,2025-10-22,2026-09-06,21610,Website Traffic
+CMP00805,CL0040,Content Marketing - Local Footfall,Content Marketing,Organic Search (Google),2026-04-15,2026-09-06,45836.0,Local Footfall
+CMP00806,CL0032,PPC - App Installs,PPC,Bing Ads,2024-09-14,2026-06-17,120754,App Installs
+CMP00807,CL0064,SEO - Sales / Conversions,Seo ,Organic Search (Google),2025-08-28,2026-07-21,36750,Sales / Conversions
+CMP00808,CL0241,SEO - Website Traffic,Seo ,Organic Search (Google),2025-02-16,2026-09-06,41258,unknown
+CMP00809,CL0245,SEO - Website Traffic,SEO,Organic Search (Google),2025-10-22,2026-09-06,55243,Website Traffic
+CMP00810,CL0269,PPC - Brand Awareness,PPC,Bing Ads,2025-09-12,2026-08-29,120078,Brand Awareness
+CMP00811,CL0032,Social Media Marketing - Website Traffic,Social Media Marketing,LinkedIn Ads,2024-12-13,2026-06-20,38528,Website Traffic
+CMP00812,CL0050,PPC - Website Traffic,PPC,Google Ads,2024-11-19,2026-09-06,26552,Website Traffic
+CMP00813,CL0289,Social Media Marketing - Local Footfall,Social Media Marketing,Meta Ads,2026-04-25,2026-09-06,70966,Local Footfall
+CMP00814,CL0298,Social Media Marketing - Website Traffic,Social Media Marketing,Meta Ads,2026-02-01,2026-09-06,27393,Website Traffic
+CMP00815,CL0233,Social Media Marketing - Lead Generation,SMM,Meta Ads,2025-04-02,2026-05-02,22476,Lead Generation
+CMP00816,CL0034,Social Media Marketing - Local Footfall,social media marketing,YouTube Ads,2026/06/12,2026-09-06,98495,Local Footfall
+CMP00817,CL0022,PPC - Website Traffic,PPC,Google Ads,15-Feb-2025,2026-09-06,81611,Website Traffic
+CMP00818,CL0018,PPC - Brand Awareness,PPC,Google Ads,2026-08-07,2025-09-13,104610,Brand Awareness
+CMP00819,CL0222,Social Media Marketing - App Installs,Social Media Marketing,YouTube Ads,2025-02-25,2026-04-26,33473,App Installs
+CMP00820,CL0271,Social Media Marketing - Sales / Conversions,Social Media Marketing,Instagram,2025-12-27,2026-09-06,23644,Sales / Conversions
+CMP00821,CL0203,PPC - Sales / Conversions,PPC,Google Ads,2025-05-04,2026-09-06,28159,Sales / Conversions
+CMP00822,CL0084,PPC - Local Footfall,PPC,Bing Ads,2025-05-25,2026-05-01,66067,Local Footfall
+CMP00823,CL0243,Social Media Marketing - Local Footfall,Social Media Marketing,LinkedIn Ads,2025-10-14,2026-09-06,15316,Local Footfall
+CMP00824,CL0019,Social Media Marketing - Website Traffic,Social Media Marketing,YouTube Ads,2024-11-30,2026-09-06,50704,Website Traffic
+CMP00825,CL0266,SEO - Sales / Conversions,SEO,Organic Search (Google),2025-10-06,2026-07-21,29613,Sales / Conversions
+CMP00826,CL0286,PPC - Local Footfall,PPC,Google Ads,2025-03-14,2026-07-12,"88,488",Local Footfall
+CMP00827,CL0230,Email Marketing - Brand Awareness,email marketing,Email,2025-12-27,2026-09-06,16790,Brand Awareness
+CMP00828,CL0282,SEO - App Installs,SEO,Organic Search (Google),2025-01-10,2026-08-10,28879,App Installs
+CMP00829,CL0188,Email Marketing - Website Traffic,Email Marketing,Email,2026-03-03,2026-09-06,14104,Website Traffic
+CMP00830,CL0150,SEO - Local Footfall,SEO,Organic Search (Google),2025-09-10,2026-09-06,18514,Local Footfall
+CMP00831,CL0104,Social Media Marketing - Sales / Conversions,Social Media Mktg,LinkedIn Ads,2024/09/28,2026-09-03,"40,650",Sales / Conversions
+CMP00832,CL0295,PPC - App Installs,PPC ,Bing Ads,2025-01-04,2026-09-04,147164,App Installs
+CMP00833,CL0224,SEO - Lead Generation,seo,Organic Search (Google),2025-12-01,2026-09-06,59604,Lead Generation
+CMP00834,CL0061,Email Marketing - App Installs,Email Marketing,Email,2026-04-12,2026-09-06,14716,App Installs
+CMP00835,CL0307,PPC - Lead Generation,PPC,Google Ads,02/22/2025,2026-07-17,142138,Lead Generation
+CMP00836,CL0019,Local SEO / GMB - Website Traffic,Local SEO / GMB,Google My Business,2025-06-01,2026/03/12,19028,Website Traffic
+CMP00837,CL0189,PPC - Brand Awareness,PPC,Bing Ads,2025-05-16,2026-08-13,36334,Brand Awareness
+CMP00838,CL0061,Email Marketing - Local Footfall,Email Mktg,Email,2026-04-12,2026-09-06,22358.0,Local Footfall
+CMP00839,CL0213,Local SEO / GMB - App Installs,Local SEO / GMB,Google My Business,2025-09-22,06-Sep-2026,17132,App Installs
+CMP00840,CL0133,Social Media Marketing - Lead Generation,Social Media Marketing,Meta Ads,2025-08-19,2026-07-23,Rs. 67056,Lead Generation
+CMP00841,CL0140,SEO - Local Footfall,SEO,Organic Search (Google),2025-10-11,2026-09-06,44198,Local Footfall
+CMP00842,CL0215,Social Media Marketing - Brand Awareness,Social Media Marketing,LinkedIn Ads,2025-07-23,2026-07-21,,Brand Awareness
+CMP00843,CL0242,Social Media Marketing - Website Traffic,Social Media Mktg,,2025-05-05,2026-09-05,77346,Website Traffic
+CMP00844,CL0122,Local SEO / GMB - Lead Generation,Local SEO / GMB,Google My Business,15-Apr-2026,2026/09/06,19028,Lead Generation
+CMP00845,CL0320,PPC - Lead Generation,PPC,Bing Ads,09-Dec-2024,2025-09-01,67628,Lead Generation
+CMP00846,CL0160,PPC - Brand Awareness,PPC,Bing Ads,2025-09-07,2026-09-06,58728,Brand Awareness
+CMP00847,CL0052,SEO - Website Traffic,SEO,Organic Search (Google),2026-02-04,2026-09-06,48582,Website Traffic
+CMP00848,CL0003,Social Media Marketing - Website Traffic,Social Media Marketing,YouTube Ads,2025-10-24,2026-09-02,36193,Website Traffic
+CMP00849,CL0065,Local SEO / GMB - Local Footfall,Local SEO / GMB,Google My Business,2026-03-10,06-Sep-2026,,-
+CMP00850,CL0222,SEO - Lead Generation,SEO,Organic Search (Google),2024-12-26,2026-03-30,54678,Lead Generation
+CMP00851,CL0173,Content Marketing - App Installs,Content Marketing,Organic Search (Google),2025-10-05,2026-09-06,23272,App Installs
+CMP00852,CL0109,Local SEO / GMB - Lead Generation,Local SEO / GMB,Organic Search (Google),19-Sep-2024,2026-08-10,22102,Lead Generation
+CMP00853,CL0155,SEO - Brand Awareness,SEO,Organic Search (Google),2025-03-13,2025-11-24,47239,unknown
+CMP00854,CL0269,SEO - Brand Awareness,SEO,Organic Search (Google),2025-09-12,2026-09-06,52725,-
+CMP00855,CL0183,Social Media Marketing - Lead Generation,Social Media Marketing,Meta Ads,2024-11-06,2026-05-09,68183,Lead Generation
+CMP00856,CL0019,Social Media Marketing - Website Traffic,Social Media Marketing,YouTube Ads,2024-11-30,2026-09-06,75175,-
+CMP00857,CL0016,SEO - Local Footfall,SEO,,2025-02-22,2026-09-04,52674,Local Footfall
+CMP00858,CL0155,Content Marketing - App Installs,Content Marketing,YouTube,2025-03-23,2026-05-23,47734,App Installs
+CMP00859,CL0130,Social Media Marketing - Local Footfall,Social Media Marketing,Instagram,08-Jun-2026,2026-09-06,18982,Local Footfall
+CMP00860,CL0273,Email Marketing - Website Traffic,Email Marketing,Email,2026-05-06,2026-09-06,19865,Website Traffic
+CMP00861,CL0187,Email Marketing - Lead Generation,email marketing,Email,2024-10-15,2026-06-15,8487,Lead Generation
+CMP00862,CL0243,Content Marketing - Sales / Conversions,Content Marketing,,2025-10-14,2026-09-06,45651,Sales / Conversions
+CMP00863,CL0188,Social Media Marketing - App Installs,Social Media Marketing,LinkedIn Ads,2026-03-03,2026-09-06,19122,App Installs
+CMP00864,CL9999,PPC - Lead Generation,PPC,Bing Ads,17-Sep-2024,2026-07-29,"52,080",Lead Generation
+CMP00865,CL0211,Social Media Marketing - Lead Generation,Social Media Marketing,YouTube Ads,2024-10-08,2026-05-26,31329,Lead Generation
+CMP00866,CL0199,SEO - Local Footfall,SEO,Organic Search (Google),2026-07-08,2026-09-06,42153,Local Footfall
+CMP00867,CL0231,Social Media Marketing - Lead Generation,Social Media Marketing,,2026-01-26,2026-09-06,15364,Lead Generation
+CMP00868,CL0061,SEO - Local Footfall,SEO,Organic Search (Google),2026-04-12,2026-09-06,15766,Local Footfall
+CMP00869,CL0206,Social Media Marketing - App Installs,Social Media Marketing,YouTube Ads,2026-07-08,2026-09-06,Rs. 57857,App Installs
+CMP00870,CL0092,SEO - Website Traffic,SEO,Organic Search (Google),2025-01-13,2026-04-15,58724,Website Traffic
+CMP00871,CL0253,PPC - Website Traffic,PPC,Bing Ads,2026-02-22,2026-09-06,88680,Website Traffic
+CMP00872,CL0256,PPC - Lead Generation,PPC,Bing Ads,2024-12-28,25-Jul-2026,77970,Lead Generation
+CMP00873,CL0200,Social Media Marketing - Sales / Conversions,Social Media Marketing,Instagram,2025-04-02,2026-07-20,70920,Sales / Conversions
+CMP00874,CL0303,Content Marketing - App Installs,Content Marketing,Organic Search (Google),31-Mar-2025,2026-05-10,32072,App Installs
+CMP00875,CL0173,SEO - Local Footfall,SEO,Organic Search (Google),2025-10-05,2026-09-06,32321,Local Footfall
+CMP00876,CL0009,Email Marketing - Sales / Conversions,Email Marketing,Email,2025-06-23,09/06/2026,"16,770",Sales / Conversions
+CMP00877,CL0194,Email Marketing - Local Footfall,Email Marketing,Email,2025-03-23,2026-02-01,5064,Local Footfall
+CMP00878,CL0249,PPC - App Installs,PPC,Google Ads,2025-03-10,2026-08-06,51783,App Installs
+CMP00879,CL0033,Social Media Marketing - Lead Generation,Social Media Marketing,YouTube Ads,2026-03-14,2026-09-06,72280,Lead Generation
+CMP00880,CL0034,PPC - Website Traffic,PPC,Google Ads,2026-06-12,2026-09-06,64401,Website Traffic
+CMP00881,CL0088,SEO - Website Traffic,SEO,Organic Search (Google),2025-04-18,2026-08-27,,Website Traffic
+CMP00882,CL0271,Social Media Marketing - Website Traffic,Social Media Marketing,LinkedIn Ads,2025-12-27,2026-09-06,25577.0,Website Traffic
+CMP00883,CL0169,SEO - App Installs,SEO,Organic Search (Google),2025-02-12,2026-08-27,53977,N/A
+CMP00884,CL0313,Email Marketing - Local Footfall,Email Marketing,Email,2024-11-20,2026-07-25,11591,Local Footfall
+CMP00885,CL0280,Local SEO / GMB - Website Traffic,Local SEO / GMB,Google My Business,2026-02-14,2026-09-06,8498,Website Traffic
+CMP00886,CL0178,Content Marketing - Brand Awareness,Content Marketing,YouTube,2026-02-19,2026-09-06,39152,Brand Awareness
+CMP00887,CL0218,Social Media Marketing - Local Footfall,Social Media Marketing,Meta Ads,2024-10-02,2026-02-07,60090,Local Footfall
+CMP00888,CL0106,Social Media Marketing - Local Footfall,Social Media Marketing,LinkedIn Ads,2026-03-14,2026-09-06,53367,Local Footfall
+CMP00889,CL0029,Local SEO / GMB - App Installs,Local SEO / GMB,Organic Search (Google),2024-10-26,2026-04-28,27688,App Installs
+CMP00890,CL0128,PPC - Website Traffic,PPC,Bing Ads,2025-01-16,2026-09-06,60784,unknown
+CMP00891,CL0190,SEO - Lead Generation,seo,Organic Search (Google),2025-08-10,2026-09-06,40762,Lead Generation
+CMP00892,CL0059,Social Media Marketing - Sales / Conversions,Social Media Mktg,LinkedIn Ads,2025-02-06,2026-03-22,78316,Sales / Conversions
+CMP00893,CL0071,PPC - Brand Awareness,PPC,Google Ads,2026-06-18,2026-09-06,99094,Brand Awareness
+CMP00894,CL0005,PPC - Website Traffic,PPC,Bing Ads,2025-05-15,2026-04-15,47036,Website Traffic
+CMP00895,CL0235,SEO - App Installs,SEO,Organic Search (Google),2025-09-22,2026-09-06,45672,App Installs
+CMP00896,CL0288,Social Media Marketing - Brand Awareness,SMM,Meta Ads,2024-10-29,2025-11-14,78188.0,Brand Awareness
+CMP00897,CL0265,PPC - Local Footfall,PPC,Google Ads,2025-02-18,2026-05-29,35913,Local Footfall
+CMP00898,CL0122,SEO - Lead Generation,SEO,Organic Search (Google),2026-04-15,2026-09-06,22445,Lead Generation
+CMP00899,CL0000,SEO - Lead Generation,SEO,Organic Search (Google),2025-08-10,2026-09-06,45371,Lead Generation
+CMP00900,CL0308,PPC - Local Footfall,PPC,,2025-11-22,2026-09-06,35467.0,Local Footfall
+CMP00901,CL0190,Email Marketing - Lead Generation,Email Marketing,Email,2025-08-10,2026-09-06,,Lead Generation
+CMP00902,CL0095,PPC - App Installs,PPC,Bing Ads,2025-02-22,2026/09/06,34243,App Installs
+CMP00903,CL0109,Social Media Marketing - App Installs,Social Media Marketing,Meta Ads,2025-09-30,02/07/2026,97808,App Installs
+CMP00904,CL0233,Content Marketing - Brand Awareness,Content Marketing,LinkedIn,2025-03-29,2026-05-16,36860,Brand Awareness
+CMP00905,CL0143,PPC - Lead Generation,PPC,Google Ads,2024-10-01,2026-05-05,77596,Lead Generation
+CMP00906,CL0268,Content Marketing - Brand Awareness,Content Marketing,LinkedIn,2025-10-02,2026-09-01,20735,Brand Awareness
+CMP00907,CL0277,Social Media Marketing - Lead Generation,Social Media Marketing,LinkedIn Ads,2025-03-30,2026-03-21,44282.0,Lead Generation
+CMP00908,CL0012,Social Media Marketing - App Installs,Social Media Marketing,LinkedIn Ads,2025-05-22,2026/05/03,78623,App Installs
+CMP00909,CL0232,SEO - Local Footfall,SEO,Organic Search (Google),2026-05-13,2026-09-06,48898,Local Footfall
+CMP00910,CL0119,SEO - Local Footfall,SEO,Organic Search (Google),2025-09-09,2026-05-24,24389.0,Local Footfall
+CMP00911,CL0167,Local SEO / GMB - App Installs,Local SEO / GMB,Organic Search (Google),2025-06-28,2026-09-06,19943,App Installs
+CMP00912,CL0085,Content Marketing - App Installs,content marketing,LinkedIn,2025-11-28,2026-08-23,49717,App Installs
+CMP00913,CL9999,Local SEO / GMB - Local Footfall,Local SEO / GMB,Google My Business,05/31/2025,2026-06-16,13660,Local Footfall
+CMP00914,CL0106,Email Marketing - App Installs,Email Marketing,Email,2026-03-14,2026-09-06,18868,App Installs
+CMP00915,CL0017,SEO - Website Traffic,seo,Organic Search (Google),2025-11-21,2026-09-06,22747,Website Traffic
+CMP00916,CL0251,Content Marketing - Local Footfall,Content Marketing,YouTube,2025-03-19,2026-09-06,43363,Local Footfall
+CMP00917,CL0046,PPC - Brand Awareness,PPC,Google Ads,2026-07-08,2026-09-06,42129,Brand Awareness
+CMP00918,CL0121,Content Marketing - Sales / Conversions,Content Marketing,YouTube,2026-06-11,2026-09-06,"21,904",Sales / Conversions
+CMP00919,CL0062,SEO - Local Footfall,SEO,Organic Search (Google),2024-10-13,16.06.2026,35662,Local Footfall
+CMP00920,CL0052,PPC - Brand Awareness,PPC,Bing Ads,2026-02-04,2026-09-06,68185,Brand Awareness
+CMP00921,CL0120,Content Marketing - Brand Awareness,Content Marketing,LinkedIn,2025-10-15,2026-09-06,,Brand Awareness
+CMP00922,CL0295,Content Marketing - Lead Generation,Content Marketing,Organic Search (Google),07/28/2025,2026-07-09,35639,Lead Generation
+CMP00923,CL0303,Social Media Marketing - Brand Awareness,Social Media Marketing,Instagram,2025-03-11,2026-08-07,16676,Brand Awareness
+CMP00924,CL0123,PPC - Website Traffic,PPC,Bing Ads,2026-07-08,2026-09-06,147857,Website Traffic
+CMP00925,CL0162,PPC - Local Footfall,PPC,Google Ads,2026-03-27,2026-09-06,26771.0,Local Footfall
+CMP00926,CL0316,Local SEO / GMB - Lead Generation,Local SEO / GMB,Google My Business,2024/10/22,2026-05-22,15344,Lead Generation
+CMP00927,CL0076,PPC - App Installs,PPC,Google Ads,2024-12-31,2026-07-23,140884,App Installs
+CMP00928,CL0303,PPC - App Installs,PPC,Google Ads,2024-12-10,2026-09-01,40160,App Installs
+CMP00929,CL0034,Social Media Marketing - Local Footfall,Social Media Marketing,LinkedIn Ads,2026-06-12,2026-09-06,21201,Local Footfall
+CMP00930,CL0073,PPC - App Installs,PPC,Bing Ads,2024-09-12,2026-07-18,₹nan,App Installs
+CMP00931,CL0109,Social Media Marketing - Lead Generation,Social Media Marketing,LinkedIn Ads,2025-11-07,2026-09-04,nan,Lead Generation
+CMP00932,CL0012,PPC - Sales / Conversions,PPC,Google Ads,2025-05-05,2026-09-06,,Sales / Conversions
+CMP00933,CL0262,Content Marketing - Local Footfall,Content Marketing,YouTube,2025-08-18,2026-09-06,28047,Local Footfall
+CMP00934,CL0274,Email Marketing - Local Footfall,Email Marketing,Email,2025-12-14,2026-09-06,22386,Local Footfall
+CMP00935,CL0123,Local SEO / GMB - Website Traffic,Local SEO / GMB,Organic Search (Google),2026/07/08,09/06/2026,"13,392",Website Traffic
+CMP00936,CL0268,Social Media Marketing - Local Footfall,Social Media Marketing,Instagram,2025-02-03,2026-09-06,26996,Local Footfall
+CMP00937,CL0248,PPC - App Installs,PPC,Google Ads,2025-11-20,2026-09-06,145150,App Installs
+CMP00938,CL0257,Social Media Marketing - Lead Generation,Social Media Marketing,Meta Ads,2025-12-18,2026-09-06,79784,Lead Generation
+CMP00939,CL0257,Content Marketing - Local Footfall,Content Marketing,LinkedIn,2025-12-18,2026-09-06,46439,Local Footfall
+CMP00940,CL0184,Social Media Marketing - Brand Awareness,Social Media Marketing,YouTube Ads,2025-11-29,2026-09-06,42190,Brand Awareness
+CMP00941,CL0036,Social Media Marketing - Sales / Conversions,Social Media Marketing,Meta Ads,2025-12-05,2026-09-06,49403,Sales / Conversions
+CMP00942,CL0296,Content Marketing - Brand Awareness,Content Marketing,YouTube,2025-12-31,2026-09-06,33088,Brand Awareness
+CMP00943,CL0195,Social Media Marketing - App Installs,Social Media Marketing,Instagram,2025-05-31,2026-09-06,53142,App Installs
+CMP00944,CL0289,Content Marketing - Lead Generation,Content Marketing,LinkedIn,2026-04-25,2026-09-06,19706,Lead Generation
+CMP00945,CL0307,SEO - Website Traffic,SEO,Organic Search (Google),2025-03-07,2026-05-27,31880,Website Traffic
+CMP00946,CL0060,Social Media Marketing - Local Footfall,Social Media Marketing,Meta Ads,2025-10-24,2026-09-06,66744,Local Footfall
+CMP00947,CL0129,Social Media Marketing - App Installs,Social Media Marketing,Meta Ads,2024-09-16,2026-08-18,18218,App Installs
+CMP00948,CL0062,SEO - Brand Awareness,SEO,,20/05/2025,2026-08-01,30117,Brand Awareness
+CMP00949,CL0017,Email Marketing - Local Footfall,Email Marketing,Email,21-Nov-2025,06-Sep-2026,10856,Local Footfall
+CMP00950,CL0310,Social Media Marketing - Sales / Conversions,Social Media Marketing,Instagram,2026-03-09,2026-09-06,20977,Sales / Conversions
+CMP00951,CL0296,SEO - App Installs,SEO,Organic Search (Google),2025-12-31,2026/09/06,20520,App Installs
+CMP00952,CL0299,Content Marketing - Website Traffic,Content Mktg,YouTube,2025-07-17,2026-06-07,Rs. 29827,Website Traffic
+CMP00953,CL0283,Social Media Marketing - Lead Generation,Social Media Marketing,Meta Ads,2025-08-03,2026-09-04,23701,Lead Generation
+CMP00954,CL0208,Content Marketing - Lead Generation,Content Marketing,YouTube,2025-12-15,2026-09-06,"23,796",Lead Generation
+CMP00955,CL0168,PPC - Brand Awareness,PPC ,Bing Ads,2025-03-17,2026-09-06,92912,Brand Awareness
+CMP00956,CL0318,Email Marketing - Local Footfall,Email Marketing,Email,2025-08-03,23-Aug-2026,22476,Local Footfall
+CMP00957,CL0177,PPC - Local Footfall,ppc,Bing Ads,27-Mar-2025,2026-09-06,32839.0,Local Footfall
+CMP00958,CL0206,Social Media Marketing - Sales / Conversions,Social Media Marketing,Meta Ads,2026-07-08,2026/09/06,51944,Sales / Conversions
+CMP00959,CL0068,SEO - Local Footfall,S.E.O,Organic Search (Google),2025-09-06,21-Jul-2026,19631,Local Footfall
+CMP00960,CL0239,Social Media Marketing - Lead Generation,Social Media Marketing,Meta Ads,2025-10-07,2026-08-06,,Lead Generation
+CMP00961,CL0263,Social Media Marketing - Local Footfall,Social Media Marketing,Meta Ads,2025-12-25,2026-09-06,55843,Local Footfall
+CMP00962,CL0218,Social Media Marketing - Brand Awareness,Social Media Marketing,YouTube Ads,2024-09-17,2026-04-28,82937,Brand Awareness
+CMP00963,CL0160,Social Media Marketing - Lead Generation,Social Media Marketing,LinkedIn Ads,2025-09-07,2026-09-06,52594,Lead Generation
+CMP00964,CL0064,Content Marketing - App Installs,content marketing,YouTube,2025-06-28,2026-09-06,47420,App Installs
+CMP00965,CL0011,Social Media Marketing - Sales / Conversions,Social Media Marketing,YouTube Ads,2026-07-08,06.09.2026,26698,Sales / Conversions
+CMP00966,CL0201,PPC - Brand Awareness,PPC,Bing Ads,2025-05-11,2026-09-06,26910.0,Brand Awareness
+CMP00967,CL0219,Local SEO / GMB - App Installs,Local SEO / GMB,Google My Business,2025-04-26,2026-09-06,8097,App Installs
+CMP00968,CL0248,Social Media Marketing - Brand Awareness,Social Media Marketing,LinkedIn Ads,2025-11-26,2026-08-25,45323,Brand Awareness
+CMP00969,CL0305,Local SEO / GMB - App Installs,Local SEO / GMB,Organic Search (Google),2024-12-14,2026-08-21,12245,App Installs
+CMP00970,CL0160,Local SEO / GMB - Brand Awareness,Local SEO / GMB,Google My Business,07-Sep-2025,2026-09-06,"₹10,014",Brand Awareness
+CMP00971,CL0266,Email Marketing - Lead Generation,Email Marketing,Email,2025-02-13,09/06/2026,9717,Lead Generation
+CMP00972,CL0230,Content Marketing - Brand Awareness,Content Marketing,YouTube,2025-12-27,2026-09-06,48999,Brand Awareness
+CMP00973,CL0089,Social Media Marketing - Website Traffic,Social Media Marketing,Instagram,2025-05-20,2026-07-02,83021,Website Traffic
+CMP00974,CL0271,SEO - Brand Awareness,SEO,Organic Search (Google),2025-12-27,2026-09-06,15835,Brand Awareness
+CMP00975,CL0018,Social Media Marketing - Lead Generation,Social Media Marketing,Meta Ads,2025-07-14,2026-08-05,92812,Lead Generation
+CMP00976,CL0192,Content Marketing - App Installs,Content Marketing,Organic Search (Google),2025-06-20,2026-09-06,Rs. 18210,App Installs
+CMP00977,CL0301,Social Media Marketing - Sales / Conversions,social media marketing,Instagram,2025-05-02,2026-07-28,49505,Sales / Conversions
+CMP00978,CL0211,Email Marketing - Sales / Conversions,Email Marketing,Email,2024-11-29,2026-08-13,Rs. 11552,Sales / Conversions
+CMP00979,CL0300,SEO - Brand Awareness,seo,,2026-02-13,2026-09-06,33226.0,Brand Awareness
+CMP00980,CL0018,PPC - Lead Generation,PPC,,2025-07-02,2026-09-06,118894,Lead Generation
+CMP00981,CL0171,Social Media Marketing - Lead Generation,SMM,Instagram,2024-12-24,16.08.2026,"₹75,560",Lead Generation
+CMP00982,CL0250,PPC - App Installs,PPC,Bing Ads,2025-08-19,2026-09-06,97224,App Installs
+CMP00983,CL0206,SEO - Lead Generation,SEO,Organic Search (Google),2026-07-08,09/06/2026,43211,Lead Generation
+CMP00984,CL0282,SEO - Brand Awareness,SEO,Organic Search (Google),2024-12-09,2026-09-02,47738,Brand Awareness
+CMP00985,CL0149,Content Marketing - Local Footfall,Content Mktg,YouTube,09.04.2026,06/09/2026,17365,Local Footfall
+CMP00986,CL0219,Social Media Marketing - Sales / Conversions,Social Media Marketing,Instagram,2025-05-17,2026-08-02,48631.0,Sales / Conversions
+CMP00987,CL0135,SEO - App Installs,SEO,Organic Search (Google),2025-07-23,2026-09-06,19846,App Installs
+CMP00988,CL0280,SEO - Sales / Conversions,SEO,Organic Search (Google),2026-02-14,2026-09-06,46687,Sales / Conversions
+CMP00989,CL0039,Social Media Marketing - Local Footfall,Social Media Marketing,YouTube Ads,2026-05-24,2026-09-06,52197,Local Footfall
+CMP00990,CL0082,SEO - App Installs,SEO,Organic Search (Google),2025-03-21,2026-02-14,43677,App Installs
+CMP00991,CL0031,Social Media Marketing - Sales / Conversions,Social Media Marketing,Meta Ads,2025-03-17,2026-03-16,63010,Sales / Conversions
+CMP00992,CL0225,Content Marketing - App Installs,Content Marketing,YouTube,2024-10-17,2026-08-25,20945,App Installs
+CMP00993,CL0075,PPC - Sales / Conversions,ppc,Google Ads,2026-02-08,2026-09-06,38031,Sales / Conversions
+CMP00994,CL0102,Social Media Marketing - Local Footfall,Social Media Marketing,YouTube Ads,2025-12-07,2026-09-06,97699,Local Footfall
+CMP00995,CL0268,SEO - Sales / Conversions,S.E.O,Organic Search (Google),02/02/2025,2026-09-06,28197,Sales / Conversions
+CMP00996,CL0116,PPC - Local Footfall,PPC,Google Ads,2026-02-28,2026-09-06,34243,Local Footfall
+CMP00997,CL0047,Email Marketing - Website Traffic,email marketing,Email,2024-10-15,2026-06-24,11118,Website Traffic
+CMP00998,CL0007,Social Media Marketing - Website Traffic,Social Media Marketing,YouTube Ads,2024-09-28,2026-08-01,,Website Traffic
+CMP00999,CL0073,Email Marketing - Sales / Conversions,Email Marketing,Email,2024-10-23,2025-11-01,10225,Sales / Conversions
+CMP01000,CL0293,PPC - App Installs,PPC,Google Ads,2025-11-23,2026-09-06,"₹148,282",App Installs
+CMP01001,CL0176,PPC - App Installs,PPC,Google Ads,2025-06-08,2026-07-05,79898,App Installs
+CMP01002,CL0319,Social Media Marketing - App Installs,Social Media Marketing,LinkedIn Ads,12/28/2025,2026-09-06,88254,?
+CMP01003,CL0069,Social Media Marketing - App Installs,Social Media Marketing,YouTube Ads,2026-03-21,2026-09-06,70510,App Installs
+CMP01004,CL0113,Local SEO / GMB - Lead Generation,Local SEO / GMB,Google My Business,2025-01-05,05/04/2026,8966,Lead Generation
+CMP01005,CL0053,SEO - Local Footfall,SEO,Organic Search (Google),2024-10-05,2025-08-31,37922,Local Footfall
+CMP01006,CL0128,Email Marketing - Local Footfall,Email Marketing,Email,2025-04-12,2026-06-02,13338,Local Footfall
+CMP01007,CL0181,Email Marketing - Brand Awareness,Email Marketing,Email,2025-12-05,2026-09-06,9029,Brand Awareness
+CMP01008,CL0259,Social Media Marketing - Local Footfall,Social Media Marketing,Meta Ads,2025-04-26,2026-08-11,61748,Local Footfall
+CMP01009,CL0118,PPC - Website Traffic,PPC,Bing Ads,2025/06/11,2026-06-22,33382.0,Website Traffic
+CMP01010,CL0247,Social Media Marketing - Brand Awareness,Social Media Marketing,Instagram,2026-07-03,2026-09-06,74355,Brand Awareness
+CMP01011,CL0201,PPC - Brand Awareness,Pay Per Click,Google Ads,2025-05-11,2026-09-06,126843,Brand Awareness
+CMP01012,CL0094,Content Marketing - Sales / Conversions,Content Mktg,LinkedIn,2025-02-06,13.05.2026,13701,Sales / Conversions
+CMP01013,CL0292,Social Media Marketing - Lead Generation,Social Media Marketing,Meta Ads,2025-09-08,2024-12-02,55740,Lead Generation
+CMP01014,CL0139,Local SEO / GMB - App Installs,Local SEO / GMB,Organic Search (Google),2025-06-25,2026-09-06,22412,App Installs
+CMP01015,CL0049,Social Media Marketing - App Installs,social media marketing,YouTube Ads,2026-07-08,2026-09-06,20281,App Installs
+CMP01016,CL0309,Social Media Marketing - App Installs,Social Media Mktg,YouTube Ads,2025-07-07,2026-09-06,48092,App Installs
+CMP01017,CL0293,Social Media Marketing - Website Traffic,Social Media Mktg,Instagram,2025-11-23,2026-09-06,36940,Website Traffic
+CMP01018,CL0016,Social Media Marketing - Sales / Conversions,Social Media Marketing,Meta Ads,2025-04-24,2026-01-26,18336,Sales / Conversions
+CMP01019,CL0289,Email Marketing - App Installs,Email Marketing,Email,2026-04-25,2026-09-06,"21,080",App Installs
+CMP01020,CL0304,SEO - Local Footfall,SEO,Organic Search (Google),2025-03-18,2026-02-02,35010,Local Footfall
+CMP01021,CL0266,Local SEO / GMB - Lead Generation,Local SEO / GMB,Google My Business,2025-03-04,2026-06-11,24537,Lead Generation
+CMP01022,CL0082,Content Marketing - Sales / Conversions,Content Mktg,YouTube,2025-02-19,2026-07-15,33483,Sales / Conversions
+CMP01023,CL0203,Email Marketing - Local Footfall,Email Marketing,Email,2025-08-21,2026-09-03,"22,516",Local Footfall
+CMP01024,CL0173,Social Media Marketing - Local Footfall,Social Media Marketing,YouTube Ads,2025-10-05,2026-09-06,99745,Local Footfall
+CMP01025,CL0199,Content Marketing - Local Footfall,Content Marketing,YouTube,2026-07-08,2026-09-06,34083,Local Footfall
+CMP01026,CL0198,PPC - Brand Awareness,PPC,Bing Ads,2025-08-30,2026-06-09,65781,Brand Awareness
+CMP01027,CL0205,Content Marketing - Sales / Conversions,Content Marketing,LinkedIn,2025-06-15,31-Jul-2026,26916.0,Sales / Conversions
+CMP01028,CL0165,SEO - Lead Generation,SEO,Organic Search (Google),2026-01-17,2026-09-06,52143,Lead Generation
+CMP01029,CL0221,PPC - Local Footfall,Pay Per Click,,2026-05-08,2026-09-06,75462,Local Footfall
+CMP01030,CL0169,PPC - Website Traffic,PPC,Google Ads,2024-09-27,2025-10-06,87566,Website Traffic
+CMP01031,CL0006,PPC - Brand Awareness,PPC,Google Ads,2025-03-03,2026-08-26,45220,Brand Awareness
+CMP01032,CL0012,PPC - Lead Generation,PPC,Google Ads,2025-05-11,2026-08-01,148708,Lead Generation
+CMP01033,CL0307,Content Marketing - App Installs,Content Marketing,YouTube,2025-01-16,2026-02-22,36031,App Installs
+CMP01034,CL0291,PPC - App Installs,PPC,Google Ads,2026-01-08,2026-09-06,62927,App Installs
+CMP01035,CL0188,Content Marketing - Local Footfall,Content Marketing,LinkedIn,2026-03-03,2026-09-06,33402,Local Footfall
+CMP01036,CL0056,SEO - Local Footfall,SEO,Organic Search (Google),2025-03-26,2026-05-15,33051,Local Footfall
+CMP01037,CL0251,Content Marketing - App Installs,Content Marketing,Organic Search (Google),2025-08-19,2026-08-17,16194,App Installs
+CMP01038,CL0046,Content Marketing - App Installs,Content Marketing,LinkedIn,2026-07-08,06.09.2026,44989,App Installs
+CMP01039,CL0121,PPC - App Installs,PPC,Bing Ads,2026-06-11,2026/09/06,135136,App Installs
+CMP01040,CL0106,Content Marketing - Local Footfall,content marketing,Organic Search (Google),2026-03-14,09/06/2026,43395,Local Footfall
+CMP01041,CL0004,Email Marketing - Sales / Conversions,email marketing,Email,2024-11-25,2026-07-31,,Sales / Conversions
+CMP01042,CL0259,Content Marketing - App Installs,Content Marketing,Organic Search (Google),2025-04-26,2026/03/31,20256,App Installs
+CMP01043,CL0164,PPC - App Installs,PPC,Google Ads,2025-01-17,2026-03-10,26466,App Installs
+CMP01044,CL0102,Social Media Marketing - Lead Generation,social media marketing,Instagram,2025-12-07,2026-09-06,77180,Lead Generation
+CMP01045,CL0163,Content Marketing - App Installs,Content Marketing,Organic Search (Google),2025-02-17,2026-08-28,23115,App Installs
+CMP01046,CL0001,PPC - Sales / Conversions,PPC,Bing Ads,2025-09-19,2026-09-04,135988,Sales / Conversions
+CMP01047,CL0140,Content Marketing - Lead Generation,Content Marketing,Organic Search (Google),2025-10-11,06.09.2026,44794,-
+CMP01048,CL0167,PPC - Brand Awareness,PPC,Google Ads,2025-06-28,2026-09-06,36663,Brand Awareness
+CMP01049,CL0109,Content Marketing - Lead Generation,Content Marketing,LinkedIn,2024-10-15,2026-07-01,46678,Lead Generation
+CMP01050,CL0266,SEO - Local Footfall,SEO,Organic Search (Google),25-May-2025,2026-06-16,21312,Local Footfall
+CMP00890,CL0128,PPC - Website Traffic,PPC,Bing Ads,2025-01-16,2026-09-06,60784,unknown
+CMP00061,CL0047,SEO - Lead Generation,SEO,Organic Search (Google),04/17/2025,2026-04-18,15272,Lead Generation
+CMP00971,CL0266,Email Marketing - Lead Generation,Email Marketing,Email,2025-02-13,09/06/2026,9717,Lead Generation
+CMP00879,CL0033,Social Media Marketing - Lead Generation,Social Media Marketing,YouTube Ads,2026-03-14,2026-09-06,72280,Lead Generation
+CMP00228,CL0192,Content Marketing - Local Footfall,Content Marketing,LinkedIn,2025-08-23,2026-07-07,34542,Local Footfall
+CMP00909,CL0232,SEO - Local Footfall,SEO,Organic Search (Google),2026-05-13,2026-09-06,48898,Local Footfall
+CMP00413,CL0288,SEO - Lead Generation,SEO,Organic Search (Google),2025-02-22,24.07.2026,25251,Lead Generation
+CMP00713,CL0117,SEO - Website Traffic,SEO,Organic Search (Google),2024-09-23,2025-10-08,40346,Website Traffic
+CMP00825,CL0266,SEO - Sales / Conversions,SEO,Organic Search (Google),2025-10-06,2026-07-21,29613,Sales / Conversions
+CMP00583,CL0288,Social Media Marketing - Local Footfall,Social Media Marketing,Meta Ads,2025-02-27,2026-01-29,31844,-
+CMP00689,CL0153,Social Media Marketing - Website Traffic,Social Media Marketing,Instagram,2025-01-10,06.09.2026,94675,Website Traffic
+CMP00234,CL0256,Social Media Marketing - Website Traffic,Social Media Marketing,,2024-11-27,03/08/2026,25520,Website Traffic
+CMP00772,CL0125,SEO - Local Footfall,SEO,Organic Search (Google),2024-10-29,2026-08-26,23101,Local Footfall
+CMP00259,CL0319,SEO - App Installs,SEO,Organic Search (Google),2025-12-28,2026-09-06,41301,App Installs
+CMP00435,CL0281,Social Media Marketing - Local Footfall,Social Media Marketing,YouTube Ads,2024-10-19,2026-09-06,28521,Local Footfall
+CMP00635,CL0221,SEO - Website Traffic,seo,Organic Search (Google),2026-05-08,2026-09-06,22253,Website Traffic
+CMP00092,CL0176,PPC - Lead Generation,PPC,Bing Ads,2024-10-12,23/04/2026,79042,Lead Generation
+CMP00210,CL0088,SEO - Lead Generation,SEO,Organic Search (Google),2025-04-15,2026-09-06,48652,Lead Generation
+CMP00131,CL0059,Social Media Marketing - Sales / Conversions,Social Media Marketing,LinkedIn Ads,2024-12-02,2026-07-31,Rs. 64216,Sales / Conversions
+CMP00482,CL0228,SEO - Sales / Conversions,SEO,Organic Search (Google),2025-12-03,2026-09-06,"23,985",Sales / Conversions
+CMP00785,CL0219,Social Media Marketing - Lead Generation,Social Media Marketing,Instagram,2025-06-02,2026-05-17,,Lead Generation
+CMP00426,CL0189,SEO - Sales / Conversions,SEO,Organic Search (Google),2024-09-20,2026-08-02,38430,Sales / Conversions
+CMP00535,CL0030,Social Media Marketing - Brand Awareness,Social Media Marketing,,2024-11-13,2026-09-06,60201,Brand Awareness
+CMP00359,CL0164,SEO - Website Traffic,SEO,Organic Search (Google),2024-12-21,2026-09-06,54589,Website Traffic
+CMP00503,CL0279,Social Media Marketing - Sales / Conversions,Social Media Marketing,LinkedIn Ads,2026-06-29,2026-09-06,"₹34,001",Sales / Conversions
+CMP00021,CL0170,Social Media Marketing - App Installs,Social Media Marketing,Meta Ads,2025-09-03,2026-09-06,93550,App Installs
+CMP00820,CL0271,Social Media Marketing - Sales / Conversions,Social Media Marketing,Instagram,2025-12-27,2026-09-06,23644,Sales / Conversions
+CMP00841,CL0140,SEO - Local Footfall,SEO,Organic Search (Google),2025-10-11,2026-09-06,44198,Local Footfall
+CMP00268,CL0215,Email Marketing - App Installs,Email Marketing,Email,2024-10-23,2026-01-06,11429,App Installs
+CMP00517,CL0178,Social Media Marketing - Brand Awareness,Social Media Marketing,Meta Ads,2026-02-19,2026-09-06,"80,183",Brand Awareness
+CMP00194,CL0024,Social Media Marketing - Brand Awareness,Social Media Marketing,Instagram,2024-12-10,2026-07-25,52299,Brand Awareness
+CMP00417,CL0226,Content Marketing - Sales / Conversions,Content Marketing,YouTube,2026-02-12,2026-09-06,19516,Sales / Conversions
+CMP00747,CL0242,PPC - App Installs,PPC,Bing Ads,2025-08-03,2026-05-20,,App Installs
+CMP00717,CL0280,SEO - App Installs,SEO,,2026-02-14,2026-09-06,16026,App Installs
+CMP00065,CL0317,Social Media Marketing - Website Traffic,Social Media Marketing,Instagram,2026-01-27,2026-09-06,51601.0,Website Traffic
+CMP00484,CL0317,Email Marketing - Website Traffic,Email Marketing,Email,2026-01-27,2026-09-06,17051,Website Traffic
+CMP00851,CL0173,Content Marketing - App Installs,Content Marketing,Organic Search (Google),2025-10-05,2026-09-06,23272,App Installs
+CMP01004,CL0113,Local SEO / GMB - Lead Generation,Local SEO / GMB,Google My Business,2025-01-05,05/04/2026,8966,Lead Generation
+CMP00429,CL0031,SEO - Sales / Conversions,SEO,Organic Search (Google),2024-09-10,2026-08-30,31240,-
+CMP00118,CL0073,PPC - App Installs,PPC,,2025-04-10,2026-03-12,61127,App Installs
+CMP00279,CL0089,SEO - Brand Awareness,SEO,,2025-04-15,2026-09-06,30313,Brand Awareness
+CMP00293,CL0282,Social Media Marketing - Sales / Conversions,Social Media Marketing,Meta Ads,2025-09-19,2026-07-27,34127,Sales / Conversions
+CMP00394,CL0295,SEO - Lead Generation,SEO,Organic Search (Google),2024-09-09,2026-01-27,32191,Lead Generation
+CMP00714,CL0014,PPC - Sales / Conversions,PPC,Bing Ads,12/10/2025,2026-09-06,126445,Sales / Conversions
+CMP00258,CL0297,Social Media Marketing - Sales / Conversions,Social Media Marketing,YouTube Ads,2025-06-08,2026-02-16,35669,Sales / Conversions
+CMP01013,CL0292,Social Media Marketing - Lead Generation,Social Media Marketing,Meta Ads,2025-09-08,2024-12-02,55740,Lead Generation
+CMP00643,CL0023,Content Marketing - Sales / Conversions,Content Marketing,Organic Search (Google),2024-09-30,2026-08-19,30518,Sales / Conversions
+CMP00756,CL0311,SEO - App Installs,SEO,Organic Search (Google),2025-11-20,2026-09-06,19791,App Installs
+CMP00694,CL0000,PPC - Lead Generation,PPC ,Google Ads,2026-03-15,2026-09-06,22277,Lead Generation
+CMP00617,CL0000,Local SEO / GMB - App Installs,Local SEO / GMB,Organic Search (Google),2026-07-08,2026-09-06,20288,App Installs
+CMP00962,CL0218,Social Media Marketing - Brand Awareness,Social Media Marketing,YouTube Ads,2024-09-17,2026-04-28,82937,Brand Awareness
+CMP00015,CL0127,Social Media Marketing - Website Traffic,social media marketing,Instagram,2025-02-17,2026-07-03,60033,Website Traffic
