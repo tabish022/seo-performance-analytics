@@ -1,0 +1,321 @@
+client_id,agency_id,business_name,industry,city,onboarding_date,monthly_retainer_inr,client_status
+CL0001,AG007,Metro Holidays,Travel & Tourism,Lucknow,2025-09-19,42233.0,Active
+CL0002,AG001,Modern Apparel,Fashion & Apparel,Lucknow,2025-01-20,16655.0,Inactive
+CL0003,AG041,Grand Boutique,Fashion & Apparel,Lucknow,2025-03-22,26826.0,Inactive
+CL0004,AG014,Star Furnishings,Home Services & Interiors,Barabanki,2024-07-05,28650.0,Active
+CL0005,AG030,Sai Autos,Automobile Dealers,Lucknow,2025-03-24,77438.0,Active
+CL0006,AG041,Star Travels,Travel & Tourism,Rae Bareli,2025-01-24,19627.0,Active
+CL0007,AG002,Om Automobiles,Automobile Dealers,Rae Bareli,2024-04-10,36852.0,Inactive
+CL0008,AG001,Urban Wheels,Automobile Dealers,Lucknow,2024-09-05,43773.0,Active
+CL0009,AG001,Metro Institute,Education & Coaching,Rae Bareli,2025-06-23,31648.0,Active
+CL0010,AG008,Modern Properties,Real Estate,Prayagraj,2025-01-29,42260.0,Inactive
+CL0011,AG003,Ganga Boutique,Fashion & Apparel,Ayodhya,2026-08-01,15406.0,Active
+CL0012,AG037,Metro Yoga Centre,Fitness & Wellness,Lucknow,2025-05-05,22602.5,Inactive
+CL0013,AG028,Care & Co Law,Legal Services,Lucknow,2026-07-01,25296.0,Active
+CL0014,AG045,Star Weddings,Wedding & Events,Lucknow,2025-10-12,25854.0,Inactive
+CL0015,AG037,Sunrise Events,Wedding & Events,Rae Bareli,2024-04-14,28387.0,Inactive
+CL0016,AG044,Grand Threads,Fashion & Apparel,Varanasi,2024-09-05,38200.0,Active
+CL0017,AG011,Trust Hospital,Healthcare & Clinics,Lucknow,2025-11-21,20528.0,Active
+CL0018,AG013,Royal Infra,Real Estate,Lucknow,2025-07-02,111439.0,Active
+CL0019,AG039,Elite Apparel,Fashion & Apparel,Sultanpur,2024-11-30,39574.0,Active
+CL0020,AG012,Heritage Dhaba,Restaurants & Cafes,Lucknow,2025-06-12,10240.0,Active
+CL0021,AG003,Star Wellness Centre,Healthcare & Clinics,Rae Bareli,2026-05-13,24320.0,Inactive
+CL0022,AG031,Royal Trends,E-Commerce & D2C,Varanasi,2025-02-15,30601.0,Active
+CL0023,AG037,Krishna Properties,Real Estate,Lucknow,2024-04-18,50916.0,Active
+CL0024,AG044,Comfort Occasions,Wedding & Events,Lucknow,2024-12-08,27005.0,Active
+CL0025,AG042,Unknown Business,Legal Services,Lucknow,2026-06-11,12842.0,Active
+CL0026,AG006,Trust Investments,Fintech & Local Finance,Sultanpur,2026-01-09,21154.0,Active
+CL0027,AG035,Urban Jewellers,Jewellery,Lucknow,2026-03-16,43523.0,Active
+CL0028,AG039,Classic Zari,Jewellery,Lucknow,2026-05-21,60564.0,Active
+CL0029,AG032,United Cafe,Restaurants & Cafes,Lucknow,2024-06-21,14088.0,Inactive
+CL0030,AG037,United Clinic,Healthcare & Clinics,Lucknow,2024-11-13,52743.0,Active
+CL0031,AG038,Heritage Furnishings,Home Services & Interiors,Kanpur,2024-05-01,25355.0,Active
+CL0032,AG021,Sunrise Furnishings,Home Services & Interiors,Lucknow,2024-03-14,50337.0,Inactive
+CL0033,AG002,Krishna Builders,Real Estate,Rae Bareli,2026-03-14,47419.0,Active
+CL0034,AG021,Green Jewels,Jewellery,Kanpur,2026-06-12,50056.0,Active
+CL0035,AG010,Om Cafe,Restaurants & Cafes,Ayodhya,2024-07-25,27894.0,Active
+CL0036,AG006,Sai Diagnostics,Healthcare & Clinics,Lucknow,2025-12-05,11070.0,Inactive
+CL0037,AG006,Golden Capital,Fintech & Local Finance,Barabanki,2025-06-23,94400.0,Active
+CL0038,AG032,Metro Autos,Automobile Dealers,Kanpur,2024-05-09,45547.0,Inactive
+CL0039,AG023,Krishna Banquets,Wedding & Events,Lucknow,2026-05-24,33892.0,Active
+CL0040,AG025,National Capital,Fintech & Local Finance,Prayagraj,2026-04-15,70275.0,Active
+CL0041,AG034,Care Wellness,Fitness & Wellness,Barabanki,2025-07-22,27861.0,Active
+CL0042,AG025,Radhe Tours,Travel & Tourism,Lucknow,2025-11-22,8994.0,Active
+CL0043,AG029,Ganga Events,Wedding & Events,Sultanpur,2025-02-22,53092.0,Active
+CL0044,AG004,Royal Advocates,Legal Services,Rae Bareli,2026-02-05,31073.0,Active
+CL0045,AG039,National Motors,Automobile Dealers,Kanpur,2025-04-05,89918.0,Inactive
+CL0046,AG021,Trust Gym,Fitness & Wellness,Amethi,2026-07-28,22031.0,Active
+CL0047,AG007,Lucknow Traders,Manufacturing / B2B,Lucknow,2024-05-04,61013.0,Active
+CL0048,AG037,United Banquets,Wedding & Events,Ayodhya,2024-08-08,30935.0,Active
+CL0049,AG034,Lucknow Legal Associates,Legal Services,Lucknow,2026-07-10,40921.0,Active
+CL0050,AG003,City Wheels,Automobile Dealers,Ayodhya,2024-11-19,78267.0,Active
+CL0051,AG009,Urban Capital,Fintech & Local Finance,Kanpur,2024-12-08,92688.0,Active
+CL0052,AG001,Shree Foods,Restaurants & Cafes,Lucknow,2026-02-04,20128.0,Active
+CL0053,AG013,Radhe Fitness Studio,Fitness & Wellness,Lucknow,2024-08-23,22602.5,Active
+CL0054,AG005,Metro Celebrations,Wedding & Events,Lucknow,2025-06-04,26657.0,Inactive
+CL0055,AG032,Star Corp,Manufacturing / B2B,Lucknow,2024-11-16,49569.0,Inactive
+CL0056,AG024,Grand Ornaments,Jewellery,Lucknow,2024-08-31,64414.0,Active
+CL0057,AG045,Urban Legal Consultants,Legal Services,Lucknow,2026-07-06,11002.0,Active
+CL0058,AG034,Awadh Tutorials,Education & Coaching,Lucknow,2024-09-01,52629.0,Active
+CL0059,AG998,Lucknow Institute,Education & Coaching,Lucknow,2024-05-31,10948.0,Inactive
+CL0060,AG023,National Autos,Automobile Dealers,Varanasi,2025-10-24,60645.0,Inactive
+CL0061,AG003,Sai Loans,Fintech & Local Finance,Varanasi,2026-04-12,58176.0,Inactive
+CL0062,AG004,Care Tours,Travel & Tourism,Prayagraj,2024-06-30,27684.0,Active
+CL0063,AG028,Green Gems,Jewellery,Lucknow,2025-11-22,47130.0,Active
+CL0064,AG001,Lucknow Banquets,Wedding & Events,Barabanki,2025-06-28,33580.0,Active
+CL0065,AG002,Trust Home Solutions,Home Services & Interiors,Kanpur,2026-03-10,27146.0,Active
+CL0066,AG999,Radhe Fitness Studio,Fitness & Wellness,Lucknow,2024-06-29,21346.0,Active
+CL0067,AG040,Metro Celebrations,Wedding & Events,Lucknow,2026-07-16,37544.0,Active
+CL0068,AG021,Elite Ornaments,Jewellery,Varanasi,2025-09-05,64625.0,Inactive
+CL0069,AG032,Prime Gym,Fitness & Wellness,Lucknow,2026-03-21,24773.0,Active
+CL0070,AG019,Modern Learning Point,Education & Coaching,Rae Bareli,2025-01-22,48551.0,Active
+CL0071,AG008,Green Fitness Studio,Fitness & Wellness,Amethi,2026-06-18,34444.0,Inactive
+CL0072,AG017,Urban Clinic,Healthcare & Clinics,Lucknow,2025-09-12,59454.0,Active
+CL0073,AG005,Urban Kitchen,Restaurants & Cafes,Lucknow,2024-06-29,8259.0,Active
+CL0074,AG035,Prime Travels,Travel & Tourism,Amethi,2026-05-31,23604.0,Active
+CL0075,AG009,Nawab Traders,Manufacturing / B2B,Kanpur,2026-02-08,31888.0,Inactive
+CL0076,AG017,Classic Fitness Studio,Fitness & Wellness,Lucknow,2024-11-29,12690.0,Active
+CL0077,AG045,Urban Enterprises,Manufacturing / B2B,Barabanki,2025-07-03,74475.0,Active
+CL0078,AG027,Om Weddings,Wedding & Events,Barabanki,2025-02-14,11571.0,Active
+CL0079,AG021,Sunrise Fashions,Fashion & Apparel,Rae Bareli,2025-07-01,43609.0,Active
+CL0080,AG025,Metro Estates,Real Estate,Kanpur,2026-07-07,98201.0,Active
+CL0081,AG036,Awadh Classes,Education & Coaching,Lucknow,2026-05-10,69689.0,Active
+CL0082,AG012,Green Restaurant,Restaurants & Cafes,Lucknow,2024-09-15,25038.0,Active
+CL0083,AG029,Royal Estates,Real Estate,Kanpur,2026-07-13,107926.0,Inactive
+CL0084,AG040,National Automobiles,Automobile Dealers,Lucknow,2025-03-30,28297.0,Active
+CL0085,AG026,Unknown Business,Manufacturing / B2B,Kanpur,2025-11-20,81742.0,Active
+CL0086,AG021,National Health Club,Fitness & Wellness,Ayodhya,2026-01-11,11451.0,Active
+CL0087,AG007,Metro Autos,Automobile Dealers,Lucknow,2025-05-08,42004.0,Inactive
+CL0088,AG012,Royal Law Chambers,Legal Services,Kanpur,2025-04-15,12743.0,Active
+CL0089,AG043,Classic Yoga Centre,Fitness & Wellness,Lucknow,2025-04-15,19656.0,Active
+CL0090,AG025,National Travels,Travel & Tourism,Barabanki,2026-04-08,39457.0,Inactive
+CL0091,AG014,Heritage Ornaments,Jewellery,Lucknow,2025-02-12,48593.0,Active
+CL0092,AG019,Comfort Cafe,Restaurants & Cafes,Kanpur,2024-11-11,29665.0,Active
+CL0093,AG027,Radhe Wellness,Fitness & Wellness,Rae Bareli,2025-01-22,26614.0,Active
+CL0094,AG025,Care Trends,E-Commerce & D2C,Lucknow,2024-08-28,68458.0,Active
+CL0095,AG032,Nawab Ornaments,Jewellery,Varanasi,2025-02-17,76022.0,Active
+CL0096,AG999,Radhe Classes,Education & Coaching,Varanasi,2024-06-18,35910.0,Inactive
+CL0097,AG030,Prime Enterprises,Manufacturing / B2B,Rae Bareli,2024-05-27,40848.0,Active
+CL0098,AG020,Awadh Celebrations,Wedding & Events,Prayagraj,2025-12-06,59716.0,Active
+CL0099,AG043,Awadh Classes,Education & Coaching,Amethi,2024-05-17,43420.0,Active
+CL0100,AG008,Ganga Mart,E-Commerce & D2C,Lucknow,2025-07-23,67241.0,Active
+CL0101,AG007,Sunrise Designs,Home Services & Interiors,Rae Bareli,2026-01-25,21926.0,Active
+CL0102,AG021,United Interiors,Home Services & Interiors,Lucknow,2025-12-07,18125.0,Active
+CL0103,AG023,Ganga Tours,Travel & Tourism,Ayodhya,2025-04-06,15131.0,Active
+CL0104,AG032,Green Cart,E-Commerce & D2C,Rae Bareli,2024-08-27,34002.0,Active
+CL0105,AG019,Trust Law Chambers,Legal Services,Lucknow,2026-06-07,15221.0,Active
+CL0106,AG042,Radhe Jewellers,Jewellery,Lucknow,2026-03-14,63536.0,Active
+CL0107,AG022,Radhe Travels,Travel & Tourism,Barabanki,2025-08-30,10433.0,Active
+CL0108,AG006,Care Bazaar,E-Commerce & D2C,Lucknow,2024-05-25,68497.0,Active
+CL0109,AG006,Trust Properties,Real Estate,Varanasi,2024-04-09,115182.0,Active
+CL0110,AG044,Elite Properties,Real Estate,Lucknow,2024-12-12,97727.0,Active
+CL0111,AG007,National Fashions,Fashion & Apparel,Unnao,2024-07-26,24920.0,Active
+CL0112,AG043,Nawab Wellness,Fitness & Wellness,Lucknow,2026-04-06,8019.0,Active
+CL0113,AG013,Metro Properties,Real Estate,Lucknow,2024-09-07,104241.0,Active
+CL0114,AG005,Classic Boutique,Fashion & Apparel,Barabanki,2024-11-13,8132.0,Active
+CL0115,AG014,Sai Classes,Education & Coaching,Sultanpur,2026-07-16,50879.0,Active
+CL0116,AG028,United Law Chambers,Legal Services,Lucknow,2026-02-28,32825.0,Inactive
+CL0117,AG020,Prime Loans,Fintech & Local Finance,Rae Bareli,2024-09-18,35353.0,Active
+CL0118,AG036,United Traders,Manufacturing / B2B,Prayagraj,2025-02-10,70490.0,Active
+CL0119,AG028,Heritage Capital,Fintech & Local Finance,Barabanki,2025-06-06,34036.0,Active
+CL0120,AG019,Unknown Business,Wedding & Events,Lucknow,2025-10-15,19733.0,Active
+CL0121,AG029,Krishna Traders,Manufacturing / B2B,Rae Bareli,2026-06-11,75899.0,Active
+CL0122,AG044,Shree Builders,Real Estate,Prayagraj,2026-04-15,118017.0,Inactive
+CL0123,AG019,United Yatra,Travel & Tourism,Prayagraj,2026-07-17,19117.0,Active
+CL0124,AG007,Lucknow Traders,Manufacturing / B2B,Prayagraj,2024-04-14,84100.0,Active
+CL0125,AG019,Nawab Enterprises,Manufacturing / B2B,Rae Bareli,2024-10-03,83496.0,Active
+CL0126,AG038,Radhe Fashions,Fashion & Apparel,Lucknow,2025-07-18,40315.0,Active
+CL0127,AG010,Radhe Travels,Travel & Tourism,Sultanpur,2024-04-22,13882.0,Active
+CL0128,AG043,Trust Fashions,Fashion & Apparel,Barabanki,2025-01-16,20575.0,Active
+CL0129,AG027,Metro Builders,Real Estate,Ayodhya,2024-07-23,89382.0,Active
+CL0130,AG028,Urban & Co Law,Legal Services,Lucknow,2026-06-08,44971.0,Inactive
+CL0131,AG015,Lucknow Trends,E-Commerce & D2C,Lucknow,2024-05-04,84230.0,Active
+CL0132,AG042,Green Academy,Education & Coaching,Prayagraj,2024-07-18,35216.0,Active
+CL0133,AG002,Sunrise Occasions,Wedding & Events,Lucknow,2024-08-28,20233.0,Inactive
+CL0134,AG014,Metro Mart,E-Commerce & D2C,Amethi,2024-07-18,48200.5,Active
+CL0135,AG019,Care Yatra,Travel & Tourism,Lucknow,2025-07-23,19600.0,Active
+CL0136,AG022,Urban Zari,Jewellery,Varanasi,2025-01-24,37244.0,Active
+CL0137,AG022,Care Properties,Real Estate,Barabanki,2026-05-21,116629.0,Active
+CL0138,AG007,Shree Yoga Centre,Fitness & Wellness,Lucknow,2024-10-25,25096.0,Active
+CL0139,AG011,Krishna Wheels,Automobile Dealers,Lucknow,2025-06-25,38521.0,Active
+CL0140,AG005,Unknown Business,E-Commerce & D2C,Kanpur,2025-10-11,15454.0,Active
+CL0141,AG026,Om Capital,Fintech & Local Finance,Kanpur,2025-09-11,54396.0,Active
+CL0142,AG016,Classic Motors,Automobile Dealers,Lucknow,2026-02-08,89020.0,Active
+CL0143,AG026,Elite Builders,Real Estate,Kanpur,2024-09-03,66088.0,Active
+CL0144,AG027,Elite Enterprises,Manufacturing / B2B,Sultanpur,2025-05-30,67464.0,Active
+CL0145,AG032,Trust Ornaments,Jewellery,Rae Bareli,2026-02-12,31447.0,Inactive
+CL0146,AG025,Modern Loans,Fintech & Local Finance,Lucknow,2026-04-08,82049.0,Active
+CL0147,AG030,Ganga Advocates,Legal Services,Lucknow,2025-09-04,36704.0,Active
+CL0148,AG027,Awadh Occasions,Wedding & Events,Lucknow,2025-10-04,39631.0,Active
+CL0149,AG030,Golden Capital,Fintech & Local Finance,Lucknow,2026-04-09,81747.0,Active
+CL0150,AG028,Heritage Cart,E-Commerce & D2C,Lucknow,2025-09-10,64199.0,Active
+CL0151,AG015,Sai Bazaar,E-Commerce & D2C,Varanasi,2026-06-22,47157.0,Active
+CL0152,AG012,Metro Ornaments,Jewellery,Lucknow,2024-06-30,62962.0,Active
+CL0153,AG036,United Travels,Travel & Tourism,Unnao,2025-01-10,43075.0,Inactive
+CL0154,AG016,Trust Autos,Automobile Dealers,Lucknow,2024-06-16,78874.0,Active
+CL0155,AG025,Elite Fashions,Fashion & Apparel,Lucknow,2024-05-28,16949.0,Active
+CL0156,AG009,City Traders,Manufacturing / B2B,Prayagraj,2025-04-29,65744.0,Inactive
+CL0157,AG020,Sai Travels,Travel & Tourism,Barabanki,2024-09-24,8180.0,Inactive
+CL0158,AG024,Prime Legal Associates,Legal Services,Lucknow,2025-03-03,29163.0,Active
+CL0159,AG029,Om Dhaba,Restaurants & Cafes,Lucknow,2025-03-30,22135.0,Active
+CL0160,AG024,Elite Fintech,Fintech & Local Finance,Lucknow,2025-09-07,49079.0,Active
+CL0161,AG017,Green Designs,Home Services & Interiors,Rae Bareli,2026-06-20,54721.0,Active
+CL0162,AG044,Awadh Ornaments,Jewellery,Rae Bareli,2026-03-27,72392.0,Active
+CL0163,AG024,Ganga Fashions,Fashion & Apparel,Lucknow,2025-02-05,9623.0,Inactive
+CL0164,AG037,Shree Institute,Education & Coaching,Lucknow,2024-12-21,22530.0,Inactive
+CL0165,AG034,Comfort Restaurant,Restaurants & Cafes,Rae Bareli,2026-01-17,11239.0,Active
+CL0166,AG026,Green Furnishings,Home Services & Interiors,Unnao,2024-06-26,50185.0,Active
+CL0167,AG040,Radhe & Co Law,Legal Services,Kanpur,2025-06-28,27199.0,Inactive
+CL0168,AG006,Care Travels,Travel & Tourism,Rae Bareli,2025-03-17,38612.0,Inactive
+CL0169,AG042,Heritage Wellness Centre,Healthcare & Clinics,Lucknow,2024-08-17,50116.0,Active
+CL0170,AG039,Heritage Investments,Fintech & Local Finance,Lucknow,2025-09-03,81409.0,Active
+CL0171,AG023,Grand Institute,Education & Coaching,Lucknow,2024-12-17,15342.0,Inactive
+CL0172,AG034,Awadh Capital,Fintech & Local Finance,Prayagraj,2024-08-20,31226.0,Active
+CL0173,AG998,Krishna Boutique,Fashion & Apparel,Barabanki,2025-10-05,24599.0,Active
+CL0174,AG013,Golden Gems,Jewellery,Sultanpur,2024-08-10,36994.0,Inactive
+CL0175,AG036,Shree Capital,Fintech & Local Finance,Amethi,2025-10-23,79766.0,Inactive
+CL0176,AG012,Modern Jewellers,Jewellery,Amethi,2024-07-30,25155.0,Inactive
+CL0177,AG015,Shree Yatra,Travel & Tourism,Unnao,2025-03-27,23604.0,Inactive
+CL0178,AG024,Nawab Home Solutions,Home Services & Interiors,Lucknow,2026-02-19,19118.0,Active
+CL0179,AG038,Shree Fitness Studio,Fitness & Wellness,Lucknow,2024-09-27,12420.0,Active
+CL0180,AG018,Metro Celebrations,Wedding & Events,Lucknow,2026-01-14,16985.0,Active
+CL0181,AG998,Radhe Kitchen,Restaurants & Cafes,Rae Bareli,2025-12-05,10864.0,Active
+CL0182,AG002,Lucknow Traders,Manufacturing / B2B,Lucknow,2026-05-13,57327.0,Active
+CL0183,AG006,Care Jewellers,Jewellery,Ayodhya,2024-08-05,41653.0,Active
+CL0184,AG003,Om Decor,Home Services & Interiors,Kanpur,2025-11-29,28458.0,Active
+CL0185,AG004,City Hospital,Healthcare & Clinics,Rae Bareli,2026-06-12,32929.0,Active
+CL0186,AG040,Awadh Institute,Education & Coaching,Lucknow,2026-01-10,54463.0,Active
+CL0187,AG038,City Decor,Home Services & Interiors,Lucknow,2024-08-22,48505.0,Active
+CL0188,AG037,Sai Wellness Centre,Healthcare & Clinics,Lucknow,2026-03-03,35374.0,Active
+CL0189,AG003,Star Wellness,Fitness & Wellness,Barabanki,2024-12-06,27836.0,Active
+CL0190,AG004,Shree Yatra,Travel & Tourism,Kanpur,2025-08-10,39019.0,Inactive
+CL0191,AG013,Care Finance,Fintech & Local Finance,Prayagraj,2025-05-21,75232.0,Active
+CL0192,AG026,Grand Traders,Manufacturing / B2B,Lucknow,2025-06-20,25069.0,Active
+CL0193,AG016,Nawab Furnishings,Home Services & Interiors,Lucknow,2025-06-10,54200.0,Active
+CL0194,AG022,Lucknow Realty,Real Estate,Lucknow,2024-04-06,40657.0,Active
+CL0195,AG008,Lucknow Boutique,Fashion & Apparel,Prayagraj,2025-05-31,25297.0,Active
+CL0196,AG033,Star Wheels,Automobile Dealers,Prayagraj,2026-06-12,65682.0,Active
+CL0197,AG015,Lucknow Legal Associates,Legal Services,Lucknow,2025-03-29,22924.0,Active
+CL0198,AG003,Trust Trends,E-Commerce & D2C,Unnao,2024-11-08,35666.0,Active
+CL0199,AG034,United Motors,Automobile Dealers,Lucknow,2026-08-02,84634.0,Active
+CL0200,AG041,National Apparel,Fashion & Apparel,Barabanki,2024-06-05,11004.0,Active
+CL0201,AG001,Prime Clinic,Healthcare & Clinics,Lucknow,2025-05-11,20785.0,Active
+CL0202,AG020,Urban Institute,Education & Coaching,Lucknow,2025-06-04,69579.0,Active
+CL0203,AG038,Awadh Couture,Fashion & Apparel,Ayodhya,2025-05-04,38652.0,Active
+CL0204,AG032,Metro Academy,Education & Coaching,Lucknow,2026-05-30,15218.0,Inactive
+CL0205,AG039,Royal Institute,Education & Coaching,Lucknow,2025-03-16,55274.0,Active
+CL0206,AG019,Grand Fashions,Fashion & Apparel,Rae Bareli,2026-07-14,48719.0,Active
+CL0207,AG017,Golden Trends,E-Commerce & D2C,Lucknow,2024-05-07,23311.0,Active
+CL0208,AG032,National Designs,Home Services & Interiors,Varanasi,2025-12-15,27460.0,Active
+CL0209,AG007,Radhe Infra,Real Estate,Barabanki,2025-08-13,69481.0,Active
+CL0210,AG011,Urban Cafe,Restaurants & Cafes,Barabanki,2024-10-07,21268.5,Inactive
+CL0211,AG028,Heritage Gems,Jewellery,Lucknow,2024-09-26,28036.0,Inactive
+CL0212,AG031,Heritage Gym,Fitness & Wellness,Rae Bareli,2025-12-03,11907.0,Active
+CL0213,AG006,Urban Occasions,Wedding & Events,Lucknow,2025-09-22,17639.0,Active
+CL0214,AG023,City & Co Law,Legal Services,Lucknow,2025-08-29,22930.0,Inactive
+CL0215,AG017,Metro Apparel,Fashion & Apparel,Lucknow,2024-04-23,27480.0,Active
+CL0216,AG023,Golden Gems,Jewellery,Unnao,2025-08-18,30469.0,Active
+CL0217,AG044,Lucknow Jewels,Jewellery,Barabanki,2026-07-21,48593.0,Active
+CL0218,AG004,Om Law Chambers,Legal Services,Prayagraj,2024-03-25,15112.0,Active
+CL0219,AG045,Shree Health Club,Fitness & Wellness,Rae Bareli,2025-04-26,33066.0,Active
+CL0220,AG021,Nawab Yoga Centre,Fitness & Wellness,Rae Bareli,2025-05-19,13199.0,Active
+CL0221,AG035,Care Industries,Manufacturing / B2B,Rae Bareli,2026-05-08,83070.0,Inactive
+CL0222,AG020,Golden Wheels,Automobile Dealers,Rae Bareli,2024-11-13,57719.0,Active
+CL0223,AG014,City Furnishings,Home Services & Interiors,Rae Bareli,2025-05-02,45727.0,Active
+CL0224,AG035,Metro Wellness,Fitness & Wellness,Lucknow,2025-12-01,27637.0,Active
+CL0225,AG031,Sunrise Foods,Restaurants & Cafes,Lucknow,2024-05-02,12980.0,Active
+CL0226,AG007,Star Couture,Fashion & Apparel,Unnao,2026-02-12,33257.0,Active
+CL0227,AG998,Comfort & Co Law,Legal Services,Rae Bareli,2026-03-03,22927.0,Active
+CL0228,AG034,Grand Apparel,Fashion & Apparel,Unnao,2025-12-03,12979.0,Active
+CL0229,AG018,City Cart,E-Commerce & D2C,Lucknow,2025-10-01,36651.0,Active
+CL0230,AG042,Royal Decor,Home Services & Interiors,Rae Bareli,2025-12-27,20955.0,Active
+CL0231,AG029,Sunrise Foods,Restaurants & Cafes,Lucknow,2026-01-26,9051.0,Active
+CL0232,AG016,Elite Law Chambers,Legal Services,Lucknow,2026-05-13,8873.0,Active
+CL0233,AG001,Sunrise Law Chambers,Legal Services,Lucknow,2025-03-21,42920.0,Active
+CL0234,AG031,Green Cafe,Restaurants & Cafes,Lucknow,2025-04-15,20402.0,Active
+CL0235,AG010,Elite Autos,Automobile Dealers,Sultanpur,2025-09-22,48143.0,Inactive
+CL0236,AG035,Om Health Club,Fitness & Wellness,Lucknow,2024-08-26,37618.0,Active
+CL0237,AG024,Royal Industries,Manufacturing / B2B,Kanpur,2026-04-02,31851.0,Active
+CL0238,AG022,City Store,E-Commerce & D2C,Rae Bareli,2026-01-17,49244.0,Active
+CL0239,AG008,Nawab Decor,Home Services & Interiors,Lucknow,2025-09-16,47793.0,Active
+CL0240,AG033,Radhe Celebrations,Wedding & Events,Rae Bareli,2024-11-30,40865.0,Active
+CL0241,AG008,Classic Occasions,Wedding & Events,Lucknow,2025-01-09,28758.0,Active
+CL0242,AG019,City Infra,Real Estate,Amethi,2025-03-27,49303.0,Active
+CL0243,AG038,Krishna Restaurant,Restaurants & Cafes,Ayodhya,2025-10-14,6053.0,Active
+CL0244,AG042,Elite Trip Planners,Travel & Tourism,Prayagraj,2026-01-23,11572.0,Active
+CL0245,AG045,United Store,E-Commerce & D2C,Rae Bareli,2025-10-22,28765.0,Active
+CL0246,AG044,Sai Dhaba,Restaurants & Cafes,Lucknow,2026-06-06,28598.0,Inactive
+CL0247,AG026,Trust Foods,Restaurants & Cafes,Sultanpur,2026-07-03,24177.0,Inactive
+CL0248,AG010,Comfort Clinic,Healthcare & Clinics,Lucknow,2025-11-20,30540.0,Active
+CL0249,AG038,Golden Clinic,Healthcare & Clinics,Lucknow,2025-01-30,48711.0,Inactive
+CL0250,AG037,Green Threads,Fashion & Apparel,Lucknow,2025-08-19,14752.0,Active
+CL0251,AG045,Awadh Legal Consultants,Legal Services,Ayodhya,2025-03-19,15804.0,Inactive
+CL0252,AG030,Unknown Business,Real Estate,Kanpur,2025-09-14,62309.0,Inactive
+CL0253,AG007,City Kitchen,Restaurants & Cafes,Prayagraj,2026-02-22,32521.0,Active
+CL0254,AG023,Comfort Infra,Real Estate,Ayodhya,2025-01-29,83352.0,Active
+CL0255,AG021,Golden Designs,Home Services & Interiors,Lucknow,2025-05-29,47996.0,Inactive
+CL0256,AG038,Ganga Cart,E-Commerce & D2C,Sultanpur,2024-04-19,48200.5,Inactive
+CL0257,AG018,Awadh Corp,Manufacturing / B2B,Rae Bareli,2025-12-18,78628.0,Inactive
+CL0258,AG015,Modern Designs,Home Services & Interiors,Kanpur,2025-05-15,11406.0,Active
+CL0259,AG004,Elite Industries,Manufacturing / B2B,Lucknow,2025-04-18,32074.0,Active
+CL0260,AG038,Ganga Weddings,Wedding & Events,Amethi,2025-06-21,35197.0,Inactive
+CL0261,AG034,Classic Jewellers,Jewellery,Lucknow,2024-09-15,18284.0,Active
+CL0262,AG002,Trust Tours,Travel & Tourism,Lucknow,2025-08-18,44047.0,Active
+CL0263,AG020,Heritage Autos,Automobile Dealers,Rae Bareli,2025-12-25,80719.0,Active
+CL0264,AG022,Heritage Wellness,Fitness & Wellness,Lucknow,2025-01-11,24409.0,Active
+CL0265,AG022,Ganga Wellness,Fitness & Wellness,Lucknow,2024-07-03,16397.0,Active
+CL0266,AG042,National Designs,Home Services & Interiors,Kanpur,2025-02-13,12651.0,Active
+CL0267,AG007,Royal Investments,Fintech & Local Finance,Lucknow,2024-08-31,68202.0,Active
+CL0268,AG014,Care Trends,E-Commerce & D2C,Sultanpur,2025-02-02,60702.0,Active
+CL0269,AG009,City Yatra,Travel & Tourism,Lucknow,2025-09-12,39918.0,Inactive
+CL0270,AG011,Elite Finance,Fintech & Local Finance,Varanasi,2024-06-17,68202.0,Active
+CL0271,AG041,Sai Legal Consultants,Legal Services,Rae Bareli,2025-12-27,12746.0,Active
+CL0272,AG043,Radhe Dhaba,Restaurants & Cafes,Kanpur,2024-09-23,21268.5,Active
+CL0273,AG003,United Industries,Manufacturing / B2B,Kanpur,2026-05-06,73562.0,Inactive
+CL0274,AG029,Heritage Autos,Automobile Dealers,Rae Bareli,2025-12-14,31131.0,Active
+CL0275,AG011,Elite Hospital,Healthcare & Clinics,Unnao,2024-11-04,56802.0,Active
+CL0276,AG009,Urban Clinic,Healthcare & Clinics,Lucknow,2025-07-18,34151.5,Active
+CL0277,AG014,Grand Furnishings,Home Services & Interiors,Lucknow,2024-06-15,42233.0,Active
+CL0278,AG009,Trust Foods,Restaurants & Cafes,Varanasi,2024-06-05,34256.0,Active
+CL0279,AG023,Shree Tutorials,Education & Coaching,Ayodhya,2026-06-29,36473.0,Inactive
+CL0280,AG045,Golden Zari,Jewellery,Lucknow,2026-02-14,18686.0,Active
+CL0281,AG027,Care Celebrations,Wedding & Events,Rae Bareli,2024-07-23,53587.0,Active
+CL0282,AG033,City Kitchen,Restaurants & Cafes,Barabanki,2024-11-13,10619.0,Inactive
+CL0283,AG023,Nawab Gym,Fitness & Wellness,Prayagraj,2024-08-30,23933.0,Active
+CL0284,AG001,National Manufacturing,Manufacturing / B2B,Amethi,2025-02-20,88840.0,Inactive
+CL0285,AG004,Heritage Autos,Automobile Dealers,Rae Bareli,2024-11-21,72133.0,Active
+CL0286,AG013,Elite Yoga Centre,Fitness & Wellness,Kanpur,2024-12-23,7574.0,Active
+CL0287,AG011,Urban Jewels,Jewellery,Lucknow,2025-06-18,68332.0,Inactive
+CL0288,AG038,Unknown Business,Healthcare & Clinics,Unnao,2024-08-23,34151.5,Active
+CL0289,AG038,Metro Infra,Real Estate,Lucknow,2026-04-25,96188.0,Active
+CL0290,AG039,City Fitness Studio,Fitness & Wellness,Prayagraj,2025-10-12,27112.0,Inactive
+CL0291,AG029,Metro Fitness Studio,Fitness & Wellness,Lucknow,2026-01-08,15787.0,Active
+CL0292,AG026,Lucknow Corp,Manufacturing / B2B,Rae Bareli,2024-08-06,46770.0,Active
+CL0293,AG030,National Classes,Education & Coaching,Varanasi,2025-11-23,17070.0,Active
+CL0294,AG019,Trust Kitchen,Restaurants & Cafes,Rae Bareli,2026-03-15,34603.0,Active
+CL0295,AG031,Sai Builders,Real Estate,Sultanpur,2024-08-11,89382.0,Active
+CL0296,AG036,Om Builders,Real Estate,Lucknow,2025-12-31,54324.0,Active
+CL0297,AG035,Care Mart,E-Commerce & D2C,Kanpur,2025-01-18,57744.0,Active
+CL0298,AG028,Ganga Designs,Home Services & Interiors,Lucknow,2026-02-01,39601.0,Active
+CL0299,AG003,Prime Properties,Real Estate,Lucknow,2025-05-04,73001.0,Active
+CL0300,AG033,Sunrise Wellness,Fitness & Wellness,Rae Bareli,2026-02-13,23174.0,Inactive
+CL0301,AG017,Modern Gems,Jewellery,Lucknow,2024-07-17,52871.0,Active
+CL0302,AG034,Radhe Cart,E-Commerce & D2C,Lucknow,2025-02-15,87904.0,Inactive
+CL0303,AG025,Green Motors,Automobile Dealers,Kanpur,2024-11-05,47657.0,Active
+CL0304,AG040,City Traders,Manufacturing / B2B,Kanpur,2024-10-14,77409.0,Inactive
+CL0305,AG016,Star Kitchen,Restaurants & Cafes,Kanpur,2024-12-06,28606.0,Active
+CL0306,AG042,Awadh Properties,Real Estate,Lucknow,2025-02-09,89382.0,Active
+CL0307,AG039,Sunrise Infra,Real Estate,Lucknow,2024-06-30,111749.0,Inactive
+CL0308,AG015,Prime Yatra,Travel & Tourism,Lucknow,2025-11-22,41523.0,Active
+CL0309,AG022,Krishna Institute,Education & Coaching,Prayagraj,2025-07-07,24803.0,Active
+CL0310,AG024,Lucknow Celebrations,Wedding & Events,Barabanki,2026-03-09,48263.0,Active
+CL0311,AG035,Shree Boutique,Fashion & Apparel,Lucknow,2025-11-20,38933.0,Active
+CL0312,AG032,Royal Industries,Manufacturing / B2B,Kanpur,2024-07-19,36712.0,Active
+CL0313,AG039,Nawab Properties,Real Estate,Lucknow,2024-05-10,89407.0,Active
+CL0314,AG017,Grand Legal Associates,Legal Services,Lucknow,2025-03-17,17359.0,Active
+CL0315,AG023,Metro Capital,Fintech & Local Finance,Lucknow,2025-05-07,61847.0,Active
+CL0316,AG020,National Gems,Jewellery,Lucknow,2024-10-07,66788.0,Active
+CL0317,AG041,Urban Bazaar,E-Commerce & D2C,Varanasi,2026-01-27,31025.0,Active
+CL0318,AG014,Nawab Wellness,Fitness & Wellness,Sultanpur,2025-08-03,17456.0,Active
+CL0319,AG027,Green Foods,Restaurants & Cafes,Lucknow,2025-12-28,28856.0,Active
+CL0320,AG006,Care Cars,Automobile Dealers,Rae Bareli,2024-06-13,51765.0,Active
