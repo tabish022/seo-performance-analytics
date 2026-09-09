@@ -1,14 +1,14 @@
 agency_id,agency_name,area,city,founded_year,employee_count,services_offered,google_rating,website
-AG001,PixelGrowth Partners,Ashiyana,Lucknow,2016,34,"Google My Business / Local SEO, Email Marketing, Web Development, Performance Marketing, PPC, SEO",4.6,Not Available
+AG001,PixelGrowth Partners,Ashiyana,Lucknow,2016,34,"Google My Business / Local SEO, Email Marketing, Web Development, Performance Marketing, PPC, SEO",4.6,NotAvailable
 AG002,PrimeAnalytics,Hazratganj,Lucknow,2023,42,"Google My Business / Local SEO, PPC, Email Marketing, Social Media Marketing, Web Development, Online Reputation Management",4.1,www.primeanalytics.in
 AG003,NovaVentures,Faizabad Road,Lucknow,2022,61,"Google My Business / Local SEO, Online Reputation Management, Content Marketing, SEO, Social Media Marketing, Email Marketing",4.4,www.novaventures.in
 AG004,PixelTechnologies,Aliganj,Lucknow,2011,83,"Performance Marketing, Marketing Analytics & Reporting, Google My Business / Local SEO, Web Development, PPC",4.3,www.pixeltechnologies.in
 AG005,WebDigital,Faizabad Road,Lucknow,2014,61,"SEO, Social Media Marketing, PPC, Content Marketing, Online Reputation Management, Performance Marketing",4.4,www.webdigital.in
-AG006,NexusSquare,Gomti Nagar,Lucknow,2021,50,"PPC, Online Reputation Management, Performance Marketing, SEO, Email Marketing, Marketing Analytics & Reporting",3.5,Not Available
+AG006,NexusSquare,Gomti Nagar,Lucknow,2021,50,"PPC, Online Reputation Management, Performance Marketing, SEO, Email Marketing, Marketing Analytics & Reporting",3.5,NotAvailable
 AG007,ZenithGrowth Partners,Rae Bareli Road,Rae Bareli,2011,124,"Social Media Marketing, Email Marketing, SEO, PPC, Web Development",4.1,www.zenithgrowthpartners.in
 AG008,NexusDigital,Rae Bareli Road,Rae Bareli,2022,15,"PPC, Web Development, Social Media Marketing, Performance Marketing, SEO, Content Marketing",3.5,www.nexusdigital.in
 AG009,ElevateAnalytics,Rae Bareli Road,Rae Bareli,2014,47,"Social Media Marketing, Google My Business / Local SEO, SEO, Marketing Analytics & Reporting, Email Marketing",4.2,www.elevateanalytics.in
-AG010,NexusInfotech,Vibhuti Khand,Lucknow,2022,19,"Online Reputation Management, Web Development, SEO",3.9,Not Available
+AG010,NexusInfotech,Vibhuti Khand,Lucknow,2022,19,"Online Reputation Management, Web Development, SEO",3.9,NotAvailable
 AG011,DigiHive,Chinhat,Lucknow,2014,47,"PPC, Content Marketing, SEO, Email Marketing, Google My Business / Local SEO",3.6,www.digihive.in
 AG012,BrightWorks,Vijay Khand,Lucknow,2016,125,"SEO, Web Development, Email Marketing, Content Marketing",3.6,www.brightworks.in
 AG013,NexusAnalytics,Aminabad,Lucknow,2019,50,"SEO, Web Development, Online Reputation Management, Email Marketing",4.3,www.nexusanalytics.in
@@ -17,7 +17,7 @@ AG015,PixelStudio,Rajajipuram,Lucknow,2018,66,"PPC, Web Development, Online Repu
 AG016,LoopMedia,Chinhat,Lucknow,2017,92,"SEO, Google My Business / Local SEO, Social Media Marketing",4.3,www.loopmedia.in
 AG017,LoopVentures,Jankipuram,Lucknow,2021,62,"Web Development, Social Media Marketing, PPC, Email Marketing, Performance Marketing, Marketing Analytics & Reporting",4.0,www.loopventures.in
 AG018,GrowthWorks,Rajajipuram,Lucknow,2023,38,"Email Marketing, Performance Marketing, Social Media Marketing, SEO",4.3,www.growthworks.in
-AG019,DigiGrowth Partners,Gomti Nagar,Lucknow,2019,100,"PPC, Social Media Marketing, Content Marketing, Performance Marketing, Online Reputation Management, Marketing Analytics & Reporting",3.4,Not Available
+AG019,DigiGrowth Partners,Gomti Nagar,Lucknow,2019,100,"PPC, Social Media Marketing, Content Marketing, Performance Marketing, Online Reputation Management, Marketing Analytics & Reporting",3.4,NotAvailable
 AG020,ZenithInfotech,Hazratganj,Lucknow,2016,126,"Email Marketing, Online Reputation Management, SEO",4.9,www.zenithinfotech.in
 AG021,PixelSquare,Indira Nagar,Lucknow,2016,61,"Content Marketing, Online Reputation Management, PPC",3.6,www.pixelsquare.in
 AG022,NovaHive,Hazratganj,Lucknow,2016,102,"Performance Marketing, Google My Business / Local SEO, Online Reputation Management",4.7,www.novahive.in
