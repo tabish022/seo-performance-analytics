@@ -134,7 +134,7 @@ ORDER BY cc.total_campaigns DESC;
 ├── kpi_icons/                       # Icon assets used in the Power BI dashboard
 ├── dashboard/
 │   ├── bi_digital_marketing.pbix    # The Power BI file
-│   └── seo_dashboard.png            # Dashboard screenshot
+│   └── ss_seo_dashboard.png            # Dashboard screenshot
 ├── py_seo_performance_analytics.ipynb   # Full cleaning + validation notebook
 └── GrowthBridge_Ventures_report.pdf     # Written project report
 ```
@@ -148,13 +148,12 @@ It's easy to run `.dropna()` and call data "clean." The harder (and more useful)
 - Recovering `objective` from `campaign_name` instead of blindly imputing it
 - Recalculating `roas` from clean `revenue`/`spend` instead of statistically guessing at a derived field
 - Catching that a `GROUP BY` was silently fragmenting because of whitespace in a join key — *before* trusting the aggregated numbers
-- Choosing to defer orphan foreign-key cleanup to the SQL layer deliberately, not by accident
 
 That judgment — not the `pandas` syntax — is the actual point of this project.
 
 ---
 
-## 🚀 Reproduce It Yourself
+## 🚀 You can try it by Yourself
 
 1. Clone the repo
 2. Run `py_seo_performance_analytics.ipynb` top to bottom — cleans `raw_data/` and writes to `cleaned/`
@@ -163,21 +162,21 @@ That judgment — not the `pandas` syntax — is the actual point of this projec
 
 ---
 
-## 🔭 Possible Next Steps
-
-- Tidy up campaign-type labels on the dashboard (`Payperclick`, `Localseogmb`) into cleaner display names (`PPC`, `Local SEO/GMB`) via a display-name mapping table
-- Repair or clearly report on the orphan foreign-key records instead of leaving them for a future pass
-- Add a churn cohort analysis — is there a "danger window" after onboarding where most clients leave?
-- Extend to a second dashboard page for agency-level and campaign-level deep dives
-
----
-
 ## 🛠️ Tech Stack
 
-**Python** (pandas, numpy) · **MySQL** · **Power BI** · **Jupyter Notebook**
-
----
+**Python** (pandas) · **MySQL** · **Power BI** · **Jupyter Notebook**
 
 *Dataset is synthetic, generated for this portfolio project. Absolute figures are illustrative — the cleaning methodology, SQL logic, and analytical reasoning are what transfer to real-world data.*
 
-**Author:** Tabish Afzal
+---
+
+## 🙋 About Me
+
+Built by **Tabish Afzal** as a hands-on SQL project to practice the real workflow of a Data Analyst end to end: designing a star-schema database, auditing raw data for quality issues, exploring it, and writing advanced queries to turn 60K+ raw sales records into business insights.
+
+· 🔗 [LinkedIn](https://www.linkedin.com/in/tabish-afzal/) · 💼 [Portfolio](https://github.com/tabish022)
+
+---
+
+⭐ If you found this useful, consider starring the repo!
+
